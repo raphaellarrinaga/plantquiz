@@ -7,6 +7,11 @@
         </NuxtLink>
       </li>
       <li class="nav-list__item">
+        <NuxtLink to="/list" class="nav-list__link">
+          Liste
+        </NuxtLink>
+      </li>
+      <li class="nav-list__item">
         <NuxtLink to="/infos" class="nav-list__link">
           Infos
         </NuxtLink>

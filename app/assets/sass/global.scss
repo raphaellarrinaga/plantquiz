@@ -21,20 +21,13 @@ body {
   background: $page-color;
   box-sizing: border-box;
   color: $text-color;
-  // display: flex;
-  // flex-direction: column;
-  // font-family:'Nunito Sans', sans-serif;
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
   font-optical-sizing: auto;
   margin: 0;
-  // min-height: 100vh;
-  // padding: 5vw 7vw 1vw;
 }
 
-/// Header
+// Header
 .page-header {
-  // align-items: center;
-  // display: flex;
   margin: 1rem 0;
 }
 
@@ -58,7 +51,13 @@ body {
   &:hover {
     text-decoration: none;
   }
+
+  &.router-link-active {
+    text-decoration: none;
+    cursor: default;
+  }
 }
+
 
 // Plant gallery
 .toggle-names-button,
@@ -308,5 +307,13 @@ body {
 
   &:hover {
     text-decoration: underline;
+  }
+}
+
+.plants-list {
+  margin-bottom: 2rem;
+
+  li {
+    margin-bottom: .5rem;
   }
 }

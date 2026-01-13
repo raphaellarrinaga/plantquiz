@@ -1,13 +1,18 @@
 <template>
-  <div class="gallery-item">
+  <div class="gallery-item" :class="{'is-revealed': reveal}">
     <button
       @click="toggleName"
       class="gallery-item__solution-toggle button-gallery">
       <span>👀</span>
     </button>
 
-    <div class="gallery-item__infos" :class="{ 'is-invasive': item.invasive, 'is-noninvasive': !item.invasive }">
-      <h1 class="gallery-item__botanical">{{ item.botanicalName }} ({{ itemIndex + 1 }}/{{ itemsTotal }})</h1>
+    <div
+      class="gallery-item__infos"
+      :class="{
+        'is-invasive': item.invasive,
+        'is-noninvasive': !item.invasive
+        }">
+      <h1 class="gallery-item__botanical">{{ item.scientificName }} ({{ itemIndex + 1 }}/{{ itemsTotal }})</h1>
       <h2 class="gallery-item__familiar">
         {{ item.vernacularName }}
         <span v-if="item.invasive" class="gallery-item__invasive">Invasive</span>
@@ -70,7 +75,8 @@ defineProps({
   itemIndex: {
     type: Number,
     required: true
-  }
+  },
+  reveal: Boolean
 })
 
 const toggleName = (el) => {
@@ -98,25 +104,4 @@ const toggleImage = (el) => {
     }
   }
 }
-
-// export default {
-//   name: 'Plant',
-//   // data () {
-//   //   return {
-//   //     plants: [],
-//   //     allPlants: [],
-//   //     bfg: [],
-//   //     vivaces: [],
-//   //     aromatiques: [],
-//   //     bulbes: [],
-//   //     aquatiques: [],
-//   //     arbres: [],
-//   //     arbustes: [],
-//   //     caducs: [],
-//   //     solutionShown: false,
-//   //   }
-//   // },
-//   methods: {
-//   },
-// }
 </script>

@@ -1,6 +1,6 @@
 [
   {
-    "botanicalName": "Arrhenatherum elatius",
+    "scientificName": "Arrhenatherum elatius",
     "vernacularName": "Fromental",
     "family": "Poaceae",
     "exotic": false,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "botanicalName": "Anthoxanthum odoratum",
+    "scientificName": "Anthoxanthum odoratum",
     "vernacularName": "Flouve odorante",
     "family": "Poaceae",
     "exotic": false,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "botanicalName": "Trisetum flavescens",
+    "scientificName": "Trisetum flavescens",
     "vernacularName": "Avoine dorée",
     "family": "Poaceae",
     "exotic": false,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "botanicalName": "Briza media",
+    "scientificName": "Briza media",
     "vernacularName": "Amourette commune",
     "family": "Poaceae",
     "exotic": false,
@@ -68,7 +68,7 @@
     "interest": "Graminée vivace élégante aux épillets pendants, typique des prairies maigres et très appréciée en gestion extensive."
   },
   {
-    "botanicalName": "Lolium perenne",
+    "scientificName": "Lolium perenne",
     "vernacularName": "Ray-grass commun",
     "family": "Poaceae",
     "exotic": false,
@@ -82,7 +82,7 @@
     "interest": "Graminée très commune et résistante au piétinement, largement utilisée en prairies pâturées et pelouses."
   },
   {
-    "botanicalName": "Elymus repens",
+    "scientificName": "Elymus repens",
     "vernacularName": "Chiendent rampant",
     "family": "Poaceae",
     "exotic": false,
@@ -96,7 +96,7 @@
     "interest": "Graminée vivace très compétitive à rhizomes traçants, colonisant rapidement les sols perturbés et agricoles."
   },
   {
-    "botanicalName": "Phleum pratense",
+    "scientificName": "Phleum pratense",
     "vernacularName": "Fléole des prés",
     "family": "Poaceae",
     "exotic": false,
@@ -110,7 +110,7 @@
     "interest": "Graminée vivace fourragère de grande qualité, caractéristique des prairies permanentes bien gérées."
   },
   {
-    "botanicalName": "Alopecurus pratensis",
+    "scientificName": "Alopecurus pratensis",
     "vernacularName": "Vulpin des prés",
     "family": "Poaceae",
     "exotic": false,
@@ -124,7 +124,7 @@
     "interest": "Graminée vivace des prairies humides à fraîches, indicatrice de sols riches et souvent inondables."
   },
   {
-    "botanicalName": "Dactylis glomerata",
+    "scientificName": "Dactylis glomerata",
     "vernacularName": "Dactyle vulgaire",
     "family": "Poaceae",
     "exotic": false,
@@ -138,7 +138,7 @@
     "interest": "Graminée vivace robuste et productive, tolérant bien la sécheresse et largement utilisée en prairies."
   },
   {
-    "botanicalName": "Poa pratensis",
+    "scientificName": "Poa pratensis",
     "vernacularName": "Pâturin des prés",
     "family": "Poaceae",
     "exotic": false,
@@ -152,7 +152,7 @@
     "interest": "Graminée vivace à rhizomes courts, formant un gazon dense, très répandue dans les prairies et pelouses naturelles."
   },
   {
-    "botanicalName": "Phragmites australis",
+    "scientificName": "Phragmites australis",
     "vernacularName": "Roseau commun",
     "family": "Poaceae",
     "exotic": false,
@@ -166,7 +166,7 @@
     "interest": "Grande graminée des zones humides, structurante pour les roselières, jouant un rôle écologique majeur."
   },
   {
-    "botanicalName": "Allium ursinum",
+    "scientificName": "Allium ursinum",
     "vernacularName": "Ail des ours",
     "family": "Amaryllidaceae",
     "exotic": false,
@@ -180,7 +180,7 @@
     "interest": "Plante forestière printanière des sous-bois frais, comestible et très odorante, indicatrice de sols riches en humus."
   },
   {
-    "botanicalName": "Narcissus pseudonarcissus",
+    "scientificName": "Narcissus pseudonarcissus",
     "vernacularName": "Jonquille",
     "family": "Amaryllidaceae",
     "exotic": false,
@@ -194,7 +194,7 @@
     "interest": "Plante bulbeuse printanière emblématique des prairies et lisières, appréciée pour sa floraison précoce et décorative."
   },
   {
-    "botanicalName": "Galanthus nivalis",
+    "scientificName": "Galanthus nivalis",
     "vernacularName": "Perce-neige",
     "family": "Amaryllidaceae",
     "exotic": false,
@@ -208,7 +208,7 @@
     "interest": "Plante bulbeuse très précoce des sous-bois, annonçant la fin de l’hiver, tolérant le froid et les sols frais."
   },
   {
-    "botanicalName": "Angelica sylvestris",
+    "scientificName": "Angelica sylvestris",
     "vernacularName": "Angélique sauvage",
     "family": "Apiaceae",
     "exotic": false,
@@ -222,7 +222,7 @@
     "interest": "Grande plante vivace des milieux frais et humides, très mellifère, jouant un rôle important pour les insectes pollinisateurs."
   },
   {
-    "botanicalName": "Anthriscus sylvestris",
+    "scientificName": "Anthriscus sylvestris",
     "vernacularName": "Cerfeuil sauvage",
     "family": "Apiaceae",
     "exotic": false,
@@ -236,7 +236,7 @@
     "interest": "Plante commune des bords de chemins et prairies, à croissance rapide, floraison printanière abondante et nectarifère."
   },
   {
-    "botanicalName": "Heracleum sphondylium",
+    "scientificName": "Heracleum sphondylium",
     "vernacularName": "Berce commune",
     "family": "Apiaceae",
     "exotic": false,
@@ -250,7 +250,7 @@
     "interest": "Grande vivace des prairies et lisières, très attractive pour les insectes, mais pouvant être confondue avec des espèces toxiques."
   },
   {
-    "botanicalName": "Heracleum mantegazzianum",
+    "scientificName": "Heracleum mantegazzianum",
     "vernacularName": "Berce du Caucase",
     "family": "Apiaceae",
     "exotic": true,
@@ -264,7 +264,7 @@
     "interest": "Espèce exotique invasive très vigoureuse, phototoxique, colonisant rapidement les berges et représentant un risque sanitaire."
   },
   {
-    "botanicalName": "Daucus carota",
+    "scientificName": "Daucus carota",
     "vernacularName": "Carotte sauvage",
     "family": "Apiaceae",
     "exotic": false,
@@ -278,7 +278,7 @@
     "interest": "Plante bisannuelle des prairies sèches et talus, ancêtre de la carotte cultivée, très appréciée des pollinisateurs."
   },
   {
-    "botanicalName": "Vinca minor",
+    "scientificName": "Vinca minor",
     "vernacularName": "Petite pervenche",
     "family": "Apocynaceae",
     "exotic": false,
@@ -292,7 +292,7 @@
     "interest": "Vivace couvre-sol persistante des sous-bois, appréciée pour sa floraison printanière et sa bonne tolérance à l’ombre."
   },
   {
-    "botanicalName": "Arum maculatum",
+    "scientificName": "Arum maculatum",
     "vernacularName": "Gouet tacheté",
     "family": "Araceae",
     "exotic": false,
@@ -306,7 +306,7 @@
     "interest": "Plante de sous-bois frais reconnaissable à son inflorescence en spadice, toxique mais écologiquement intéressante."
   },
   {
-    "botanicalName": "Hedera helix",
+    "scientificName": "Hedera helix",
     "vernacularName": "Lierre grimpant",
     "family": "Araliaceae",
     "exotic": false,
@@ -320,7 +320,7 @@
     "interest": "Plante ligneuse persistante majeure pour la biodiversité, floraison tardive mellifère et abri pour de nombreuses espèces."
   },
   {
-    "botanicalName": "Artemisia vulgaris",
+    "scientificName": "Artemisia vulgaris",
     "vernacularName": "Armoise commune",
     "family": "Asteraceae",
     "exotic": false,
@@ -334,7 +334,7 @@
     "interest": "Vivace robuste des friches et bords de chemins, plante aromatique traditionnelle aux usages médicinaux anciens."
   },
   {
-    "botanicalName": "Achillea millefolium",
+    "scientificName": "Achillea millefolium",
     "vernacularName": "Achillée millefeuille",
     "family": "Asteraceae",
     "exotic": false,
@@ -348,7 +348,7 @@
     "interest": "Vivace très commune des prairies, résistante à la sécheresse, mellifère et largement utilisée en phytothérapie."
   },
   {
-    "botanicalName": "Arctium lappa",
+    "scientificName": "Arctium lappa",
     "vernacularName": "Grande bardane",
     "family": "Asteraceae",
     "exotic": false,
@@ -362,7 +362,7 @@
     "interest": "Grande bisannuelle des sols riches, reconnaissable à ses capitules crochus et utilisée en phytothérapie."
   },
   {
-    "botanicalName": "Centaurea cyanus",
+    "scientificName": "Centaurea cyanus",
     "vernacularName": "Bleuet des champs",
     "family": "Asteraceae",
     "exotic": false,
@@ -376,7 +376,7 @@
     "interest": "Plante annuelle emblématique des cultures céréalières, très décorative et favorable aux insectes pollinisateurs."
   },
   {
-    "botanicalName": "Cichorium intybus",
+    "scientificName": "Cichorium intybus",
     "vernacularName": "Chicorée sauvage",
     "family": "Asteraceae",
     "exotic": false,
@@ -390,7 +390,7 @@
     "interest": "Vivace des bords de routes et friches, reconnaissable à ses fleurs bleues s’ouvrant le matin."
   },
   {
-    "botanicalName": "Cirsium arvense",
+    "scientificName": "Cirsium arvense",
     "vernacularName": "Cirse des champs",
     "family": "Asteraceae",
     "exotic": false,
@@ -404,7 +404,7 @@
     "interest": "Vivace à rhizomes traçants des milieux ouverts, très mellifère mais compétitive, souvent considérée comme adventice."
   },
   {
-    "botanicalName": "Hieracium pilosella",
+    "scientificName": "Hieracium pilosella",
     "vernacularName": "Épervière piloselle",
     "family": "Asteraceae",
     "exotic": false,
@@ -418,7 +418,7 @@
     "interest": "Petite vivace stolonifère des sols secs et pauvres, indicatrice de milieux maigres et ensoleillés."
   },
   {
-    "botanicalName": "Eupatorium cannabinum",
+    "scientificName": "Eupatorium cannabinum",
     "vernacularName": "Eupatoire chanvrine",
     "family": "Asteraceae",
     "exotic": false,
@@ -432,7 +432,7 @@
     "interest": "Grande vivace des milieux humides, très attractive pour les pollinisateurs en fin d’été."
   },
   {
-    "botanicalName": "Leucanthemum vulgare",
+    "scientificName": "Leucanthemum vulgare",
     "vernacularName": "Grande marguerite",
     "family": "Asteraceae",
     "exotic": false,
@@ -446,7 +446,7 @@
     "interest": "Vivace emblématique des prairies, très décorative, résistante et favorable à la biodiversité."
   },
   {
-    "botanicalName": "Sonchus asper",
+    "scientificName": "Sonchus asper",
     "vernacularName": "Laiteron rude",
     "family": "Asteraceae",
     "exotic": false,
@@ -460,7 +460,7 @@
     "interest": "Plante annuelle des sols riches et perturbés, floraison prolongée et source de nectar."
   },
   {
-    "botanicalName": "Bellis perennis",
+    "scientificName": "Bellis perennis",
     "vernacularName": "Pâquerette",
     "family": "Asteraceae",
     "exotic": false,
@@ -474,7 +474,7 @@
     "interest": "Petite vivace très commune des pelouses, floraison longue et grande tolérance au piétinement."
   },
   {
-    "botanicalName": "Tussilago farfara",
+    "scientificName": "Tussilago farfara",
     "vernacularName": "Tussilage",
     "family": "Asteraceae",
     "exotic": false,
@@ -488,7 +488,7 @@
     "interest": "Vivace pionnière à floraison très précoce, colonisant les sols nus et instables."
   },
   {
-    "botanicalName": "Taraxacum sp.",
+    "scientificName": "Taraxacum sp.",
     "vernacularName": "Pissenlit",
     "family": "Asteraceae",
     "exotic": false,
@@ -502,7 +502,7 @@
     "interest": "Vivace très commune aux usages alimentaires et médicinaux, ressource importante pour les pollinisateurs."
   },
   {
-    "botanicalName": "Tragopogon pratensis",
+    "scientificName": "Tragopogon pratensis",
     "vernacularName": "Salsifis des prés",
     "family": "Asteraceae",
     "exotic": false,
@@ -516,7 +516,7 @@
     "interest": "Bisannuelle des prairies, reconnaissable à ses capitules s’ouvrant le matin et à ses fruits plumeux."
   },
   {
-    "botanicalName": "Senecio vulgaris",
+    "scientificName": "Senecio vulgaris",
     "vernacularName": "Séneçon commun",
     "family": "Asteraceae",
     "exotic": false,
@@ -530,7 +530,7 @@
     "interest": "Plante annuelle très commune des sols perturbés, floraison presque continue mais toxique pour le bétail."
   },
   {
-    "botanicalName": "Senecio jacobaea",
+    "scientificName": "Senecio jacobaea",
     "vernacularName": "Séneçon jacobée",
     "family": "Asteraceae",
     "exotic": false,
@@ -544,7 +544,7 @@
     "interest": "Bisannuelle des prairies et friches, toxique pour le bétail mais importante pour certains insectes spécialisés."
   },
   {
-    "botanicalName": "Tanacetum vulgare",
+    "scientificName": "Tanacetum vulgare",
     "vernacularName": "Tanaisie commune",
     "family": "Asteraceae",
     "exotic": false,
@@ -558,7 +558,7 @@
     "interest": "Vivace aromatique robuste des bords de chemins, traditionnellement utilisée comme plante répulsive."
   },
   {
-    "botanicalName": "Matricaria discoidea",
+    "scientificName": "Matricaria discoidea",
     "vernacularName": "Matricaire discoïde",
     "family": "Asteraceae",
     "exotic": false,
@@ -572,7 +572,7 @@
     "interest": "Petite annuelle pionnière des sols piétinés, reconnaissable à ses capitules sans ligules."
   },
   {
-    "botanicalName": "Impatiens glandulifera",
+    "scientificName": "Impatiens glandulifera",
     "vernacularName": "Balsamine de l’Himalaya",
     "family": "Balsaminaceae",
     "exotic": true,
@@ -586,7 +586,7 @@
     "interest": "Espèce exotique invasive des milieux humides, à croissance rapide, concurrençant fortement la flore locale."
   },
   {
-    "botanicalName": "Myosotis sylvatica",
+    "scientificName": "Myosotis sylvatica",
     "vernacularName": "Myosotis des bois",
     "family": "Boraginaceae",
     "exotic": false,
@@ -600,7 +600,7 @@
     "interest": "Plante délicate des milieux frais et ombragés, appréciée pour sa floraison printanière bleu vif."
   },
   {
-    "botanicalName": "Pulmonaria officinalis",
+    "scientificName": "Pulmonaria officinalis",
     "vernacularName": "Pulmonaire officinale",
     "family": "Boraginaceae",
     "exotic": false,
@@ -614,7 +614,7 @@
     "interest": "Vivace de sous-bois appréciée pour sa floraison changeante et son feuillage tacheté décoratif."
   },
   {
-    "botanicalName": "Borago officinalis",
+    "scientificName": "Borago officinalis",
     "vernacularName": "Bourrache officinale",
     "family": "Boraginaceae",
     "exotic": false,
@@ -628,7 +628,7 @@
     "interest": "Plante annuelle mellifère très attractive pour les pollinisateurs, utilisée traditionnellement en cuisine."
   },
   {
-    "botanicalName": "Alliaria petiolata",
+    "scientificName": "Alliaria petiolata",
     "vernacularName": "Alliaire officinale",
     "family": "Brassicaceae",
     "exotic": false,
@@ -642,7 +642,7 @@
     "interest": "Bisannuelle des sous-bois clairs, odeur d’ail caractéristique, comestible et très commune."
   },
   {
-    "botanicalName": "Capsella bursa-pastoris",
+    "scientificName": "Capsella bursa-pastoris",
     "vernacularName": "Capselle bourse-à-pasteur",
     "family": "Brassicaceae",
     "exotic": false,
@@ -656,7 +656,7 @@
     "interest": "Plante annuelle très répandue, floraison quasi continue et forte capacité d’adaptation aux sols perturbés."
   },
   {
-    "botanicalName": "Cardamine pratensis",
+    "scientificName": "Cardamine pratensis",
     "vernacularName": "Cardamine des prés",
     "family": "Brassicaceae",
     "exotic": false,
@@ -670,7 +670,7 @@
     "interest": "Vivace des prairies humides, floraison printanière délicate et indicatrice de sols frais."
   },
   {
-    "botanicalName": "Sinapis arvensis",
+    "scientificName": "Sinapis arvensis",
     "vernacularName": "Moutarde des champs",
     "family": "Brassicaceae",
     "exotic": false,
