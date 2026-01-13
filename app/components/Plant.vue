@@ -8,7 +8,10 @@
 
     <div class="gallery-item__infos" :class="{ 'is-invasive': item.invasive, 'is-noninvasive': !item.invasive }">
       <h1 class="gallery-item__botanical">{{ item.botanicalName }} ({{ itemIndex + 1 }}/{{ itemsTotal }})</h1>
-      <h2 class="gallery-item__familiar">{{ item.vernacularName }}</h2>
+      <h2 class="gallery-item__familiar">
+        {{ item.vernacularName }}
+        <span v-if="item.invasive" class="gallery-item__invasive">Invasive</span>
+      </h2>
       <div class="gallery-item__metas">
         <p class="gallery-item__type">
           <span class="gallery-item__label">Type: </span>{{ item.type }}</p>

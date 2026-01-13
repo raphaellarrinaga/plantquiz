@@ -4,7 +4,7 @@
     "vernacularName": "Fromental",
     "family": "Poaceae",
     "exotic": false,
-    "invasive": true,
+    "invasive": false,
     "type": "Graminée",
     "heightCm": "80-150",
     "flowering": "5-7",
@@ -13,8 +13,8 @@
     "soil": "Neutre",
     "interest": "Graminée vivace des prairies de fauche, robuste et productive, favorable à la biodiversité et bien adaptée aux sols modérément riches.",
     "images": [
-      "/images/Arrhenatherum_elatius_01.png",
-      "/images/Arrhenatherum_elatius_02.png"
+      "/images/1_Arrhenatherum_elatius_01.png",
+      "/images/1_Arrhenatherum_elatius_02.png"
     ]
   },
   {
@@ -29,7 +29,11 @@
     "color": "Vert jaunâtre",
     "exposure": "Soleil, mi-ombre",
     "soil": "Acide",
-    "interest": "Graminée vivace des prairies maigres, reconnaissable à son parfum de foin, indicatrice de sols pauvres et peu amendés."
+    "interest": "Graminée vivace des prairies maigres, reconnaissable à son parfum de foin, indicatrice de sols pauvres et peu amendés.",
+    "images": [
+      "/images/2_Anthoxanthum_odoratum_02.jpg",
+      "/images/2_Anthoxanthum_odoratum_01.jpg"
+    ]
   },
   {
     "botanicalName": "Trisetum flavescens",
@@ -43,7 +47,11 @@
     "color": "Jaune doré",
     "exposure": "Soleil",
     "soil": "Neutre",
-    "interest": "Graminée vivace des prairies sèches à fraîches, appréciée pour sa teinte dorée et sa bonne valeur écologique."
+    "interest": "Graminée vivace des prairies sèches à fraîches, appréciée pour sa teinte dorée et sa bonne valeur écologique.",
+    "images": [
+      "/images/3_Trisetum flavescens_01.jpg",
+      "/images/3_Trisetum flavescens_02.jpg"
+    ]
   },
   {
     "botanicalName": "Briza media",
@@ -1458,5 +1466,75 @@
     "exposure": "Soleil, mi-ombre",
     "soil": "Neutre",
     "interest": "Vivace discrète des prairies fraîches, floraison printanière légère et feuilles basales en rosette."
+  },
+  {
+    "scientificName": "Scrophularia nodosa",
+    "vernacularName": "Scrofulaire noueuse",
+    "family": "Scrophulariaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "50-120",
+    "flowering": "6-9",
+    "color": "Brun pourpre",
+    "exposure": "Mi-ombre",
+    "soil": "Neutre",
+    "interest": "Vivace des milieux frais et ombragés, floraison discrète mais très attractive pour certains insectes spécialisés."
+  },
+  {
+    "scientificName": "Verbascum thapsus",
+    "vernacularName": "Molène bouillon-blanc",
+    "family": "Scrophulariaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle",
+    "heightCm": "100-200",
+    "flowering": "6-8",
+    "color": "Jaune",
+    "exposure": "Soleil",
+    "soil": "Neutre",
+    "interest": "Grande bisannuelle des sols secs et pauvres, reconnaissable à sa hampe florale jaune dressée."
+  },
+  {
+    "scientificName": "Solanum dulcamara",
+    "vernacularName": "Douce-amère",
+    "family": "Solanaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "100-300",
+    "flowering": "6-8",
+    "color": "Violet",
+    "exposure": "Mi-ombre",
+    "soil": "Neutre",
+    "interest": "Plante grimpante des milieux humides, toxique, reconnaissable à ses baies rouges décoratives."
+  },
+  {
+    "scientificName": "Urtica dioica",
+    "vernacularName": "Ortie dioïque",
+    "family": "Urticaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "50-150",
+    "flowering": "6-9",
+    "color": "Vert",
+    "exposure": "Soleil, mi-ombre",
+    "soil": "Neutre",
+    "interest": "Vivace nitrophile très commune, plante hôte essentielle pour de nombreux insectes et aux usages multiples."
+  },
+  {
+    "scientificName": "Viola odorata",
+    "vernacularName": "Violette odorante",
+    "family": "Violaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "5-15",
+    "flowering": "2-4",
+    "color": "Violet",
+    "exposure": "Mi-ombre, ombre",
+    "soil": "Neutre",
+    "interest": "Petite vivace printanière très parfumée des sous-bois et jardins, floraison précoce et discrète."
   }
 ]
