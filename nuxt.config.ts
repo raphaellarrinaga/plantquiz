@@ -42,10 +42,10 @@ export default defineNuxtConfig({
   modules: ['@vite-pwa/nuxt'],
   pwa: {
     // Test in dev mode
-    devOptions: {
-      enabled: true,
-      type: 'module'
-    },
+    // devOptions: {
+    //   enabled: true,
+    //   type: 'module'
+    // },
     registerType: 'autoUpdate',
     manifest: {
       // Id and start_url should match. Chrome currently requires it.

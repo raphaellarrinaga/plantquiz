@@ -1,6 +1,6 @@
 <template>
   <div class="page">
-    <PwaInstall />
+
     <header class="page-header">
       <MainNavigation/>
     </header>
