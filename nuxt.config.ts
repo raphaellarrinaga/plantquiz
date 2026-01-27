@@ -40,6 +40,11 @@ export default defineNuxtConfig({
   // PWA module configuration.
   modules: ['@vite-pwa/nuxt'],
   pwa: {
+    // Test in dev mode
+    // devOptions: {
+    //   enabled: true,
+    //   type: 'module'
+    // }
     registerType: 'autoUpdate',
     manifest: {
       // Id and start_url should match. Chrome currently requires it.
@@ -80,18 +85,18 @@ export default defineNuxtConfig({
       ]
     },
     workbox: {
-      navigateFallback: '/',
+      // Testing for netlify, sometimes required to avoid conflicts with netlify routing.
+      navigateFallback: null,
+      // navigateFallback: '/',
       globPatterns: ['**/*.{js,css,html,png,svg,ico}']
     },
     client: {
       // Display install banner if supported
       installPrompt: true,
     },
-    // Test in dev mode
-    // devOptions: {
-    //   enabled: true,
-    //   type: 'module'
-    // }
+    // Forcing for Netlify
+    strategies: 'generateSW',
+    injectRegister: 'auto',
   },
 
   // Global CSS.
