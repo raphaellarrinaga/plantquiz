@@ -33,7 +33,6 @@ export default defineNuxtConfig({
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' },
-        // { rel: 'manifest', href: '/manifest.webmanifest' }
       ],
     },
   },
@@ -88,11 +87,11 @@ export default defineNuxtConfig({
       // Display install banner if supported
       installPrompt: true,
     },
-    devOptions: {
-      // Test in dev mode
-      enabled: true,
-      type: 'module'
-    }
+    // Test in dev mode
+    // devOptions: {
+    //   enabled: true,
+    //   type: 'module'
+    // }
   },
 
   // Global CSS.
