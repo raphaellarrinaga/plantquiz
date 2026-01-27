@@ -12,7 +12,7 @@
         'is-invasive': item.invasive,
         'is-noninvasive': !item.invasive
         }">
-      <h1 class="gallery-item__botanical">{{ item.scientificName }} ({{ itemIndex + 1 }}/{{ itemsTotal }})</h1>
+      <h1 class="gallery-item__botanical">{{ item.scientificName }}</h1>
       <h2 class="gallery-item__familiar">
         {{ item.vernacularName }}
         <span v-if="item.invasive" class="gallery-item__invasive">Invasive</span>
@@ -37,9 +37,11 @@
     <div class="gallery-item__front">
       <button
         @click="toggleImage"
+        title="Image suivante"
         class="gallery-item__image-toggle">
         Change image
       </button>
+      <div class="gallery-item__count">{{ itemIndex + 1 }}/{{ itemsTotal }}</div>
       <img
         v-for="(image, index) in item.images"
         class="gallery-item__image"
@@ -47,9 +49,7 @@
         :src="image"
         :key="image.id">
     </div>
-
   </div>
-
 </template>
 
 <script setup>

@@ -11,16 +11,69 @@ export default {
 
   // modules: ['@nuxtjs/google-fonts'],
 
-  // Global page headers: https://go.nuxtjs.dev/config-head
-  head: {
-    title: 'Plantquiz',
-    htmlAttrs: {
-      lang: 'fr'
+  // Global page headers: https://nuxt.com/docs/4.x/getting-started/seo-meta
+  app: {
+    head: {
+      title: 'Plantquiz',
+      meta: [
+        { charset: 'utf-8' },
+        { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+        { hid: 'description', name: 'description', content: 'Application de reconnaissance de plantes sauvages.' },
+        { name: 'format-detection', content: 'telephone=no' },
+        // Open Graph / Facebook
+        { property: 'og:type', content: 'website' },
+        { property: 'og:title', content: 'Mon App Nuxt' },
+        { property: 'og:description', content: 'Application de reconnaissance de plantes sauvages.' },
+        { property: 'og:image', content: 'https://plantqz.netlify.app/cgn-og-cover.png' },
+      ],
+      htmlAttrs: {
+        lang: 'fr',
+      },
+      link: [
+        { rel: 'icon', type: 'image/x-icon', href: '/icons/favicon.ico' },
+        { rel: 'apple-touch-icon', href: '/icons/apple-touch-icon.png' }
+      ],
     },
-    meta: [
-      { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-    ]
+  },
+
+// 3. PWA module configuration.
+  pwa: {
+    registerType: 'autoUpdate',
+    manifest: {
+      name: 'Plant quiz',
+      short_name: 'Plantquiz',
+      description: 'Application de reconnaissance de plantes sauvages.',
+      theme_color: '#541E76',
+      background_color: '#ffffff',
+      icons: [
+        {
+          src: '/icons/icon-192x192.png',
+          sizes: '192x192',
+          type: 'image/png'
+        },
+        {
+          src: '/icons/icon-512x512.png',
+          sizes: '512x512',
+          type: 'image/png'
+        },
+        {
+          src: '/icons/icon-512x512.png',
+          sizes: '512x512',
+          type: 'image/png',
+          purpose: 'any maskable'
+        }
+      ]
+    },
+    workbox: {
+      navigateFallback: '/',
+      globPatterns: ['**/*.{js,css,html,png,svg,ico}']
+    },
+    client: {
+      installPrompt: true, // Affiche une bannière d'installation si supporté
+    },
+    devOptions: {
+      enabled: true // Permet de tester la PWA en mode développement
+    }
   },
 
   // Global CSS.

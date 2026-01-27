@@ -8,8 +8,15 @@
     <ul v-if="plants.length" class="plants-list">
       <li
         v-for="(item, index) in plants"
+        :class="{
+        'is-invasive': item.invasive,
+        'is-noninvasive': !item.invasive
+        }"
+        class="plant-list__item"
         :key="item.id">
-        {{ index + 1 }}/{{ plants.length }}. {{ item.scientificName }} — {{ item.vernacularName }}
+        <span class="plant-list__item-count">{{ index + 1 }}</span>
+        <span class="plant-list__item-scientific-name">{{ item.scientificName }}</span>
+        <span class="plant-list__item-vernacular-name">{{ item.vernacularName }}</span>
       </li>
     </ul>
 

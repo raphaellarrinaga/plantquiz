@@ -49,8 +49,8 @@
     "soil": "Neutre",
     "interest": "Graminée vivace des prairies sèches à fraîches, appréciée pour sa teinte dorée et sa bonne valeur écologique.",
     "images": [
-      "/images/3_Trisetum flavescens_01.jpg",
-      "/images/3_Trisetum flavescens_02.jpg"
+      "/images/3_Trisetum_flavescens_01.jpg",
+      "/images/3_Trisetum_flavescens_02.jpg"
     ]
   },
   {
@@ -65,7 +65,11 @@
     "color": "Vert",
     "exposure": "Soleil",
     "soil": "Neutre",
-    "interest": "Graminée vivace élégante aux épillets pendants, typique des prairies maigres et très appréciée en gestion extensive."
+    "interest": "Graminée vivace élégante aux épillets pendants, typique des prairies maigres et très appréciée en gestion extensive.",
+    "images": [
+      "/images/4_Briza_media_01.jpg",
+      "/images/4_Briza_media_02.jpg"
+    ]
   },
   {
     "scientificName": "Lolium perenne",
@@ -79,7 +83,11 @@
     "color": "Vert",
     "exposure": "Soleil",
     "soil": "Neutre",
-    "interest": "Graminée très commune et résistante au piétinement, largement utilisée en prairies pâturées et pelouses."
+    "interest": "Graminée très commune et résistante au piétinement, largement utilisée en prairies pâturées et pelouses.",
+    "images": [
+      "/images/5_lolium_perenne_01.jpg",
+      "/images/5_lolium_perenne_02.jpg"
+    ]
   },
   {
     "scientificName": "Elymus repens",
@@ -93,7 +101,11 @@
     "color": "Vert",
     "exposure": "Soleil, mi-ombre",
     "soil": "Neutre",
-    "interest": "Graminée vivace très compétitive à rhizomes traçants, colonisant rapidement les sols perturbés et agricoles."
+    "interest": "Graminée vivace très compétitive à rhizomes traçants, colonisant rapidement les sols perturbés et agricoles.",
+    "images": [
+      "/images/6_Elymus_repens_01.jpg",
+      "/images/6_Elymus_repens_02.jpg"
+    ]
   },
   {
     "scientificName": "Phleum pratense",
@@ -107,7 +119,11 @@
     "color": "Vert",
     "exposure": "Soleil",
     "soil": "Neutre",
-    "interest": "Graminée vivace fourragère de grande qualité, caractéristique des prairies permanentes bien gérées."
+    "interest": "Graminée vivace fourragère de grande qualité, caractéristique des prairies permanentes bien gérées.",
+    "images": [
+      "/images/7_Phleum_pratense_01.jpg",
+      "/images/7_Phleum_pratense_02.jpg"
+    ]
   },
   {
     "scientificName": "Alopecurus pratensis",
@@ -121,7 +137,11 @@
     "color": "Vert",
     "exposure": "Soleil",
     "soil": "Neutre",
-    "interest": "Graminée vivace des prairies humides à fraîches, indicatrice de sols riches et souvent inondables."
+    "interest": "Graminée vivace des prairies humides à fraîches, indicatrice de sols riches et souvent inondables.",
+    "images": [
+      "/images/8_Alopecurus_pratensis_01.jpg",
+      "/images/8_Alopecurus_pratensis_02.jpg"
+    ]
   },
   {
     "scientificName": "Dactylis glomerata",
@@ -135,7 +155,11 @@
     "color": "Vert",
     "exposure": "Soleil, mi-ombre",
     "soil": "Neutre",
-    "interest": "Graminée vivace robuste et productive, tolérant bien la sécheresse et largement utilisée en prairies."
+    "interest": "Graminée vivace robuste et productive, tolérant bien la sécheresse et largement utilisée en prairies.",
+    "images": [
+      "/images/9_Dactylis_glomerata_01.jpg",
+      "/images/9_Dactylis_glomerata_02.jpg"
+    ]
   },
   {
     "scientificName": "Poa pratensis",
@@ -149,7 +173,11 @@
     "color": "Vert",
     "exposure": "Soleil, mi-ombre",
     "soil": "Neutre",
-    "interest": "Graminée vivace à rhizomes courts, formant un gazon dense, très répandue dans les prairies et pelouses naturelles."
+    "interest": "Graminée vivace à rhizomes courts, formant un gazon dense, très répandue dans les prairies et pelouses naturelles.",
+    "images": [
+      "/images/10_Poa_pratensis_01.jpg",
+      "/images/10_Poa_pratensis_02.jpg"
+    ]
   },
   {
     "scientificName": "Phragmites australis",
@@ -177,7 +205,11 @@
     "color": "Blanc",
     "exposure": "Mi-ombre, ombre",
     "soil": "Neutre",
-    "interest": "Plante forestière printanière des sous-bois frais, comestible et très odorante, indicatrice de sols riches en humus."
+    "interest": "Plante forestière printanière des sous-bois frais, comestible et très odorante, indicatrice de sols riches en humus.",
+    "images": [
+      "/images/12_Allium_ursinum_01.jpg",
+      "/images/12_Allium_ursinum_02.jpg"
+    ]
   },
   {
     "scientificName": "Narcissus pseudonarcissus",
