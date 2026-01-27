@@ -1,9 +1,9 @@
 <template>
   <div class="page">
+    <PwaInstall />
     <header class="page-header">
       <MainNavigation/>
     </header>
-
 
     <section v-if="plants && plants.length > 0">
       <div class="gallery">
