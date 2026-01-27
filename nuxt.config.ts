@@ -1,6 +1,8 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-export default {
-  compatibilityDate: '2025-07-15',
+import { defineNuxtConfig } from 'nuxt/config'
+
+export default defineNuxtConfig({
+  compatibilityDate: '2026-01-27',
   devtools: { enabled: false },
 
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
@@ -18,9 +20,8 @@ export default {
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { hid: 'description', name: 'description', content: 'Application de reconnaissance de plantes sauvages.' },
+        { hid: 'description', name: 'description', content: 'Application de reconnaissance de plantes indigènes.' },
         { name: 'format-detection', content: 'telephone=no' },
-        // Open Graph / Facebook
         { property: 'og:type', content: 'website' },
         { property: 'og:title', content: 'Mon App Nuxt' },
         { property: 'og:description', content: 'Application de reconnaissance de plantes sauvages.' },
@@ -30,16 +31,21 @@ export default {
         lang: 'fr',
       },
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: '/icons/favicon.ico' },
-        { rel: 'apple-touch-icon', href: '/icons/apple-touch-icon.png' }
+        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+        { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' },
+        // { rel: 'manifest', href: '/manifest.webmanifest' }
       ],
     },
   },
 
-// 3. PWA module configuration.
+  // PWA module configuration.
+  modules: ['@vite-pwa/nuxt'],
   pwa: {
     registerType: 'autoUpdate',
     manifest: {
+      // Id and start_url should match. Chrome currently requires it.
+      id: '/',
+      start_url: '/',
       name: 'Plant quiz',
       short_name: 'Plantquiz',
       description: 'Application de reconnaissance de plantes sauvages.',
@@ -47,20 +53,30 @@ export default {
       background_color: '#ffffff',
       icons: [
         {
-          src: '/icons/icon-192x192.png',
+          src: '/icon-192x192.png',
           sizes: '192x192',
           type: 'image/png'
         },
         {
-          src: '/icons/icon-512x512.png',
+          src: '/icon-512x512.png',
           sizes: '512x512',
           type: 'image/png'
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "/app_screenshot_narrow.png",
+            "sizes": "375x667",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "App mobile"
         },
         {
-          src: '/icons/icon-512x512.png',
-          sizes: '512x512',
-          type: 'image/png',
-          purpose: 'any maskable'
+          "src": "/app_screenshot.png",
+            "sizes": "640x320",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "App"
         }
       ]
     },
@@ -69,10 +85,13 @@ export default {
       globPatterns: ['**/*.{js,css,html,png,svg,ico}']
     },
     client: {
-      installPrompt: true, // Affiche une bannière d'installation si supporté
+      // Display install banner if supported
+      installPrompt: true,
     },
     devOptions: {
-      enabled: true // Permet de tester la PWA en mode développement
+      // Test in dev mode
+      enabled: true,
+      type: 'module'
     }
   },
 
@@ -99,4 +118,4 @@ export default {
     }
   },
 
-}
+})
