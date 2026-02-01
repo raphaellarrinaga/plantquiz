@@ -6,6 +6,47 @@
     </header>
 
     <section v-if="plants && plants.length > 0">
+      <div class="controls">
+        <div class="form-group">
+          <span class="form-group__label">Tri</span>
+          <select class="form-item form-item__select" v-model="selectedSort">
+            <option value="">Défaut</option>
+            <option value="scientific">Nom scientifique</option>
+            <option value="vernacular">Nom vernaculaire</option>
+            <option value="family">Famille</option>
+          </select>
+        </div>
+        <div class="form-group^">
+          <span class="form-group__label">Filtre</span>
+          <select class="form-item form-item__select" v-model="selectedFamily">
+            <option value="">Toutes les familles</option>
+            <option
+              v-for="family in families"
+              :key="family"
+              :value="family"
+            >
+              {{ family }}
+            </option>
+          </select>
+          <select class="form-item form-item__select" v-model="selectedType">
+            <option value="">Tous les types</option>
+            <option
+              v-for="type in types"
+              :key="type"
+              :value="type"
+            >
+              {{ type }}
+            </option>
+          </select>
+          <label class="form-item form-item__checkbox">
+            <input
+              type="checkbox"
+              v-model="onlyInvasive"
+            />
+            Invasives
+          </label>
+        </div>
+      </div>
       <div class="gallery">
         <button
           @click="randomize"
@@ -37,7 +78,7 @@
 
 <script setup>
 import plants from '~/assets/data/plants.json'
-import { ref } from 'vue'
+import { ref, computed, onMounted, watch } from 'vue'
 
 const isRevealed = ref(false)
 
@@ -47,11 +88,83 @@ const originalPlants = plants
 // Displayed list.
 const displayedPlants = ref([])
 
-// Default order (SSR-safe)
+// UI state
+const selectedSort = ref('')
+const selectedFamily = ref('')
+const selectedType = ref('')
+const onlyInvasive = ref(false)
+
+// Uniques families (auto)
+const families = computed(() => {
+  return [...new Set(originalPlants.map(p => p.family))]
+    .sort((a, b) => a.localeCompare(b, 'fr'))
+})
+
+// Uniques types (auto)
+const types = computed(() => {
+  return [...new Set(originalPlants.map(p => p.type))]
+    .sort((a, b) => a.localeCompare(b, 'fr'))
+})
+
+// Initialisation SSR-safe (Default order)
 onMounted(() => {
   displayedPlants.value = [...originalPlants]
 })
 
+function applyFiltersAndSort() {
+  let result = [...originalPlants]
+
+  // Filter family
+  if (selectedFamily.value) {
+    result = result.filter(
+      plant => plant.family === selectedFamily.value
+    )
+  }
+
+  // Filter type
+  if (selectedType.value) {
+    result = result.filter(
+      plant => plant.type === selectedType.value
+    )
+  }
+
+  // Filter invasives
+  if (onlyInvasive.value) {
+    result = result.filter(plant => plant.invasive === true)
+  }
+
+  // Sort alphabtically
+  if (selectedSort.value) {
+    result.sort((a, b) => {
+      let fieldA = ''
+      let fieldB = ''
+
+      switch (selectedSort.value) {
+        case 'scientific':
+          fieldA = a.scientificName
+          fieldB = b.scientificName
+          break
+        case 'vernacular':
+          fieldA = a.vernacularName
+          fieldB = b.vernacularName
+          break
+        case 'family':
+          fieldA = a.family
+          fieldB = b.family
+          break
+      }
+
+      return fieldA.localeCompare(fieldB, 'fr')
+    })
+  }
+
+  displayedPlants.value = result
+}
+
+// Watch automatique
+watch([selectedSort, selectedFamily, selectedType, onlyInvasive], applyFiltersAndSort)
+
+// Random
 function shuffleArray(items) {
   const array = [...items]
 
@@ -64,31 +177,18 @@ function shuffleArray(items) {
 }
 
 function randomize() {
+  selectedSort.value = ''
+  selectedFamily.value = ''
+  selectedType.value = ''
+  onlyInvasive.value = false
   displayedPlants.value = shuffleArray(originalPlants)
 }
 
-
-
+// UI
 const toggleNames = () => {
   let elems = document.querySelectorAll('.gallery-item');
 
   isRevealed.value = !isRevealed.value;
-
-  // console.log(elems);
-
-  // if (this.solutionShown) {
-  //   this.solutionShown = false;
-
-  //   elems.forEach(function (elem) {
-  //     elem.classList.remove('is-revealed');
-  //   });
-  // } else {
-  //   this.solutionShown = true;
-
-  //   elems.forEach(function (elem) {
-  //     elem.classList.add('is-revealed');
-  //   });
-  // }
 }
 
 </script>

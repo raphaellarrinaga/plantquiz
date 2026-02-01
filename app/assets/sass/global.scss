@@ -375,3 +375,97 @@ body {
   font-size: .9rem;
   display: block;
 }
+
+// Filter.
+
+.controls {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.form-item {
+  // margin-right: .5rem;
+  & + .form-item {
+    margin-left: .5rem
+  }
+}
+
+.form-group__label {
+  color: $text-color;
+  font-size: .7rem;
+  text-transform: uppercase;
+  margin-right: .5rem;
+  font-weight: 600;
+}
+
+.form-item__select {
+  border: 1px solid $border;
+  font-size: .83rem;
+  padding: .1rem .4rem .1rem .4rem;
+  border-radius: .2rem;
+  box-shadow: 0 1px 1px rgba(17,17,17,.06);
+}
+
+.form-item__checkbox {
+  border: 1px solid $border;
+  font-size: .83rem;
+  padding: .15rem .4rem .15rem 1.5rem;
+  position: relative;
+  border-radius: .2rem;
+  white-space: nowrap;
+  box-shadow: 0 1px 1px rgba(17,17,17,.06);
+  cursor: pointer;
+
+
+  label {
+    display: block;
+    padding: .45rem .55rem .4rem 1.8rem;
+    cursor: pointer;
+  }
+
+  input {
+    border: 1px solid $border;
+    border-radius: 2px;
+    display: block;
+    height: 14px;
+    width: 14px;
+    position: absolute;
+    left: .3rem;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+    user-select: none;
+    appearance: none;
+    -webkit-appearance: none;
+
+    display: grid;
+    place-content: center;
+
+    &::before {
+      content: "";
+      width: 0.55em;
+      height: 0.55em;
+      clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+      transform: scale(0);
+      transform-origin: bottom left;
+      transition: 120ms transform ease-in-out;
+      /* Windows High Contrast Mode */
+      background-color: rgb(237, 238, 253);
+    }
+
+
+    &:checked {
+      background: rgb(78, 87, 188);
+
+      &::before {
+        transform: scale(1);
+      }
+    }
+  }
+
+  &.is-active {
+    border-color: rgb(78, 87, 188);
+    background: rgb(237, 238, 253);
+  }
+}

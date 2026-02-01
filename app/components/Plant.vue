@@ -19,17 +19,21 @@
       </h2>
       <div class="gallery-item__metas">
         <p class="gallery-item__type">
+          <span class="gallery-item__label">Famille: </span>{{ item.family }}</p>
+        <p class="gallery-item__type">
           <span class="gallery-item__label">Type: </span>{{ item.type }}</p>
         <p class="gallery-item__height">
           <span class="gallery-item__label">Hauteur: </span>{{ item.heightCm }}cm</p>
-        <p class="gallery-item__ground">
-          <span class="gallery-item__label">Sol: </span>{{ item.soil }}</p>
         <p class="gallery-item__exposition">
           <span class="gallery-item__label">Exposition: </span>{{ item.exposure }}</p>
         <p class="gallery-item__bloom">
           <span class="gallery-item__label">Floraison: </span>{{ item.flowering }}</p>
         <p class="gallery-item__color">
-          <span class="gallery-item__label">Couleur: </span>{{ item.color }}</p>
+          <span class="gallery-item__label">Couleur (fleur): </span>{{ item.color }}</p>
+        <p class="gallery-item__ground">
+          <span class="gallery-item__label">Sol (humidité): </span>{{ item.soilMoisture }}</p>
+        <p class="gallery-item__ground">
+          <span class="gallery-item__label">Sol (Ph): </span>{{ item.soilPh }}</p>
         <p class="gallery-item__usage">
           <span class="gallery-item__label">Intérêt: </span>{{ item.interest }}</p>
       </div>
