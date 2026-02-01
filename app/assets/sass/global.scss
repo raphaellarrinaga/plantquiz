@@ -213,7 +213,14 @@ body {
 
   &:hover {
     cursor: pointer;
+
+    // @todo unzoom.
+    // @todo resize images.
+    // & ~ img {
+    //   transform: scale(1);
+    // }
   }
+
 }
 
 .gallery-item__count {
