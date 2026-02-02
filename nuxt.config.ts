@@ -23,7 +23,7 @@ export default defineNuxtConfig({
         { hid: 'description', name: 'description', content: 'Application de reconnaissance de plantes indigènes.' },
         { name: 'format-detection', content: 'telephone=no' },
         { property: 'og:type', content: 'website' },
-        { property: 'og:title', content: 'Mon App Nuxt' },
+        { property: 'og:title', content: 'Plant quiz - 180 plantes Natagora' },
         { property: 'og:description', content: 'Application de reconnaissance de plantes sauvages.' },
         { property: 'og:image', content: 'https://plantqz.netlify.app/cgn-og-cover.png' },
       ],

@@ -19,7 +19,7 @@
         <div class="form-group^">
           <span class="form-group__label">Filtre</span>
           <select class="form-item form-item__select" v-model="selectedFamily">
-            <option value="">Toutes les familles</option>
+            <option value="">Familles</option>
             <option
               v-for="family in families"
               :key="family"
@@ -29,7 +29,7 @@
             </option>
           </select>
           <select class="form-item form-item__select" v-model="selectedType">
-            <option value="">Tous les types</option>
+            <option value="">Types</option>
             <option
               v-for="type in types"
               :key="type"

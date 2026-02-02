@@ -392,9 +392,12 @@ body {
 }
 
 .form-item {
-  // margin-right: .5rem;
   & + .form-item {
-    margin-left: .5rem
+    margin-left: .25rem;
+
+    @media screen and (min-width: 460px) {
+      margin-left: .5rem;
+    }
   }
 }
 
@@ -408,22 +411,33 @@ body {
 
 .form-item__select {
   border: 1px solid $border;
-  font-size: .83rem;
-  padding: .1rem .4rem .1rem .4rem;
+  font-size: .65rem;
+  padding: .1rem .1rem;
   border-radius: .2rem;
   box-shadow: 0 1px 1px rgba(17,17,17,.06);
+  max-width: 4rem;
+
+  @media screen and (min-width: 460px) {
+    font-size: .83rem;
+    padding: .1rem .4rem .1rem .4rem;
+    max-width: 12rem;
+  }
 }
 
 .form-item__checkbox {
   border: 1px solid $border;
-  font-size: .83rem;
-  padding: .15rem .4rem .15rem 1.5rem;
+  font-size: .65rem;
+  padding: .19rem .2rem .19rem .9rem;
   position: relative;
   border-radius: .2rem;
   white-space: nowrap;
   box-shadow: 0 1px 1px rgba(17,17,17,.06);
   cursor: pointer;
 
+  @media screen and (min-width: 460px) {
+    font-size: .83rem;
+    padding: .15rem .4rem .15rem 1.5rem;
+  }
 
   label {
     display: block;
@@ -435,8 +449,8 @@ body {
     border: 1px solid $border;
     border-radius: 2px;
     display: block;
-    height: 14px;
-    width: 14px;
+    height: 10px;
+    width: 10px;
     position: absolute;
     left: .3rem;
     top: 50%;
@@ -445,22 +459,30 @@ body {
     user-select: none;
     appearance: none;
     -webkit-appearance: none;
-
     display: grid;
     place-content: center;
 
+    @media screen and (min-width: 460px) {
+      height: 14px;
+      width: 14px;
+    }
+
     &::before {
       content: "";
-      width: 0.55em;
-      height: 0.55em;
+      height: .35em;
+      width: .35em;
       clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
       transform: scale(0);
       transform-origin: bottom left;
       transition: 120ms transform ease-in-out;
       /* Windows High Contrast Mode */
       background-color: rgb(237, 238, 253);
-    }
 
+      @media screen and (min-width: 460px) {
+        height: 0.55em;
+        width: 0.55em;
+      }
+    }
 
     &:checked {
       background: rgb(78, 87, 188);
