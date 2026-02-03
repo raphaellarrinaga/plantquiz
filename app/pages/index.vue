@@ -16,10 +16,10 @@
             <option value="family">Famille</option>
           </select>
         </div>
-        <div class="form-group^">
+        <div class="form-group">
           <span class="form-group__label">Filtre</span>
           <select class="form-item form-item__select" v-model="selectedFamily">
-            <option value="">Familles</option>
+            <option value="">Famille</option>
             <option
               v-for="family in families"
               :key="family"
@@ -29,7 +29,7 @@
             </option>
           </select>
           <select class="form-item form-item__select" v-model="selectedType">
-            <option value="">Types</option>
+            <option value="">Type</option>
             <option
               v-for="type in types"
               :key="type"
@@ -38,12 +38,12 @@
               {{ type }}
             </option>
           </select>
-          <label class="form-item form-item__checkbox">
+          <label class="form-item form-item__checkbox button">
             <input
               type="checkbox"
               v-model="onlyInvasive"
             />
-            Invasives
+            Invasif
           </label>
         </div>
       </div>
@@ -58,6 +58,11 @@
           class="toggle-names-button">
           <span>👀</span>
         </button>
+        <button
+          @click="toggleImageFit"
+          class="toggle-imagefit-button">
+          {{ imageFit === 'cover' ? '🔍' : '🏞️' }}
+        </button>
         <Plant
           v-for="(plant, index) in displayedPlants"
           :key="plant.id"
@@ -65,6 +70,7 @@
           :itemIndex="index"
           :itemsTotal="plants.length"
           :reveal="isRevealed"
+          :fitMode="imageFit"
         />
       </div>
     </section>
@@ -81,6 +87,7 @@ import plants from '~/assets/data/plants.json'
 import { ref, computed, onMounted, watch } from 'vue'
 
 const isRevealed = ref(false)
+const imageFit = ref('cover')
 
 // Original source that does not change.
 const originalPlants = plants
@@ -93,6 +100,11 @@ const selectedSort = ref('')
 const selectedFamily = ref('')
 const selectedType = ref('')
 const onlyInvasive = ref(false)
+
+// Toggle image display
+const toggleImageFit = () => {
+  imageFit.value = imageFit.value === 'cover' ? 'contain' : 'cover'
+}
 
 // Uniques families (auto)
 const families = computed(() => {
