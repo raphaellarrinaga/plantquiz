@@ -388,7 +388,7 @@
     "family": "Scrophulariaceae",
     "exotic": true,
     "invasive": true,
-    "type": "Arbuste",
+    "type": "Ligneux",
     "heightCm": "200-500",
     "flowering": "7-9",
     "color": "Violet",
@@ -409,7 +409,7 @@
     "family": "Ericaceae",
     "exotic": false,
     "invasive": false,
-    "type": "Sous-arbrisseau",
+    "type": "Ligneux",
     "heightCm": "20-50",
     "flowering": "7-9",
     "color": "Rose/Violet",
@@ -999,7 +999,7 @@
     "family": "Fabaceae",
     "exotic": false,
     "invasive": false,
-    "type": "Arbuste",
+    "type": "Ligneux",
     "heightCm": "100-200",
     "flowering": "5-6",
     "color": "Jaune",
@@ -1563,7 +1563,7 @@
     "family": "Araliaceae",
     "exotic": false,
     "invasive": false,
-    "type": "Liane persistante",
+    "type": "Ligneux",
     "heightCm": "Jusqu'à 20-30m",
     "flowering": "9-11",
     "color": "Vert-jaune",
@@ -2152,7 +2152,7 @@
     "family": "Orobanchaceae",
     "exotic": false,
     "invasive": false,
-    "type": "Annuelle (Hémiparasite)",
+    "type": "Annuelle",
     "heightCm": "10-40",
     "flowering": "5-8",
     "color": "Jaune pâle",
@@ -2183,8 +2183,9 @@
     "soilPh": "Basique",
     "interest": "Plante de friche très parfumée (coumarine), excellente pour les abeilles.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/101_1.jpg",
+      "/images/101_2.jpg",
+      "/images/101_3.jpg"
     ]
   },
   {
@@ -2203,8 +2204,8 @@
     "soilPh": "Basique",
     "interest": "Semblable au blanc mais à fleurs jaunes, médicinale (circulation).",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/102_1.jpg",
+      "/images/102_2.jpg"
     ]
   },
   {
@@ -2223,8 +2224,9 @@
     "soilPh": "Basique à neutre",
     "interest": "Plante forestière indicatrice de sols anciens et riches.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/103_1.jpg",
+      "/images/103_2.jpg",
+      "/images/103_3.jpg"
     ]
   },
   {
@@ -2243,8 +2245,7 @@
     "soilPh": "Neutre",
     "interest": "Petites fleurs bleues à cœur jaune, se ressème facilement.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/104_1.jpg"
     ]
   },
   {
@@ -2263,8 +2264,9 @@
     "soilPh": "Acide à neutre",
     "interest": "Narcisse sauvage des bois et prairies, floraison printanière précoce.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/105_1.jpg",
+      "/images/105_2.jpg",
+      "/images/105_3.jpg"
     ]
   },
   {
@@ -2283,8 +2285,10 @@
     "soilPh": "Neutre à basique",
     "interest": "Fleurs globuleuses jaunes sortant de l'eau, grandes feuilles cordiformes.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/106_1.jpg",
+      "/images/106_2.jpg",
+      "/images/106_3.jpg",
+      "/images/106_4.jpg"
     ]
   },
   {
@@ -2303,8 +2307,9 @@
     "soilPh": "Neutre",
     "interest": "Fleurs spectaculaires flottantes, symbole des eaux calmes.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/107_1.jpg",
+      "/images/107_2.jpg",
+      "/images/107_3.jpg"
     ]
   },
   {
@@ -2323,8 +2328,9 @@
     "soilPh": "Neutre",
     "interest": "Herbe aux ânes, fleurs s'ouvrant le soir et dégageant un parfum suave.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/108_1.jpg",
+      "/images/108_2.jpg",
+      "/images/108_3.jpg"
     ]
   },
   {
@@ -2343,8 +2349,8 @@
     "soilPh": "Basique",
     "interest": "Orchidée mimétique dont la fleur imite le corps d'une abeille.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/109_1.jpg",
+      "/images/109_2.jpg"
     ]
   },
   {
@@ -2363,8 +2369,8 @@
     "soilPh": "Basique à neutre",
     "interest": "L'une des premières orchidées à fleurir au printemps.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/110_1.jpg",
+      "/images/110_2.jpg"
     ]
   },
   {
@@ -2383,8 +2389,8 @@
     "soilPh": "Acide à neutre",
     "interest": "Feuilles typiquement maculées de taches brunes, épis denses.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/111_1.jpg",
+      "/images/111_2.jpg"
     ]
   },
   {
@@ -2403,8 +2409,9 @@
     "soilPh": "Basique",
     "interest": "Plante aromatique (marjolaine sauvage), très attractive pour les papillons.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/112_1.jpg",
+      "/images/112_2.jpg",
+      "/images/112_3.jpg"
     ]
   },
   {
@@ -2423,8 +2430,8 @@
     "soilPh": "Acide",
     "interest": "Pain de coucou, feuilles en forme de trèfle au goût acide.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/113_1.jpg",
+      "/images/113_2.jpg"
     ]
   },
   {
@@ -2443,8 +2450,10 @@
     "soilPh": "Basique à neutre",
     "interest": "Symbole des champs de céréales, fleur éphémère d'un rouge éclatant.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/114_1.jpg",
+      "/images/114_2.jpg",
+      "/images/114_3.jpg",
+      "/images/114_4.jpg"
     ]
   },
   {
@@ -2463,8 +2472,8 @@
     "soilPh": "Basique",
     "interest": "Plante forestière à 4 feuilles en croix, baie centrale noire toxique.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/115_1.jpg",
+      "/images/115_2.jpg"
     ]
   },
   {
@@ -2483,8 +2492,8 @@
     "soilPh": "Acide à neutre",
     "interest": "Brosse à dents, épis roses denses, rhizome tordu en 'S'.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/116_1.jpg",
+      "/images/116_2.jpg"
     ]
   },
   {
@@ -2503,8 +2512,8 @@
     "soilPh": "Neutre",
     "interest": "Feuilles souvent marquées d'une tache noire en fer à cheval.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/117_1.jpg",
+      "/images/117_2.jpg"
     ]
   },
   {
@@ -2523,8 +2532,8 @@
     "soilPh": "Neutre",
     "interest": "Forme des roselières denses, important pour la biodiversité des marais.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/118_1.jpg",
+      "/images/118_2.jpg"
     ]
   },
   {
@@ -2543,8 +2552,9 @@
     "soilPh": "Tous types",
     "interest": "Herbe à cinq coutures, feuilles médicinales contre les piqûres.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/119_1.jpg",
+      "/images/119_2.jpg",
+      "/images/119_3.jpg"
     ]
   },
   {
@@ -2563,8 +2573,10 @@
     "soilPh": "Tous types",
     "interest": "Très résistant au piétinement, feuilles en rosette plaquées au sol.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/120_1.jpg",
+      "/images/120_2.jpg",
+      "/images/120_3.jpg",
+      "/images/120_4.jpg"
     ]
   },
   {
@@ -2583,8 +2595,11 @@
     "soilPh": "Neutre à basique",
     "interest": "Tiges arquées avec clochettes pendantes, typique des forêts anciennes.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/121_1.jpg",
+      "/images/121_2.jpg",
+      "/images/121_3.jpg",
+      "/images/121_4.jpg",
+      "/images/121_5.jpg"
     ]
   },
   {
@@ -2603,8 +2618,9 @@
     "soilPh": "Neutre",
     "interest": "Argentine, feuilles au revers soyeux et blanc, stolons vigoureux.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/122_1.jpg",
+      "/images/122_2.jpg",
+      "/images/122_3.jpg"
     ]
   },
   {
@@ -2623,8 +2639,10 @@
     "soilPh": "Basique à neutre",
     "interest": "Quintefeuille, se propage par de longs stolons s'enracinant aux nœuds.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/123_1.jpg",
+      "/images/123_2.jpg",
+      "/images/123_3.jpg",
+      "/images/123_4.jpg"
     ]
   },
   {
@@ -2643,8 +2661,8 @@
     "soilPh": "Neutre",
     "interest": "Ressemble au fraisier mais ses pétales sont espacés et ses fruits secs.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/124_1.jpg",
+      "/images/124_2.jpg"
     ]
   },
   {
@@ -2663,8 +2681,8 @@
     "soilPh": "Neutre à basique",
     "interest": "Coucou des bois, fleurs penchées d'un seul côté de la hampe.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/125_1.jpg",
+      "/images/125_2.jpg"
     ]
   },
   {
@@ -2683,8 +2701,8 @@
     "soilPh": "Basique",
     "interest": "Véritable coucou, fleurs odorantes avec des taches orange au centre.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/126_1.jpg",
+      "/images/126_2.jpg"
     ]
   },
   {
@@ -2703,8 +2721,9 @@
     "soilPh": "Neutre",
     "interest": "Petite plante des pelouses, inflorescence en épi court et dense.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/127_1.jpg",
+      "/images/127_2.jpg",
+      "/images/127_3.jpg"
     ]
   },
   {
@@ -2723,8 +2742,9 @@
     "soilPh": "Neutre à basique",
     "interest": "Feuilles tachetées de blanc, fleurs changeant de couleur après pollinisation.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/128_1.jpg",
+      "/images/128_2.jpg",
+      "/images/128_3.jpg"
     ]
   },
   {
@@ -2743,8 +2763,9 @@
     "soilPh": "Neutre",
     "interest": "Bouton d'or des prairies, tiges non rampantes et sépales appliqués.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/129_1.jpg",
+      "/images/129_2.jpg",
+      "/images/129_3.jpg"
     ]
   },
   {
@@ -2763,8 +2784,8 @@
     "soilPh": "Neutre",
     "interest": "Annonce le printemps, feuilles en cœur et fleurs luisantes.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/130_1.jpg",
+      "/images/130_2.jpg"
     ]
   },
   {
@@ -2783,8 +2804,9 @@
     "soilPh": "Neutre (sols compacts)",
     "interest": "Bouton d'or très vigoureux se propageant par stolons rampants.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/131_1.jpg",
+      "/images/131_2.jpg",
+      "/images/131_3.jpg"
     ]
   },
   {
@@ -2803,8 +2825,8 @@
     "soilPh": "Basique",
     "interest": "Plante des terrains vagues et talus calcaires, fleurs en grappes fines.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/132_1.jpg",
+      "/images/132_2.jpg"
     ]
   },
   {
@@ -2823,8 +2845,8 @@
     "soilPh": "Basique",
     "interest": "Gaude, utilisée autrefois pour sa teinture jaune de grande qualité.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/133_1.jpg",
+      "/images/133_2.jpg"
     ]
   },
   {
@@ -2834,7 +2856,7 @@
     "family": "Rosaceae",
     "exotic": false,
     "invasive": false,
-    "type": "Arbrisseau",
+    "type": "Ligneux",
     "heightCm": "100-300",
     "flowering": "5-6",
     "color": "Rose pâle, Blanc",
@@ -2843,8 +2865,8 @@
     "soilPh": "Basique à neutre",
     "interest": "Églantier, donne les cynorrhodons (gratte-cul) riches en vitamine C.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/134_1.jpg",
+      "/images/134_2.jpg"
     ]
   },
   {
@@ -2854,7 +2876,7 @@
     "family": "Rosaceae",
     "exotic": false,
     "invasive": false,
-    "type": "Arbrisseau sarmenteux",
+    "type": "Ligneux",
     "heightCm": "50-300",
     "flowering": "5-7",
     "color": "Blanc, Rose",
@@ -2863,8 +2885,8 @@
     "soilPh": "Tous types",
     "interest": "Productrice de mûres sauvages, habitat protecteur pour la faune.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/135_1.jpg",
+      "/images/135_2.jpg"
     ]
   },
   {
@@ -2883,8 +2905,8 @@
     "soilPh": "Neutre",
     "interest": "Oseille sauvage aux feuilles ondulées, graines persistant en hiver.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/136_1.jpg",
+      "/images/136_2.jpg"
     ]
   },
   {
@@ -2903,8 +2925,8 @@
     "soilPh": "Basique",
     "interest": "Feuilles comestibles au goût de concombre, fleurs en têtes globuleuses.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/137_1.jpg",
+      "/images/137_2.jpg"
     ]
   },
   {
@@ -2923,8 +2945,8 @@
     "soilPh": "Neutre à acide",
     "interest": "Tiges carrées, fleurs discrètes attirant les guêpes pollinisatrices.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/138_1.jpg",
+      "/images/138_2.jpg"
     ]
   },
   {
@@ -2943,8 +2965,10 @@
     "soilPh": "Basique à neutre",
     "interest": "Poivre de mur, petite plante grasse des milieux très secs et rocailleux.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/139_1.jpg",
+      "/images/139_2.jpg",
+      "/images/139_3.jpg",
+      "/images/139_4.jpg"
     ]
   },
   {
@@ -2963,8 +2987,9 @@
     "soilPh": "Basique à neutre",
     "interest": "Feuilles cylindriques charnues rougissant au soleil.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/140_1.jpg",
+      "/images/140_2.jpg",
+      "/images/140_3.jpg"
     ]
   },
   {
@@ -2983,8 +3008,8 @@
     "soilPh": "Neutre à basique",
     "interest": "Plante toxique pour le bétail mais essentielle pour la chenille Goutte-de-sang.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/141_1.jpg",
+      "/images/141_2.jpg"
     ]
   },
   {
@@ -3003,8 +3028,8 @@
     "soilPh": "Acide à neutre",
     "interest": "Grand séneçon forestier aux feuilles lancéolées et dentées.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/142_1.jpg",
+      "/images/142_2.jpg"
     ]
   },
   {
@@ -3023,8 +3048,9 @@
     "soilPh": "Tous types",
     "interest": "Plante rudérale très commune, capitules sans fleurs ligulées (pas de pétales).",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/143_1.jpg",
+      "/images/143_2.jpg",
+      "/images/143_3.jpg"
     ]
   },
   {
@@ -3043,8 +3069,9 @@
     "soilPh": "Neutre",
     "interest": "Siliène dioïque, fleurs colorées sans odeur s'ouvrant le jour.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/144_1.jpg",
+      "/images/144_2.jpg",
+      "/images/144_3.jpg"
     ]
   },
   {
@@ -3063,8 +3090,8 @@
     "soilPh": "Basique à neutre",
     "interest": "Fleurs blanches odorantes le soir pour attirer les papillons de nuit.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/145_1.jpg",
+      "/images/145_2.jpg"
     ]
   },
   {
@@ -3083,8 +3110,8 @@
     "soilPh": "Neutre",
     "interest": "Fleurs typiques de solanacées, baies rouges toxiques, milieux humides.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/146_1.jpg",
+      "/images/146_2.jpg"
     ]
   },
   {
@@ -3103,8 +3130,8 @@
     "soilPh": "Tous types",
     "interest": "Plante des jardins et décombres, baies noires à maturité.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/147_1.jpg",
+      "/images/147_2.jpg"
     ]
   },
   {
@@ -3123,8 +3150,9 @@
     "soilPh": "Neutre",
     "interest": "Feuilles luisantes et épineuses embrassant la tige par des oreilles rondes.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/148_1.jpg",
+      "/images/148_2.jpg",
+      "/images/148_3.jpg"
     ]
   },
   {
@@ -3143,8 +3171,8 @@
     "soilPh": "Neutre",
     "interest": "Inflorescence en boules épineuses caractéristiques au bord de l'eau.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/149_1.jpg",
+      "/images/149_2.jpg"
     ]
   },
   {
@@ -3163,8 +3191,8 @@
     "soilPh": "Acide à neutre",
     "interest": "Plante médicinale historique, épi de fleurs pourpres bien détaché du feuillage.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/150_1.jpg",
+      "/images/150_2.jpg"
     ]
   },
   {
@@ -3183,8 +3211,9 @@
     "soilPh": "Neutre",
     "interest": "Odeur forte de champignon/humus au froissement, fleurs maculées de blanc.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/151_1.jpg",
+      "/images/151_2.jpg",
+      "/images/151_3.jpg"
     ]
   },
   {
@@ -3203,8 +3232,9 @@
     "soilPh": "Neutre à acide",
     "interest": "Langue de l'oiseau, fleurs en étoiles très découpées, tiges cassantes.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/152_1.jpg",
+      "/images/152_2.jpg",
+      "/images/152_3.jpg"
     ]
   },
   {
@@ -3223,8 +3253,8 @@
     "soilPh": "Neutre (riche en azote)",
     "interest": "Plante comestible et médicinale, très commune dans les jardins.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/153_1.jpg",
+      "/images/153_2.jpg"
     ]
   },
   {
@@ -3243,8 +3273,8 @@
     "soilPh": "Neutre à acide",
     "interest": "Mors-du-diable, racines semblant avoir été coupées net, têtes florales globuleuses.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/154_1.jpg",
+      "/images/154_2.jpg"
     ]
   },
   {
@@ -3263,8 +3293,10 @@
     "soilPh": "Neutre à basique",
     "interest": "Plante médicinale majeure (cicatrisante) et excellent engrais vert (purin).",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/155_1.jpg",
+      "/images/155_2.jpg",
+      "/images/155_3.jpg",
+      "/images/155_4.jpg"
     ]
   },
   {
@@ -3283,8 +3315,9 @@
     "soilPh": "Neutre",
     "interest": "Fleurs en boutons jaunes (pas de pétales), odeur forte camphrée, répulsif insectes.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/156_1.jpg",
+      "/images/156_2.jpg",
+      "/images/156_3.jpg"
     ]
   },
   {
@@ -3303,8 +3336,9 @@
     "soilPh": "Tous types",
     "interest": "Plante mellifère cruciale au printemps, feuilles et fleurs comestibles.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/157_1.jpg",
+      "/images/157_2.jpg",
+      "/images/157_3.jpg"
     ]
   },
   {
@@ -3323,8 +3357,8 @@
     "soilPh": "Acide",
     "interest": "Sauge des bois, feuilles gaufrées, fleurs unilatérales, odeur de houblon.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/158_1.jpg",
+      "/images/158_2.jpg"
     ]
   },
   {
@@ -3343,8 +3377,8 @@
     "soilPh": "Basique à neutre",
     "interest": "Fruits (siliques) larges et plats en forme de disque ailé.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/159_1.jpg",
+      "/images/159_2.jpg"
     ]
   },
   {
@@ -3363,8 +3397,8 @@
     "soilPh": "Basique à neutre",
     "interest": "Thym sauvage très aromatique, forme des coussins sur les talus secs.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/160_1.jpg",
+      "/images/160_2.jpg"
     ]
   },
   {
@@ -3383,8 +3417,8 @@
     "soilPh": "Basique à neutre",
     "interest": "Fleurs se fermant à midi, fruits formant une grosse boule plumeuse.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/161_1.jpg",
+      "/images/161_2.jpg"
     ]
   },
   {
@@ -3403,8 +3437,9 @@
     "soilPh": "Neutre à basique",
     "interest": "Trèfle rouge, excellente plante fourragère et mellifère.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/162_1.jpg",
+      "/images/162_2.jpg",
+      "/images/162_3.jpg"
     ]
   },
   {
@@ -3423,8 +3458,9 @@
     "soilPh": "Tous types",
     "interest": "Tiges rampantes, fleurs blanches très riches en nectar.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/163_1.jpg",
+      "/images/163_2.jpg",
+      "/images/163_3.jpg"
     ]
   },
   {
@@ -3443,8 +3479,10 @@
     "soilPh": "Basique",
     "interest": "Pas-d'âne, fleurs apparaissant bien avant les feuilles au printemps.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/164_1.jpg",
+      "/images/164_2.jpg",
+      "/images/164_3.jpg",
+      "/images/164_4.jpg"
     ]
   },
   {
@@ -3463,8 +3501,9 @@
     "soilPh": "Neutre",
     "interest": "Roseau à massue, caractéristique des zones humides stagnantes.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/165_1.jpg",
+      "/images/165_2.jpg",
+      "/images/165_3.jpg"
     ]
   },
   {
@@ -3483,8 +3522,9 @@
     "soilPh": "Neutre",
     "interest": "Plante hôte majeure pour de nombreux papillons, comestible et médicinale.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/166_1.jpg",
+      "/images/166_2.jpg",
+      "/images/166_3.jpg"
     ]
   },
   {
@@ -3494,7 +3534,7 @@
     "family": "Ericaceae",
     "exotic": false,
     "invasive": false,
-    "type": "Sous-arbrisseau",
+    "type": "Ligneux",
     "heightCm": "20-50",
     "flowering": "4-6",
     "color": "Verdâtre-rose",
@@ -3503,8 +3543,8 @@
     "soilPh": "Très acide",
     "interest": "Plante des landes et bois clairs, baies bleues comestibles très appréciées.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/167_1.jpg",
+      "/images/167_2.jpg"
     ]
   },
   {
@@ -3523,8 +3563,8 @@
     "soilPh": "Neutre à basique",
     "interest": "Herbe aux chats, racine aux propriétés apaisantes reconnues.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/168_1.jpg",
+      "/images/168_2.jpg"
     ]
   },
   {
@@ -3543,8 +3583,8 @@
     "soilPh": "Neutre",
     "interest": "Doucette, salade sauvage printanière très commune dans les champs.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/169_1.jpg",
+      "/images/169_2.jpg"
     ]
   },
   {
@@ -3563,8 +3603,9 @@
     "soilPh": "Neutre à basique",
     "interest": "Grande hampe florale laineuse, utilisée pour apaiser la toux.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/170_1.jpg",
+      "/images/170_2.jpg",
+      "/images/170_3.jpg"
     ]
   },
   {
@@ -3583,8 +3624,9 @@
     "soilPh": "Neutre",
     "interest": "Fleurs bleues avec un centre blanc, surnommée 'Herbe à tous les maux'.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/171_1.jpg",
+      "/images/171_2.jpg",
+      "/images/171_3.jpg"
     ]
   },
   {
@@ -3603,8 +3645,8 @@
     "soilPh": "Tous types",
     "interest": "Plante rampante très commune dans les jardins, fleurit presque toute l'année.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/172_1.jpg",
+      "/images/172_2.jpg"
     ]
   },
   {
@@ -3623,8 +3665,8 @@
     "soilPh": "Neutre à basique",
     "interest": "Grappes de fleurs bleues denses, feuilles munies de vrilles.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/173_1.jpg",
+      "/images/173_2.jpg"
     ]
   },
   {
@@ -3643,8 +3685,8 @@
     "soilPh": "Basique à neutre",
     "interest": "Pousse dans les lisières, fleurs groupées par 2 à 5 à l'aisselle des feuilles.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/174_1.jpg",
+      "/images/174_2.jpg"
     ]
   },
   {
@@ -3663,8 +3705,8 @@
     "soilPh": "Neutre à basique",
     "interest": "Rampante. Feuilles persistantes luisantes, couvre-sol forestier classique.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/175_1.jpg",
+      "/images/175_2.jpg"
     ]
   },
   {
@@ -3683,8 +3725,8 @@
     "soilPh": "Acide à neutre",
     "interest": "Petite pensée sauvage des terres cultivées, fleurs tricolores.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/176_1.jpg",
+      "/images/176_2.jpg"
     ]
   },
   {
@@ -3703,8 +3745,8 @@
     "soilPh": "Basique à neutre",
     "interest": "Éperon étroit et foncé, typique des sous-bois sur calcaire.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/177_1.jpg",
+      "/images/177_2.jpg"
     ]
   },
   {
@@ -3723,8 +3765,8 @@
     "soilPh": "Neutre à acide",
     "interest": "Éperon épais et clair, très proche de la précédente mais préfère les sols plus acides.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/178_1.jpg",
+      "/images/178_2.jpg"
     ]
   },
   {
@@ -3743,8 +3785,208 @@
     "soilPh": "N/A",
     "interest": "Plante sacrée des druides, vit sur les branches des arbres, baies blanches collantes.",
     "images": [
-      "/images/000_1.jpg",
-      "/images/000_2.jpg"
+      "/images/179_1.jpg",
+      "/images/179_2.jpg"
+    ]
+  },
+  {
+    "scientificName": "Alopecurus pratensis",
+    "vernacularName": "Vulpis des prés (Queue-de-rat)",
+    "genreOnly": false,
+    "family": "Poaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "30-100",
+    "flowering": "4-7",
+    "color": "Vert-gris",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais à humide",
+    "soilPh": "Neutre",
+    "interest": "Excellente plante fourragère des prairies humides, inflorescence en épi cylindrique très doux.",
+    "images": [
+      "/images/180_1.jpg",
+      "/images/180_2.jpg"
+    ]
+  },
+  {
+    "scientificName": "Anthoxanthum odoratum",
+    "vernacularName": "Flouve odorante",
+    "genreOnly": false,
+    "family": "Poaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "20-50",
+    "flowering": "4-7",
+    "color": "Jaunâtre",
+    "exposure": "Soleil à mi-ombre",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Acide à neutre",
+    "interest": "Donne l'odeur caractéristique du foin coupé grâce à la coumarine qu'elle contient.",
+    "images": [
+      "/images/181_1.jpg",
+      "/images/181_2.jpg"
+    ]
+  },
+  {
+    "scientificName": "Arrhenatherum elatius",
+    "vernacularName": "Fromental (Avoine élevée)",
+    "genreOnly": false,
+    "family": "Poaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "60-150",
+    "flowering": "6-8",
+    "color": "Vert à violacé",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre",
+    "interest": "Graminée très commune des prairies de fauche, haute et vigoureuse.",
+    "images": [
+      "/images/182_1.jpg",
+      "/images/182_2.jpg"
+    ]
+  },
+  {
+    "scientificName": "Briza media",
+    "vernacularName": "Amourette commune (Brize)",
+    "genreOnly": false,
+    "family": "Poaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "20-50",
+    "flowering": "5-8",
+    "color": "Vert, pourpre",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Basique (calcicole)",
+    "interest": "Inflorescences typiques en petits cœurs tremblants au moindre souffle de vent.",
+    "images": [
+      "/images/183_1.jpg",
+      "/images/183_2.jpg"
+    ]
+  },
+  {
+    "scientificName": "Dactylis glomerata",
+    "vernacularName": "Dactyle aggloméré",
+    "genreOnly": false,
+    "family": "Poaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "30-120",
+    "flowering": "5-9",
+    "color": "Vert bleuté",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre",
+    "interest": "Épillets regroupés en glomérules denses unilatéraux, très robuste.",
+    "images": [
+      "/images/184_1.jpg",
+      "/images/184_2.jpg"
+    ]
+  },
+  {
+    "scientificName": "Elymus repens",
+    "vernacularName": "Chiendent officinal",
+    "genreOnly": false,
+    "family": "Poaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "30-120",
+    "flowering": "6-9",
+    "color": "Vert à gris-vert",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Plante traçante à rhizomes très résistante, souvent considérée comme une adventice difficile.",
+    "images": [
+      "/images/185_1.jpg",
+      "/images/185_2.jpg"
+    ]
+  },
+  {
+    "scientificName": "Lolium perenne",
+    "vernacularName": "Ray-grass anglais (Ivraie vivace)",
+    "genreOnly": false,
+    "family": "Poaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "20-60",
+    "flowering": "5-9",
+    "color": "Vert",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre",
+    "interest": "Base des gazons et des prairies pâturées, épis aplatis caractéristiques.",
+    "images": [
+      "/images/186_1.jpg",
+      "/images/186_2.jpg"
+    ]
+  },
+  {
+    "scientificName": "Phleum pratense",
+    "vernacularName": "Fléole des prés",
+    "genreOnly": false,
+    "family": "Poaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "50-100",
+    "flowering": "6-8",
+    "color": "Vert bleuté",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais à humide",
+    "soilPh": "Neutre à basique",
+    "interest": "Épi cylindrique très dense et rude au toucher, base de la tige souvent renflée.",
+    "images": [
+      "/images/187_1.jpg",
+      "/images/187_2.jpg"
+    ]
+  },
+  {
+    "scientificName": "Poa pratensis",
+    "vernacularName": "Pâturin des prés",
+    "genreOnly": false,
+    "family": "Poaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "20-80",
+    "flowering": "5-7",
+    "color": "Vert",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre",
+    "interest": "Une des meilleures graminées de pâturage, panicules pyramidales étalées.",
+    "images": [
+      "/images/188_1.jpg",
+      "/images/188_2.jpg"
+    ]
+  },
+  {
+    "scientificName": "Trisetum favescens",
+    "vernacularName": "Avoine dorée (Trisète jaunâtre)",
+    "genreOnly": false,
+    "family": "Poaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "30-80",
+    "flowering": "6-7",
+    "color": "Jaune doré",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Basique",
+    "interest": "Donne une teinte dorée aux prairies de fauche à maturité.",
+    "images": [
+      "/images/189_1.jpg",
+      "/images/189_2.jpg"
     ]
   }
 ]
