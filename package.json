@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/image": "2.0.0",
     "@vite-pwa/nuxt": "1.1.0",
     "autoprefixer": "^10.4.23",
     "google-fonts": "^1.0.0",

@@ -18,7 +18,7 @@
         <p>Les données, styles, fonctionnalités, pages seront probablement mises à jour.</p>
         <p>Note importante. Les informations ont été générées via IA. Des erreurs sont possibles.</p>
         <p>Pour les remarques, suggestions, etc. : <a href="mailto:contact@raphlarri.com">contact@raphlarri.com</a> ou message au <a href="tel:0485990961">0485990961</a>.</p>
-        <p>Roadmap : ajout de toutes les photos, images CDN, images lazyload, champs et filtre "milieu", clairifier champs type/cycle</p>
+        <p>Roadmap : ajout de toutes les photos, images CDN, champs et filtre "milieu", clairifier champs type/cycle</p>
         <h3>Liens</h3>
         <ul>
           <li><a href="https://github.com/raphaellarrinaga/plantquiz/">Code source</a> ➚</li>

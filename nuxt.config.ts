@@ -39,7 +39,7 @@ export default defineNuxtConfig({
   },
 
   // PWA module configuration.
-  modules: ['@vite-pwa/nuxt'],
+  modules: ['@vite-pwa/nuxt', '@nuxt/image'],
   pwa: {
     // Test in dev mode
     // devOptions: {

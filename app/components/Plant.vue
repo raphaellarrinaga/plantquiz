@@ -46,16 +46,18 @@
         Change image
       </button>
       <div class="gallery-item__count">{{ itemIndex + 1 }}/{{ itemsTotal }}</div>
-        <!-- :class="{ 'is-active': index === 0 }" -->
-      <img
-        v-for="(image, index) in item.images"
-        class="gallery-item__image"
-        :class="[
-          { 'is-active': index === 0 },
-          fitMode === 'cover' ? 'is-cover' : 'is-contain'
-        ]"
-        :src="image"
-        :key="image.id">
+        <NuxtImg
+          v-for="(image, index) in item.images"
+          class="gallery-item__image"
+          :class="[
+            { 'is-active': index === 0 },
+            fitMode === 'cover' ? 'is-cover' : 'is-contain'
+          ]"
+          :key="image.id"
+          :src="image"
+          format="webp"
+          loading="lazy"
+        />
     </div>
   </div>
 </template>
