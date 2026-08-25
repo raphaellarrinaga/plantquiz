@@ -28,7 +28,17 @@
               {{ family }}
             </option>
           </select>
-          <select class="form-item form-item__select" v-model="selectedType">
+          <select class="form-item form-item__select" v-model="selectedSoilTrophy">
+            <option value="">Sol [fertilité]</option>
+            <option
+              v-for="soilTrophy in soilTrophies"
+              :key="soilTrophy"
+              :value="soilTrophy"
+            >
+              {{ soilTrophy }}
+            </option>
+          </select>
+          <!-- <select class="form-item form-item__select" v-model="selectedType">
             <option value="">Type</option>
             <option
               v-for="type in types"
@@ -37,7 +47,7 @@
             >
               {{ type }}
             </option>
-          </select>
+          </select> -->
           <label class="form-item form-item__checkbox button">
             <input
               type="checkbox"
@@ -99,6 +109,7 @@ const displayedPlants = ref([])
 const selectedSort = ref('')
 const selectedFamily = ref('')
 const selectedType = ref('')
+const selectedSoilTrophy = ref('')
 const onlyInvasive = ref(false)
 
 // Toggle image display
@@ -115,6 +126,12 @@ const families = computed(() => {
 // Uniques types (auto)
 const types = computed(() => {
   return [...new Set(originalPlants.map(p => p.type))]
+    .sort((a, b) => a.localeCompare(b, 'fr'))
+})
+
+// Uniques soilTrophies (auto)
+const soilTrophies = computed(() => {
+  return [...new Set(originalPlants.map(p => p.soilTrophy))]
     .sort((a, b) => a.localeCompare(b, 'fr'))
 })
 
@@ -137,6 +154,13 @@ function applyFiltersAndSort() {
   if (selectedType.value) {
     result = result.filter(
       plant => plant.type === selectedType.value
+    )
+  }
+
+  // Filter Soil Trophy
+  if (selectedSoilTrophy.value) {
+    result = result.filter(
+      plant => plant.soilTrophy === selectedSoilTrophy.value
     )
   }
 
@@ -174,7 +198,7 @@ function applyFiltersAndSort() {
 }
 
 // Watch automatique
-watch([selectedSort, selectedFamily, selectedType, onlyInvasive], applyFiltersAndSort)
+watch([selectedSort, selectedFamily, selectedType, onlyInvasive, selectedSoilTrophy], applyFiltersAndSort)
 
 // Random
 function shuffleArray(items) {
@@ -192,6 +216,7 @@ function randomize() {
   selectedSort.value = ''
   selectedFamily.value = ''
   selectedType.value = ''
+  selectedSoilTrophy.value = ''
   onlyInvasive.value = false
   displayedPlants.value = shuffleArray(originalPlants)
 }

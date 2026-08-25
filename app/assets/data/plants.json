@@ -19,7 +19,7 @@
       "/images/1092_2.jpg",
       "/images/1092_3.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -43,7 +43,7 @@
       "/images/123_3.jpg",
       "/images/123_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -66,7 +66,7 @@
       "/images/101_2.jpg",
       "/images/101_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -90,7 +90,7 @@
       "/images/1093_3.jpg",
       "/images/1093_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -114,7 +114,7 @@
       "/images/132_3.jpg",
       "/images/132_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -138,7 +138,7 @@
       "/images/053_3.jpg",
       "/images/053_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -160,7 +160,7 @@
       "/images/182_1.jpg",
       "/images/182_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -182,7 +182,7 @@
       "/images/118_1.jpg",
       "/images/118_2.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -206,7 +206,7 @@
       "/images/158_3.jpg",
       "/images/158_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -230,7 +230,7 @@
       "/images/1059_3.jpg",
       "/images/1059_4.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -254,7 +254,7 @@
       "/images/1002_3.jpg",
       "/images/1002_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -278,7 +278,7 @@
       "/images/1038_3.jpg",
       "/images/1038_4.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -302,7 +302,7 @@
       "/images/1041_3.jpg",
       "/images/1041_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -326,7 +326,7 @@
       "/images/1071_3.jpg",
       "/images/1071_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -348,7 +348,7 @@
       "/images/067_1.jpg",
       "/images/1067_2.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -372,7 +372,7 @@
       "/images/1075_3.jpg",
       "/images/1075_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -396,7 +396,7 @@
       "/images/1097_3.jpg",
       "/images/1097_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -418,7 +418,7 @@
       "/images/173_1.jpg",
       "/images/173_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
 
@@ -457,7 +457,7 @@
       "/images/001_3.jpg",
       "/images/001_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -479,7 +479,7 @@
       "/images/002_1.jpg",
       "/images/002_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -502,7 +502,7 @@
       "/images/003_2.jpg",
       "/images/003_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -524,7 +524,7 @@
       "/images/004_1.jpg",
       "/images/004_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -547,7 +547,7 @@
       "/images/005_2.jpg",
       "/images/005_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -571,7 +571,7 @@
       "/images/006_3.jpg",
       "/images/006_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -594,7 +594,7 @@
       "/images/007_2.jpg",
       "/images/007_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -617,7 +617,7 @@
       "/images/008_2.jpg",
       "/images/008_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -641,7 +641,7 @@
       "/images/009_3.jpg",
       "/images/009_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -664,7 +664,7 @@
       "/images/010_2.jpg",
       "/images/010_3.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -686,7 +686,7 @@
       "/images/011_1.jpg",
       "/images/011_2.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -710,7 +710,7 @@
       "/images/012_3.jpg",
       "/images/012_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -733,7 +733,7 @@
       "/images/013_2.jpg",
       "/images/013_3.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -756,7 +756,7 @@
       "/images/014_2.jpg",
       "/images/014_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -780,7 +780,7 @@
       "/images/015_3.jpg",
       "/images/015_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -803,7 +803,7 @@
       "/images/016_2.jpg",
       "/images/016_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -827,7 +827,7 @@
       "/images/017_3.jpg",
       "/images/017_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -851,7 +851,7 @@
       "/images/018_3.jpg",
       "/images/018_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -874,7 +874,7 @@
       "/images/019_2.jpg",
       "/images/019_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -898,7 +898,7 @@
       "/images/020_3.jpg",
       "/images/020_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -922,7 +922,7 @@
       "/images/021_3.jpg",
       "/images/021_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -946,7 +946,7 @@
       "/images/022_3.jpg",
       "/images/022_4.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -970,7 +970,7 @@
       "/images/023_3.jpg",
       "/images/023_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -994,7 +994,7 @@
       "/images/024_3.jpg",
       "/images/024_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -1018,7 +1018,7 @@
       "/images/025_3.jpg",
       "/images/025_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1041,7 +1041,7 @@
       "/images/026_2.jpg",
       "/images/026_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1064,7 +1064,7 @@
       "/images/027_2.jpg",
       "/images/027_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1088,7 +1088,7 @@
       "/images/028_3.jpg",
       "/images/028_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1111,7 +1111,7 @@
       "/images/029_2.jpg",
       "/images/029_3.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -1135,7 +1135,7 @@
       "/images/030_3.jpg",
       "/images/030_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1159,7 +1159,7 @@
       "/images/031_3.jpg",
       "/images/031_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -1183,7 +1183,7 @@
       "/images/032_3.jpg",
       "/images/032_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -1207,7 +1207,7 @@
       "/images/033_3.jpg",
       "/images/033_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1231,7 +1231,7 @@
       "/images/034_3.jpg",
       "/images/034_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1254,7 +1254,7 @@
       "/images/035_2.jpg",
       "/images/035_3.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1278,7 +1278,7 @@
       "/images/036_3.jpg",
       "/images/036_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -1302,7 +1302,7 @@
       "/images/037_3.jpg",
       "/images/037_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1326,7 +1326,7 @@
       "/images/038_3.jpg",
       "/images/038_4.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1350,7 +1350,7 @@
       "/images/039_3.jpg",
       "/images/039_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1374,7 +1374,7 @@
       "/images/040_3.jpg",
       "/images/040_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1398,7 +1398,7 @@
       "/images/041_3.jpg",
       "/images/041_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1422,7 +1422,7 @@
       "/images/042_3.jpg",
       "/images/042_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1446,7 +1446,7 @@
       "/images/043_3.jpg",
       "/images/043_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1470,7 +1470,7 @@
       "/images/044_3.jpg",
       "/images/044_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -1494,7 +1494,7 @@
       "/images/045_3.jpg",
       "/images/045_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1518,7 +1518,7 @@
       "/images/046_3.jpg",
       "/images/046_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -1541,7 +1541,7 @@
       "/images/047_2.jpg",
       "/images/047_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -1565,7 +1565,7 @@
       "/images/048_3.jpg",
       "/images/048_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -1587,7 +1587,7 @@
       "/images/049_1.jpg",
       "/images/049_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1611,7 +1611,7 @@
       "/images/050_3.jpg",
       "/images/050_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1635,7 +1635,7 @@
       "/images/051_3.jpg",
       "/images/051_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1659,7 +1659,7 @@
       "/images/052_3.jpg",
       "/images/052_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1683,7 +1683,7 @@
       "/images/053_3.jpg",
       "/images/053_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -1707,7 +1707,7 @@
       "/images/054_3.jpg",
       "/images/054_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1731,7 +1731,7 @@
       "/images/055_3.jpg",
       "/images/055_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1754,7 +1754,7 @@
       "/images/056_2.jpg",
       "/images/056_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1778,7 +1778,7 @@
       "/images/057_3.jpg",
       "/images/057_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1802,7 +1802,7 @@
       "/images/058_3.jpg",
       "/images/058_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -1826,7 +1826,7 @@
       "/images/059_3.jpg",
       "/images/059_4.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1849,7 +1849,7 @@
       "/images/060_2.jpg",
       "/images/060_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1873,7 +1873,7 @@
       "/images/061_3.jpg",
       "/images/061_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1897,7 +1897,7 @@
       "/images/062_3.jpg",
       "/images/062_4.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1921,7 +1921,7 @@
       "/images/063_3.jpg",
       "/images/063_4.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -1945,7 +1945,7 @@
       "/images/064_3.jpg",
       "/images/064_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1968,7 +1968,7 @@
       "/images/065_2.jpg",
       "/images/065_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -1992,7 +1992,7 @@
       "/images/066_3.jpg",
       "/images/066_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2015,7 +2015,7 @@
       "/images/067_2.jpg",
       "/images/067_3.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2038,7 +2038,7 @@
       "/images/068_2.jpg",
       "/images/068_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -2062,7 +2062,7 @@
       "/images/069_3.jpg",
       "/images/069_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2086,7 +2086,7 @@
       "/images/070_3.jpg",
       "/images/070_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2110,7 +2110,7 @@
       "/images/071_3.jpg",
       "/images/071_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2134,7 +2134,7 @@
       "/images/072_3.jpg",
       "/images/072_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2156,7 +2156,7 @@
       "/images/073_1.jpg",
       "/images/073_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2180,7 +2180,7 @@
       "/images/074_3.jpg",
       "/images/074_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2204,7 +2204,7 @@
       "/images/075_3.jpg",
       "/images/075_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2228,7 +2228,7 @@
       "/images/076_3.jpg",
       "/images/076_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -2252,7 +2252,7 @@
       "/images/077_3.jpg",
       "/images/077_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2276,7 +2276,7 @@
       "/images/078_3.jpg",
       "/images/078_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2300,7 +2300,7 @@
       "/images/079_3.jpg",
       "/images/079_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -2323,7 +2323,7 @@
       "/images/080_2.jpg",
       "/images/080_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2347,7 +2347,7 @@
       "/images/081_3.jpg",
       "/images/081_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2371,7 +2371,7 @@
       "/images/082_3.jpg",
       "/images/082_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2395,7 +2395,7 @@
       "/images/083_3.jpg",
       "/images/083_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2419,7 +2419,7 @@
       "/images/084_3.jpg",
       "/images/084_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -2443,7 +2443,7 @@
       "/images/085_3.jpg",
       "/images/085_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -2467,7 +2467,7 @@
       "/images/086_3.jpg",
       "/images/086_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2491,7 +2491,7 @@
       "/images/087_3.jpg",
       "/images/087_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2515,7 +2515,7 @@
       "/images/088_3.jpg",
       "/images/088_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2539,7 +2539,7 @@
       "/images/089_3.jpg",
       "/images/089_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2563,7 +2563,7 @@
       "/images/090_3.jpg",
       "/images/090_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2587,7 +2587,7 @@
       "/images/091_3.jpg",
       "/images/091_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2611,7 +2611,7 @@
       "/images/092_3.jpg",
       "/images/092_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -2635,7 +2635,7 @@
       "/images/093_3.jpg",
       "/images/093_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -2659,7 +2659,7 @@
       "/images/094_3.jpg",
       "/images/094_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2683,7 +2683,7 @@
       "/images/095_3.jpg",
       "/images/095_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2707,7 +2707,7 @@
       "/images/096_3.jpg",
       "/images/096_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2731,7 +2731,7 @@
       "/images/097_3.jpg",
       "/images/097_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2753,7 +2753,7 @@
       "/images/098_1.jpg",
       "/images/098_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -2777,7 +2777,7 @@
       "/images/099_3.jpg",
       "/images/099_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -2801,7 +2801,7 @@
       "/images/100_3.jpg",
       "/images/100_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2824,7 +2824,7 @@
       "/images/101_2.jpg",
       "/images/101_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -2848,7 +2848,7 @@
       "/images/102_3.jpg",
       "/images/102_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -2871,7 +2871,7 @@
       "/images/103_2.jpg",
       "/images/103_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2892,7 +2892,7 @@
     "images": [
       "/images/104_1.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2915,7 +2915,7 @@
       "/images/105_2.jpg",
       "/images/105_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -2939,7 +2939,7 @@
       "/images/106_3.jpg",
       "/images/106_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2962,7 +2962,7 @@
       "/images/107_2.jpg",
       "/images/107_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -2985,7 +2985,7 @@
       "/images/108_2.jpg",
       "/images/108_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -3009,7 +3009,7 @@
       "/images/109_3.jpg",
       "/images/109_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -3033,7 +3033,7 @@
       "/images/110_3.jpg",
       "/images/110_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3057,7 +3057,7 @@
       "/images/111_3.jpg",
       "/images/111_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3080,7 +3080,7 @@
       "/images/112_2.jpg",
       "/images/112_3.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -3104,7 +3104,7 @@
       "/images/113_3.jpg",
       "/images/113_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3128,7 +3128,7 @@
       "/images/114_3.jpg",
       "/images/114_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -3152,7 +3152,7 @@
       "/images/115_3.jpg",
       "/images/115_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3174,7 +3174,7 @@
       "/images/116_1.jpg",
       "/images/116_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3197,7 +3197,7 @@
       "/images/117_2.jpg",
       "/images/117_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3219,7 +3219,7 @@
       "/images/118_1.jpg",
       "/images/118_2.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3242,7 +3242,7 @@
       "/images/119_2.jpg",
       "/images/119_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -3266,7 +3266,7 @@
       "/images/120_3.jpg",
       "/images/120_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3291,7 +3291,7 @@
       "/images/121_4.jpg",
       "/images/121_5.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3314,7 +3314,7 @@
       "/images/122_2.jpg",
       "/images/122_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3338,7 +3338,7 @@
       "/images/123_3.jpg",
       "/images/123_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3362,7 +3362,7 @@
       "/images/124_3.jpg",
       "/images/124_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3385,7 +3385,7 @@
       "/images/125_2.jpg",
       "/images/125_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3408,7 +3408,7 @@
       "/images/126_2.jpg",
       "/images/126_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -3431,7 +3431,7 @@
       "/images/127_2.jpg",
       "/images/127_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3454,7 +3454,7 @@
       "/images/128_2.jpg",
       "/images/128_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3477,7 +3477,7 @@
       "/images/129_2.jpg",
       "/images/129_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3499,7 +3499,7 @@
       "/images/130_1.jpg",
       "/images/130_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3522,7 +3522,7 @@
       "/images/131_2.jpg",
       "/images/131_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3546,7 +3546,7 @@
       "/images/132_3.jpg",
       "/images/132_4.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -3570,7 +3570,7 @@
       "/images/133_3.jpg",
       "/images/133_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -3594,7 +3594,7 @@
       "/images/134_3.jpg",
       "/images/134_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -3616,7 +3616,7 @@
       "/images/135_1.jpg",
       "/images/135_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3640,7 +3640,7 @@
       "/images/136_3.jpg",
       "/images/136_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3664,7 +3664,7 @@
       "/images/137_3.jpg",
       "/images/137_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -3686,7 +3686,7 @@
       "/images/138_1.jpg",
       "/images/138_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3710,7 +3710,7 @@
       "/images/139_3.jpg",
       "/images/139_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -3733,7 +3733,7 @@
       "/images/140_2.jpg",
       "/images/140_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -3755,7 +3755,7 @@
       "/images/141_1.jpg",
       "/images/141_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3777,7 +3777,7 @@
       "/images/142_1.jpg",
       "/images/142_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3800,7 +3800,7 @@
       "/images/143_2.jpg",
       "/images/143_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3823,7 +3823,7 @@
       "/images/144_2.jpg",
       "/images/144_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3845,7 +3845,7 @@
       "/images/145_1.jpg",
       "/images/145_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3869,7 +3869,7 @@
       "/images/146_3.jpg",
       "/images/146_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3893,7 +3893,7 @@
       "/images/147_3.jpg",
       "/images/147_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3916,7 +3916,7 @@
       "/images/148_2.jpg",
       "/images/148_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3939,7 +3939,7 @@
       "/images/149_2.jpg",
       "/images/149_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -3963,7 +3963,7 @@
       "/images/150_3.jpg",
       "/images/150_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -3986,7 +3986,7 @@
       "/images/151_2.jpg",
       "/images/151_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4009,7 +4009,7 @@
       "/images/152_2.jpg",
       "/images/152_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4033,7 +4033,7 @@
       "/images/153_3.jpg",
       "/images/153_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4057,7 +4057,7 @@
       "/images/154_3.jpg",
       "/images/154_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -4081,7 +4081,7 @@
       "/images/155_3.jpg",
       "/images/155_4.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -4104,7 +4104,7 @@
       "/images/156_2.jpg",
       "/images/156_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -4127,7 +4127,7 @@
       "/images/157_2.jpg",
       "/images/157_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4151,7 +4151,7 @@
       "/images/158_3.jpg",
       "/images/158_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -4175,7 +4175,7 @@
       "/images/159_3.jpg",
       "/images/159_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4198,7 +4198,7 @@
       "/images/160_2.jpg",
       "/images/160_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -4222,7 +4222,7 @@
       "/images/161_3.jpg",
       "/images/161_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4245,7 +4245,7 @@
       "/images/162_2.jpg",
       "/images/162_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4268,7 +4268,7 @@
       "/images/163_2.jpg",
       "/images/163_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4292,7 +4292,7 @@
       "/images/164_3.jpg",
       "/images/164_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -4315,7 +4315,7 @@
       "/images/165_2.jpg",
       "/images/165_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -4338,7 +4338,7 @@
       "/images/166_2.jpg",
       "/images/166_3.jpg"
     ],
-    "soilTrophy": "eutrophe",
+    "soilTrophy": "Eutrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4360,7 +4360,7 @@
       "/images/167_1.jpg",
       "/images/167_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4384,7 +4384,7 @@
       "/images/168_3.jpg",
       "/images/168_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -4408,7 +4408,7 @@
       "/images/169_3.jpg",
       "/images/169_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4431,7 +4431,7 @@
       "/images/170_2.jpg",
       "/images/170_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "xérique"
   },
   {
@@ -4454,7 +4454,7 @@
       "/images/171_2.jpg",
       "/images/171_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4476,7 +4476,7 @@
       "/images/172_1.jpg",
       "/images/172_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4498,7 +4498,7 @@
       "/images/173_1.jpg",
       "/images/173_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4522,7 +4522,7 @@
       "/images/174_3.jpg",
       "/images/174_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4546,7 +4546,7 @@
       "/images/175_3.jpg",
       "/images/175_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4570,7 +4570,7 @@
       "/images/176_3.jpg",
       "/images/176_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4594,7 +4594,7 @@
       "/images/177_3.jpg",
       "/images/177_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4618,7 +4618,7 @@
       "/images/178_3.jpg",
       "/images/178_4.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4640,7 +4640,7 @@
       "/images/179_1.jpg",
       "/images/179_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -4662,7 +4662,7 @@
       "/images/180_1.jpg",
       "/images/180_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -4684,7 +4684,7 @@
       "/images/181_1.jpg",
       "/images/181_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -4706,7 +4706,7 @@
       "/images/182_1.jpg",
       "/images/182_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -4728,7 +4728,7 @@
       "/images/183_1.jpg",
       "/images/183_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -4750,7 +4750,7 @@
       "/images/184_1.jpg",
       "/images/184_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -4772,7 +4772,7 @@
       "/images/185_1.jpg",
       "/images/185_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -4794,7 +4794,7 @@
       "/images/186_1.jpg",
       "/images/186_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   },
   {
@@ -4816,7 +4816,7 @@
       "/images/187_1.jpg",
       "/images/187_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "marécageux"
   },
   {
@@ -4838,7 +4838,7 @@
       "/images/188_1.jpg",
       "/images/188_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique"
   },
   {
@@ -4860,7 +4860,7 @@
       "/images/189_1.jpg",
       "/images/189_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais"
   }
 ]

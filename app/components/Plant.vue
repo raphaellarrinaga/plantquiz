@@ -34,6 +34,10 @@
           <span class="gallery-item__label">Sol (humidité): </span>{{ item.soilMoisture }}</p>
         <p class="gallery-item__ground">
           <span class="gallery-item__label">Sol (Ph): </span>{{ item.soilPh }}</p>
+        <p class="gallery-item__trophy">
+          <span class="gallery-item__label">Sol (fertilité): </span>{{ item.soilTrophy }}</p>
+        <p class="gallery-item__humidity">
+          <span class="gallery-item__label">Sol (hydrique): </span>{{ item.soilHumidityClass }}</p>
         <p class="gallery-item__usage">
           <span class="gallery-item__label">Intérêt: </span>{{ item.interest }}</p>
       </div>
