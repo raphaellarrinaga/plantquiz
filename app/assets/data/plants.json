@@ -298,9 +298,9 @@
     "interest": "Gros capitules solitaires très épineux, apprécié des chardonnerets.",
     "images": [
       "/images/041_1.jpg",
-      "/images/041_2.jpg",
-      "/images/041_3.jpg",
-      "/images/041_4.jpg"
+      "/images/1041_2.jpg",
+      "/images/1041_3.jpg",
+      "/images/1041_4.jpg"
     ],
     "soilTrophy": "mesotrophe",
     "soilHumidityClass": "frais"
@@ -323,8 +323,8 @@
     "images": [
       "/images/071_1.jpg",
       "/images/071_2.jpg",
-      "/images/071_3.jpg",
-      "/images/071_4.jpg"
+      "/images/1071_3.jpg",
+      "/images/1071_4.jpg"
     ],
     "soilTrophy": "mesotrophe",
     "soilHumidityClass": "frais"
@@ -346,8 +346,7 @@
     "interest": "Plante accrochante grâce à de petits aiguillons, fruits ronds collants.",
     "images": [
       "/images/067_1.jpg",
-      "/images/067_2.jpg",
-      "/images/067_3.jpg"
+      "/images/1067_2.jpg"
     ],
     "soilTrophy": "eutrophe",
     "soilHumidityClass": "frais"
@@ -370,8 +369,8 @@
     "images": [
       "/images/075_1.jpg",
       "/images/075_2.jpg",
-      "/images/075_3.jpg",
-      "/images/075_4.jpg"
+      "/images/1075_3.jpg",
+      "/images/1075_4.jpg"
     ],
     "soilTrophy": "mesotrophe",
     "soilHumidityClass": "frais"
@@ -394,8 +393,8 @@
     "images": [
       "/images/097_1.jpg",
       "/images/097_2.jpg",
-      "/images/097_3.jpg",
-      "/images/097_4.jpg"
+      "/images/1097_3.jpg",
+      "/images/1097_4.jpg"
     ],
     "soilTrophy": "mesotrophe",
     "soilHumidityClass": "marécageux"
