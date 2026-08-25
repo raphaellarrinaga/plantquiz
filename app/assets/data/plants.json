@@ -1,1125 +1,121 @@
 [
- {
-    "scientificName": "Achillea millefolium",
-    "vernacularName": "Achillée millefeuille",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "20-80",
-    "flowering": "6-9",
-    "color": "Blanc, Rose",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Plante médicinale et mellifère très commune, feuilles finement découpées.",
-    "images": [
-      "/images/001_1.jpg",
-      "/images/001_2.jpg",
-      "/images/001_3.jpg",
-      "/images/001_4.jpg"
-    ]
-  },
   {
-    "scientificName": "Agrimonia eupatoria",
-    "vernacularName": "Aigremoine eupatoire",
-    "genreOnly": false,
-    "family": "Rosaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-100",
-    "flowering": "6-8",
-    "color": "Jaune",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Basique à neutre",
-    "interest": "Longs épis de fleurs jaunes, utilisée traditionnellement en phytothérapie.",
-    "images": [
-      "/images/002_1.jpg",
-      "/images/002_2.jpg"
-    ]
-  },
-  {
-    "scientificName": "Ajuga reptans",
-    "vernacularName": "Bugle rampante",
-    "genreOnly": false,
-    "family": "Lamiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "10-40",
-    "flowering": "4-7",
-    "color": "Bleu",
-    "exposure": "Mi-ombre, Ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre",
-    "interest": "Excellent couvre-sol printanier apprécié des pollinisateurs.",
-    "images": [
-      "/images/003_1.jpg",
-      "/images/003_2.jpg",
-      "/images/003_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Alchemilla xanthochlora",
-    "vernacularName": "Alchémille vert jaunâtre",
-    "genreOnly": false,
-    "family": "Rosaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "10-40",
-    "flowering": "5-8",
-    "color": "Jaune-vert",
-    "exposure": "Mi-ombre, soleil",
-    "soilMoisture": "Frais à humide",
-    "soilPh": "Neutre à acide",
-    "interest": "Feuillage retenant les gouttes de rosée, fleurs discrètes en cymes.",
-    "images": [
-      "/images/004_1.jpg",
-      "/images/004_2.jpg"
-    ]
-  },
-  {
-    "scientificName": "Alisma plantago-aquatica",
-    "vernacularName": "Plantain d'eau",
-    "genreOnly": false,
-    "family": "Alismataceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace aquatique",
-    "heightCm": "30-100",
-    "flowering": "6-8",
-    "color": "Blanc, Rose pâle",
-    "exposure": "Soleil",
-    "soilMoisture": "Détrempé/Aquatique",
-    "soilPh": "Neutre",
-    "interest": "Plante de berge avec de grandes feuilles en rosette et une inflorescence ramifiée.",
-    "images": [
-      "/images/005_1.jpg",
-      "/images/005_2.jpg",
-      "/images/005_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Alliaria officinalis",
-    "vernacularName": "Alliaire officinale",
-    "genreOnly": false,
-    "family": "Brassicaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Bisannuelle",
-    "heightCm": "30-90",
-    "flowering": "4-6",
-    "color": "Blanc",
-    "exposure": "Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Feuilles froissées dégageant une odeur d'ail, comestible.",
-    "images": [
-      "/images/006_1.jpg",
-      "/images/006_2.jpg",
-      "/images/006_3.jpg",
-      "/images/006_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Allium ursinum",
-    "vernacularName": "Ail des ours",
-    "genreOnly": false,
-    "family": "Amaryllidaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace bulbeuse",
-    "heightCm": "20-40",
-    "flowering": "4-6",
-    "color": "Blanc",
-    "exposure": "Mi-ombre, Ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Neutre",
-    "interest": "Plante de sous-bois comestible très prisée pour son goût d'ail.",
-    "images": [
-      "/images/007_1.jpg",
-      "/images/007_2.jpg",
-      "/images/007_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Anagallis arvensis",
-    "vernacularName": "Mouron rouge",
-    "genreOnly": false,
-    "family": "Primulaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle",
-    "heightCm": "5-20",
-    "flowering": "5-10",
-    "color": "Rouge/Orange",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Petite plante rampante des cultures, les fleurs se ferment par temps couvert.",
-    "images": [
-      "/images/008_1.jpg",
-      "/images/008_2.jpg",
-      "/images/008_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Anemone nemorosa",
-    "vernacularName": "Anémone sylvie",
-    "genreOnly": false,
-    "family": "Ranunculaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace rhizomateuse",
-    "heightCm": "10-20",
-    "flowering": "3-5",
-    "color": "Blanc",
-    "exposure": "Mi-ombre, ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à acide",
-    "interest": "Tapis blanc printanier dans les sous-bois de feuillus.",
-    "images": [
-      "/images/009_1.jpg",
-      "/images/009_2.jpg",
-      "/images/009_3.jpg",
-      "/images/009_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Angelica sylvestris",
-    "vernacularName": "Angélique sauvage",
-    "genreOnly": false,
-    "family": "Apiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Bisannuelle ou vivace",
-    "heightCm": "50-200",
-    "flowering": "7-9",
-    "color": "Blanc, Rose",
-    "exposure": "Mi-ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Neutre",
-    "interest": "Grande plante majestueuse des milieux humides et lisières.",
-    "images": [
-      "/images/010_1.jpg",
-      "/images/010_2.jpg",
-      "/images/010_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Anthriscus sylvestris",
-    "vernacularName": "Anthrisque / Cerfeuil sauvage",
-    "genreOnly": false,
-    "family": "Apiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "60-120",
-    "flowering": "4-6",
-    "color": "Blanc",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre",
-    "interest": "Floraison blanche vaporeuse précoce le long des routes et haies.",
-    "images": [
-      "/images/011_1.jpg",
-      "/images/011_2.jpg"
-    ]
-  },
-  {
-    "scientificName": "Aquilegia vulgaris",
-    "vernacularName": "Ancolie commune",
-    "genreOnly": false,
-    "family": "Ranunculaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-80",
-    "flowering": "5-7",
-    "color": "Bleu-violet",
-    "exposure": "Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Fleurs élégantes à éperons, souvent échappée des jardins.",
-    "images": [
-      "/images/012_1.jpg",
-      "/images/012_2.jpg",
-      "/images/012_3.jpg",
-      "/images/012_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Arctium lappa",
-    "vernacularName": "Grande bardane",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Bisannuelle",
-    "heightCm": "80-200",
-    "flowering": "7-9",
-    "color": "Pourpre",
-    "exposure": "Soleil",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Gros capitules accrochants (velcro naturel), grandes feuilles.",
-    "images": [
-      "/images/013_1.jpg",
-      "/images/013_2.jpg",
-      "/images/013_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Artemisia vulgaris",
-    "vernacularName": "Armoise commune",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "50-150",
-    "flowering": "7-9",
-    "color": "Jaunâtre/Rougeâtre",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Plante aromatique des friches, revers des feuilles argenté.",
-    "images": [
-      "/images/014_1.jpg",
-      "/images/014_2.jpg",
-      "/images/014_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Arum maculatum",
-    "vernacularName": "Gouet tacheté",
-    "genreOnly": false,
-    "family": "Araceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "20-50",
-    "flowering": "4-5",
-    "color": "Vert-jaune (Spathe)",
-    "exposure": "Ombre, Mi-ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Basique à neutre",
-    "interest": "Inflorescence typique en spathe, baies rouges toxiques en été.",
-    "images": [
-      "/images/015_1.jpg",
-      "/images/015_2.jpg",
-      "/images/015_3.jpg",
-      "/images/015_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Bellis perennis",
-    "vernacularName": "Pâquerette",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "5-15",
-    "flowering": "3-11",
-    "color": "Blanc, Cœur jaune",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Tous types",
-    "interest": "Fleur emblématique des pelouses tondues, floraison très longue.",
-    "images": [
-      "/images/016_1.jpg",
-      "/images/016_2.jpg",
-      "/images/016_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Borago officinalis",
-    "vernacularName": "Bourrache officinale",
-    "genreOnly": false,
-    "family": "Boraginaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle",
-    "heightCm": "30-60",
-    "flowering": "5-9",
-    "color": "Bleu",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Neutre",
-    "interest": "Fleurs bleues en étoile comestibles (goût d'huître/concombre).",
-    "images": [
-      "/images/017_1.jpg",
-      "/images/017_2.jpg",
-      "/images/017_3.jpg",
-      "/images/017_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Bryonia dioica",
-    "vernacularName": "Bryone dioïque",
-    "genreOnly": false,
-    "family": "Cucurbitaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace grimpante",
-    "heightCm": "200-400",
-    "flowering": "5-8",
-    "color": "Verdâtre",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Basique à neutre",
-    "interest": "Seule courge sauvage indigène, vrilles et baies rouges toxiques.",
-    "images": [
-      "/images/018_1.jpg",
-      "/images/018_2.jpg",
-      "/images/018_3.jpg",
-      "/images/018_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Buddleja davidii",
-    "vernacularName": "Buddléa de David",
-    "genreOnly": false,
-    "family": "Scrophulariaceae",
-    "exotic": true,
-    "invasive": true,
-    "type": "Ligneux",
-    "heightCm": "200-500",
-    "flowering": "7-9",
-    "color": "Violet",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Tous types",
-    "interest": "Arbre aux papillons, très attractif mais envahissant.",
-    "images": [
-      "/images/019_1.jpg",
-      "/images/019_2.jpg",
-      "/images/019_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Calluna vulgaris",
-    "vernacularName": "Bruyère commune",
-    "genreOnly": false,
-    "family": "Ericaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Ligneux",
-    "heightCm": "20-50",
-    "flowering": "7-9",
-    "color": "Rose/Violet",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Acide",
-    "interest": "Plante typique des landes acides, mellifère.",
-    "images": [
-      "/images/020_1.jpg",
-      "/images/020_2.jpg",
-      "/images/020_3.jpg",
-      "/images/020_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Caltha palustris",
-    "vernacularName": "Populage",
-    "genreOnly": false,
-    "family": "Ranunculaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "20-50",
-    "flowering": "3-5",
-    "color": "Jaune",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Détrempé/Humide",
-    "soilPh": "Neutre",
-    "interest": "Grosses fleurs jaunes brillantes dans les fossés et prairies humides.",
-    "images": [
-      "/images/021_1.jpg",
-      "/images/021_2.jpg",
-      "/images/021_3.jpg",
-      "/images/021_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Calystegia sepium",
-    "vernacularName": "Liseron des haies",
-    "genreOnly": false,
-    "family": "Convolvulaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace grimpante",
-    "heightCm": "200-300",
-    "flowering": "6-9",
-    "color": "Blanc",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais à humide",
-    "soilPh": "Neutre à basique",
-    "interest": "Grandes fleurs en entonnoir colonisant les buissons.",
-    "images": [
-      "/images/022_1.jpg",
-      "/images/022_2.jpg",
-      "/images/022_3.jpg",
-      "/images/022_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Campanula rotundifolia",
-    "vernacularName": "Campanule à feuilles rondes",
-    "genreOnly": false,
-    "family": "Campanulaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "10-40",
-    "flowering": "6-9",
-    "color": "Bleu-violet",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Neutre à acide",
-    "interest": "Clochettes bleues graciles, feuilles de la base rondes.",
-    "images": [
-      "/images/023_1.jpg",
-      "/images/023_2.jpg",
-      "/images/023_3.jpg",
-      "/images/023_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Capsella bursa-pastoris",
-    "vernacularName": "Bourse-à-pasteur",
-    "genreOnly": false,
-    "family": "Brassicaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle ou bisannuelle",
-    "heightCm": "10-50",
-    "flowering": "1-12",
-    "color": "Blanc",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Tous types",
-    "interest": "Fruits en forme de cœur, plante pionnière très commune.",
-    "images": [
-      "/images/024_1.jpg",
-      "/images/024_2.jpg",
-      "/images/024_3.jpg",
-      "/images/024_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Cardamine hirsuta",
-    "vernacularName": "Cardamine hérissée",
-    "genreOnly": false,
-    "family": "Brassicaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle",
-    "heightCm": "10-30",
-    "flowering": "3-5",
-    "color": "Blanc",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre",
-    "interest": "Petite rosette printanière, fruits projetant les graines au toucher.",
-    "images": [
-      "/images/025_1.jpg",
-      "/images/025_2.jpg",
-      "/images/025_3.jpg",
-      "/images/025_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Cardamine pratensis",
-    "vernacularName": "Cardamine des prés",
-    "genreOnly": false,
-    "family": "Brassicaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "20-50",
-    "flowering": "4-5",
-    "color": "Lilas, Rose pâle",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Neutre",
-    "interest": "Plante hôte du papillon Aurore, indicatrice de prairies humides.",
-    "images": [
-      "/images/026_1.jpg",
-      "/images/026_2.jpg",
-      "/images/026_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Carduus crispus",
-    "vernacularName": "Chardon crépu",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Bisannuelle",
-    "heightCm": "50-150",
-    "flowering": "6-9",
-    "color": "Pourpre",
-    "exposure": "Soleil",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Tiges ailées et épineuses, fleurs groupées en tête.",
-    "images": [
-      "/images/027_1.jpg",
-      "/images/027_2.jpg",
-      "/images/027_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Carex sylvatica",
-    "vernacularName": "Laîche des bois",
-    "genreOnly": false,
-    "family": "Cyperaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Graminée",
-    "heightCm": "20-60",
-    "flowering": "5-6",
-    "color": "Vert",
-    "exposure": "Ombre, Mi-ombre",
-    "soilMoisture": "Frais à humide",
-    "soilPh": "Neutre",
-    "interest": "Graminée des forêts à épis retombants fins.",
-    "images": [
-      "/images/028_1.jpg",
-      "/images/028_2.jpg",
-      "/images/028_3.jpg",
-      "/images/028_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Centaurea cyanus",
-    "vernacularName": "Bleuet des champs",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle",
-    "heightCm": "30-80",
-    "flowering": "6-8",
-    "color": "Bleu",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Neutre",
-    "interest": "Plante messicole devenue rare, fleur bleue intense.",
-    "images": [
-      "/images/029_1.jpg",
-      "/images/029_2.jpg",
-      "/images/029_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Centaurea jacea",
-    "vernacularName": "Centaurée jacée",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-80",
-    "flowering": "6-9",
-    "color": "Rose-pourpre",
-    "exposure": "Soleil",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Capitules aux écailles brunes, très commune dans les prairies.",
-    "images": [
-      "/images/030_1.jpg",
-      "/images/030_2.jpg",
-      "/images/030_3.jpg",
-      "/images/030_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Centaurium erythraea",
-    "vernacularName": "Petite centaurée",
-    "genreOnly": false,
-    "family": "Gentianaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle ou bisannuelle",
-    "heightCm": "10-50",
-    "flowering": "6-9",
-    "color": "Rose",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Basique à neutre",
-    "interest": "Petites fleurs roses en étoiles, plante médicinale amère des pelouses sèches.",
-    "images": [
-      "/images/031_1.jpg",
-      "/images/031_2.jpg",
-      "/images/031_3.jpg",
-      "/images/031_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Cerastium arvense",
-    "vernacularName": "Céraiste des champs",
-    "genreOnly": false,
-    "family": "Caryophyllaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "10-30",
-    "flowering": "4-7",
-    "color": "Blanc",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec",
-    "soilPh": "Neutre à basique",
-    "interest": "Plante rampante formant des tapis de fleurs blanches échancrées.",
-    "images": [
-      "/images/032_1.jpg",
-      "/images/032_2.jpg",
-      "/images/032_3.jpg",
-      "/images/032_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Cerastium fontanum",
-    "vernacularName": "Céraiste commun",
-    "genreOnly": false,
-    "family": "Caryophyllaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace ou bisannuelle",
-    "heightCm": "10-40",
-    "flowering": "4-9",
-    "color": "Blanc",
-    "exposure": "Soleil",
-    "soilMoisture": "Frais",
-    "soilPh": "Tous types",
-    "interest": "Plante très commune des prairies et jardins, tiges souvent velues.",
-    "images": [
-      "/images/033_1.jpg",
-      "/images/033_2.jpg",
-      "/images/033_3.jpg",
-      "/images/033_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Chelidonium majus",
-    "vernacularName": "Grande chélidoine",
-    "genreOnly": false,
-    "family": "Papaveraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-80",
-    "flowering": "5-9",
-    "color": "Jaune",
-    "exposure": "Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Sève orange (herbe aux verrues), pousse souvent au pied des vieux murs.",
-    "images": [
-      "/images/034_1.jpg",
-      "/images/034_2.jpg",
-      "/images/034_3.jpg",
-      "/images/034_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Chenopodium album",
-    "vernacularName": "Chénopode blanc",
-    "genreOnly": false,
-    "family": "Amaranthaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle",
-    "heightCm": "30-150",
-    "flowering": "7-10",
-    "color": "Verdâtre",
-    "exposure": "Soleil",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre (riche en azote)",
-    "interest": "Plante pionnière comestible, aspect farineux sur le revers des feuilles.",
-    "images": [
-      "/images/035_1.jpg",
-      "/images/035_2.jpg",
-      "/images/035_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Cichorium intybus",
-    "vernacularName": "Chicorée sauvage",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-100",
-    "flowering": "7-9",
-    "color": "Bleu",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Basique",
-    "interest": "Fleurs bleues magnifiques s'ouvrant le matin, racine utilisée pour le café.",
-    "images": [
-      "/images/036_1.jpg",
-      "/images/036_2.jpg",
-      "/images/036_3.jpg",
-      "/images/036_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Circaea lutetiana",
-    "vernacularName": "Circée de Paris",
-    "genreOnly": false,
-    "family": "Onagraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "20-60",
-    "flowering": "6-8",
-    "color": "Blanc, Rose pâle",
-    "exposure": "Ombre, Mi-ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Neutre",
-    "interest": "Plante discrète des forêts fraîches, petits fruits couverts de poils crochus.",
-    "images": [
-      "/images/037_1.jpg",
-      "/images/037_2.jpg",
-      "/images/037_3.jpg",
-      "/images/037_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Cirsium arvense",
-    "vernacularName": "Cirse des champs",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "50-120",
-    "flowering": "7-9",
-    "color": "Lilas",
-    "exposure": "Soleil",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Chardon très commun, se propage par rhizomes, très mellifère.",
-    "images": [
-      "/images/038_1.jpg",
-      "/images/038_2.jpg",
-      "/images/038_3.jpg",
-      "/images/038_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Cirsium oleraceum",
-    "vernacularName": "Cirse maraîcher",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "50-150",
-    "flowering": "7-9",
-    "color": "Jaunâtre",
-    "exposure": "Mi-ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Basique à neutre",
-    "interest": "Grandes feuilles embrassantes vert tendre, capitules jaunâtres entourés de bractées foliacées.",
-    "images": [
-      "/images/039_1.jpg",
-      "/images/039_2.jpg",
-      "/images/039_3.jpg",
-      "/images/039_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Cirsium palustre",
-    "vernacularName": "Cirse des marais",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Bisannuelle",
-    "heightCm": "50-150",
-    "flowering": "7-9",
-    "color": "Pourpre",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Humide/Détrempé",
-    "soilPh": "Neutre à acide",
-    "interest": "Tige très épineuse et ailée, typique des zones humides.",
-    "images": [
-      "/images/040_1.jpg",
-      "/images/040_2.jpg",
-      "/images/040_3.jpg",
-      "/images/040_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Cirsium vulgare",
-    "vernacularName": "Cirse commun",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Bisannuelle",
-    "heightCm": "50-150",
-    "flowering": "7-9",
-    "color": "Pourpre",
-    "exposure": "Soleil",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Gros capitules solitaires très épineux, apprécié des chardonnerets.",
-    "images": [
-      "/images/041_1.jpg",
-      "/images/041_2.jpg",
-      "/images/041_3.jpg",
-      "/images/041_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Colchicum autumnale",
-    "vernacularName": "Colchique",
-    "genreOnly": false,
-    "family": "Colchicaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace bulbeuse",
-    "heightCm": "10-25",
-    "flowering": "8-10",
-    "color": "Rose, Violet",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais à humide",
-    "soilPh": "Neutre à basique",
-    "interest": "Floraison automnale sans feuilles, plante très toxique des prairies.",
-    "images": [
-      "/images/042_1.jpg",
-      "/images/042_2.jpg",
-      "/images/042_3.jpg",
-      "/images/042_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Convallaria majalis",
-    "vernacularName": "Muguet",
-    "genreOnly": false,
-    "family": "Asparagaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "15-30",
-    "flowering": "4-5",
-    "color": "Blanc",
-    "exposure": "Mi-ombre, ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à acide",
-    "interest": "Rhizomateuse à clochettes blanches très parfumées, emblème du 1er mai, toxique.",
-    "images": [
-      "/images/043_1.jpg",
-      "/images/043_2.jpg",
-      "/images/043_3.jpg",
-      "/images/043_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Convolvulus arvensis",
-    "vernacularName": "Liseron des champs",
-    "genreOnly": false,
-    "family": "Convolvulaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "20-100",
-    "flowering": "6-9",
-    "color": "Blanc, Rose",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Basique à neutre",
-    "interest": "Rampante/grimpante à petites fleurs en entonnoir, colonise les sols cultivés et dégradés.",
-    "images": [
-      "/images/044_1.jpg",
-      "/images/044_2.jpg",
-      "/images/044_3.jpg",
-      "/images/044_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Cruciata laevipes",
-    "vernacularName": "Gaillet croisette",
-    "genreOnly": false,
-    "family": "Rubiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "15-50",
-    "flowering": "4-6",
-    "color": "Jaune",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Verticilles de 4 feuilles en croix, petites fleurs à odeur de miel.",
-    "images": [
-      "/images/045_1.jpg",
-      "/images/045_2.jpg",
-      "/images/045_3.jpg",
-      "/images/045_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Cymbalaria muralis",
-    "vernacularName": "Cymbalaire",
+    "scientificName": "Linaria vulgaris",
+    "vernacularName": "Linaire commune",
     "genreOnly": false,
     "family": "Plantaginaceae",
     "exotic": false,
     "invasive": false,
     "type": "Vivace",
-    "heightCm": "5-15",
-    "flowering": "5-10",
-    "color": "Lilas, Cœur jaune",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Basique",
-    "interest": "Rampante. Ruine-de-Rome, pousse dans les anfractuosités des vieux murs.",
+    "heightCm": "30-60",
+    "flowering": "6-10",
+    "color": "Jaune et Orange",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec",
+    "soilPh": "Neutre à basique",
+    "interest": "Fleurs en forme de 'gueule de loup' avec un éperon, jaune vif.",
     "images": [
-      "/images/046_1.jpg",
-      "/images/046_2.jpg",
-      "/images/046_3.jpg",
-      "/images/046_4.jpg"
-    ]
+      "/images/092_1.jpg",
+      "/images/1092_2.jpg",
+      "/images/1092_3.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
-    "scientificName": "Cytisus scoparius",
-    "vernacularName": "Genêt à balais",
+    "scientificName": "Potentilla reptans",
+    "vernacularName": "Potentille rampante",
+    "genreOnly": false,
+    "family": "Rosaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "10-20",
+    "flowering": "6-9",
+    "color": "Jaune",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Quintefeuille, se propage par de longs stolons s'enracinant aux nœuds.",
+    "images": [
+      "/images/123_1.jpg",
+      "/images/123_2.jpg",
+      "/images/123_3.jpg",
+      "/images/123_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Melilotus albus",
+    "vernacularName": "Mélilot blanc",
     "genreOnly": false,
     "family": "Fabaceae",
     "exotic": false,
     "invasive": false,
-    "type": "Ligneux",
-    "heightCm": "100-200",
-    "flowering": "5-6",
-    "color": "Jaune",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec",
-    "soilPh": "Acide",
-    "interest": "Floraison jaune éclatante, tiges vertes anguleuses, utilisé pour faire des balais.",
-    "images": [
-      "/images/047_1.jpg",
-      "/images/047_2.jpg",
-      "/images/047_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Daucus carota",
-    "vernacularName": "Carotte sauvage",
-    "genreOnly": false,
-    "family": "Apiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Bisannuelle",
-    "heightCm": "30-100",
+    "type": "Annuelle ou bisannuelle",
+    "heightCm": "50-150",
     "flowering": "6-9",
     "color": "Blanc",
     "exposure": "Soleil",
     "soilMoisture": "Sec à frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Ombelles blanches avec souvent une fleur centrale pourpre, racine comestible.",
+    "soilPh": "Basique",
+    "interest": "Plante de friche très parfumée (coumarine), excellente pour les abeilles.",
     "images": [
-      "/images/048_1.jpg",
-      "/images/048_2.jpg",
-      "/images/048_3.jpg",
-      "/images/048_4.jpg"
-    ]
+      "/images/101_1.jpg",
+      "/images/101_2.jpg",
+      "/images/101_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
-    "scientificName": "Digitalis lutea",
-    "vernacularName": "Digitale jaune",
+    "scientificName": "Lotus corniculatus",
+    "vernacularName": "Lotier corniculé",
     "genreOnly": false,
-    "family": "Plantaginaceae",
+    "family": "Fabaceae",
     "exotic": false,
     "invasive": false,
     "type": "Vivace",
-    "heightCm": "40-80",
-    "flowering": "6-8",
-    "color": "Jaune pâle",
-    "exposure": "Mi-ombre",
-    "soilMoisture": "Frais",
+    "heightCm": "10-40",
+    "flowering": "5-9",
+    "color": "Jaune, parfois strié de rouge",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
     "soilPh": "Basique à neutre",
-    "interest": "Fleurs en tubes étroits d'un jaune délicat, moins commune que la pourpre.",
+    "interest": "Plante fourragère mellifère, fleurs groupées évoquant de petites cornes.",
     "images": [
-      "/images/049_1.jpg",
-      "/images/049_2.jpg"
-    ]
+      "/images/093_1.jpg",
+      "/images/093_2.jpg",
+      "/images/1093_3.jpg",
+      "/images/1093_4.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
-    "scientificName": "Digitalis purpurea",
-    "vernacularName": "Digitale pourpre",
+    "scientificName": "Reseda lutea",
+    "vernacularName": "Réséda jaune",
     "genreOnly": false,
-    "family": "Plantaginaceae",
+    "family": "Resedaceae",
     "exotic": false,
     "invasive": false,
     "type": "Bisannuelle ou vivace",
-    "heightCm": "50-150",
-    "flowering": "6-8",
-    "color": "Pourpre",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Acide",
-    "interest": "Grands épis spectaculaires, plante très toxique (digitaline).",
-    "images": [
-      "/images/050_1.jpg",
-      "/images/050_2.jpg",
-      "/images/050_3.jpg",
-      "/images/050_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Dipsacus fullonum",
-    "vernacularName": "Grande cardère",
-    "genreOnly": false,
-    "family": "Caprifoliaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Bisannuelle",
-    "heightCm": "100-200",
-    "flowering": "7-8",
-    "color": "Lilas",
+    "heightCm": "20-60",
+    "flowering": "6-9",
+    "color": "Jaunâtre",
     "exposure": "Soleil",
-    "soilMoisture": "Frais",
-    "soilPh": "Basique à neutre",
-    "interest": "Cabaret des oiseaux (les feuilles retiennent l'eau), capitules épineux.",
+    "soilMoisture": "Sec",
+    "soilPh": "Basique",
+    "interest": "Plante des terrains vagues et talus calcaires, fleurs en grappes fines.",
     "images": [
-      "/images/051_1.jpg",
-      "/images/051_2.jpg",
-      "/images/051_3.jpg",
-      "/images/051_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Drosera rotundifolia",
-    "vernacularName": "Rossolis à feuilles rondes",
-    "genreOnly": false,
-    "family": "Droseraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace carnivore",
-    "heightCm": "5-15",
-    "flowering": "6-8",
-    "color": "Blanc",
-    "exposure": "Soleil",
-    "soilMoisture": "Détrempé/Tourbeux",
-    "soilPh": "Très acide",
-    "interest": "Plante protégée des tourbières capturant des insectes avec ses poils gluants.",
-    "images": [
-      "/images/052_1.jpg",
-      "/images/052_2.jpg",
-      "/images/052_3.jpg",
-      "/images/052_4.jpg"
-    ]
+      "/images/132_1.jpg",
+      "/images/132_2.jpg",
+      "/images/132_3.jpg",
+      "/images/132_4.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
     "scientificName": "Echium vulgare",
@@ -1141,116 +137,77 @@
       "/images/053_2.jpg",
       "/images/053_3.jpg",
       "/images/053_4.jpg"
-    ]
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
-    "scientificName": "Epilobium angustifolium",
-    "vernacularName": "Epilobe en épi",
+    "scientificName": "Arrhenatherum elatius",
+    "vernacularName": "Fromental (Avoine élevée)",
     "genreOnly": false,
-    "family": "Onagraceae",
+    "family": "Poaceae",
     "exotic": false,
     "invasive": false,
-    "type": "Vivace",
-    "heightCm": "50-150",
+    "type": "Graminée",
+    "heightCm": "60-150",
     "flowering": "6-8",
-    "color": "Rose",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à acide",
-    "interest": "Colonise les coupes forestières, longues grappes roses élégantes.",
-    "images": [
-      "/images/054_1.jpg",
-      "/images/054_2.jpg",
-      "/images/054_3.jpg",
-      "/images/054_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Epilobium hirsutum",
-    "vernacularName": "Epilobe hirsute",
-    "genreOnly": false,
-    "family": "Onagraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "50-150",
-    "flowering": "7-9",
-    "color": "Rose vif",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Basique à neutre",
-    "interest": "Grande plante velue des bords d'eau, fleurs à 4 pétales échancrés.",
-    "images": [
-      "/images/055_1.jpg",
-      "/images/055_2.jpg",
-      "/images/055_3.jpg",
-      "/images/055_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Epipactis helleborine",
-    "vernacularName": "Épipactis à larges feuilles",
-    "genreOnly": false,
-    "family": "Orchidaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace (Orchidée)",
-    "heightCm": "30-80",
-    "flowering": "6-8",
-    "color": "Vert, Pourpre",
-    "exposure": "Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Basique à neutre",
-    "interest": "Orchidée forestière pouvant coloniser les parcs et jardins.",
-    "images": [
-      "/images/056_1.jpg",
-      "/images/056_2.jpg",
-      "/images/056_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Equisetum arvense",
-    "vernacularName": "Prêle des champs",
-    "genreOnly": false,
-    "family": "Equisetaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace (Ptéridophyte)",
-    "heightCm": "10-50",
-    "flowering": "3-4 (Spores)",
-    "color": "Brun (fertile), Vert (stérile)",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais à humide",
-    "soilPh": "Neutre à acide",
-    "interest": "Plante préhistorique riche en silice, tiges stériles en forme de sapin.",
-    "images": [
-      "/images/057_1.jpg",
-      "/images/057_2.jpg",
-      "/images/057_3.jpg",
-      "/images/057_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Erodium cicutarium",
-    "vernacularName": "Bec-de-cigogne commun",
-    "genreOnly": false,
-    "family": "Geraniaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle ou bisannuelle",
-    "heightCm": "10-40",
-    "flowering": "4-9",
-    "color": "Rose, Pourpre",
+    "color": "Vert à violacé",
     "exposure": "Soleil",
-    "soilMoisture": "Sec",
-    "soilPh": "Neutre à basique",
-    "interest": "Fruits allongés évoquant un bec d'oiseau se tordant à maturité.",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre",
+    "interest": "Graminée très commune des prairies de fauche, haute et vigoureuse.",
     "images": [
-      "/images/058_1.jpg",
-      "/images/058_2.jpg",
-      "/images/058_3.jpg",
-      "/images/058_4.jpg"
-    ]
+      "/images/182_1.jpg",
+      "/images/182_2.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Phragmites australis",
+    "vernacularName": "Roseau commun",
+    "genreOnly": false,
+    "family": "Poaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "150-300",
+    "flowering": "7-9",
+    "color": "Violet-brun",
+    "exposure": "Soleil",
+    "soilMoisture": "Détrempé/Aquatique",
+    "soilPh": "Neutre",
+    "interest": "Forme des roselières denses, important pour la biodiversité des marais.",
+    "images": [
+      "/images/118_1.jpg",
+      "/images/118_2.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Teucrium scorodonia",
+    "vernacularName": "Germandrée scorodoine",
+    "genreOnly": false,
+    "family": "Lamiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-60",
+    "flowering": "7-9",
+    "color": "Jaune-vert",
+    "exposure": "Mi-ombre, Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Acide",
+    "interest": "Sauge des bois, feuilles gaufrées, fleurs unilatérales, odeur de houblon.",
+    "images": [
+      "/images/158_1.jpg",
+      "/images/158_2.jpg",
+      "/images/158_3.jpg",
+      "/images/158_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Eupatorium cannabinum",
@@ -1269,248 +226,84 @@
     "interest": "Inflorescences floues très attractives pour les papillons.",
     "images": [
       "/images/059_1.jpg",
-      "/images/059_2.jpg",
-      "/images/059_3.jpg",
-      "/images/059_4.jpg"
-    ]
+      "/images/1059_2.jpg",
+      "/images/1059_3.jpg",
+      "/images/1059_4.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
-    "scientificName": "Euphorbia amygdaloides",
-    "vernacularName": "Euphorbe des bois",
-    "genreOnly": false,
-    "family": "Euphorbiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-70",
-    "flowering": "3-6",
-    "color": "Jaune-vert",
-    "exposure": "Mi-ombre, Ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Feuillage persistant, fleurs typiques (cyathes) printanières.",
-    "images": [
-      "/images/060_1.jpg",
-      "/images/060_2.jpg",
-      "/images/060_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Euphorbia helioscopia",
-    "vernacularName": "Euphorbe réveil-matin",
-    "genreOnly": false,
-    "family": "Euphorbiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle",
-    "heightCm": "10-40",
-    "flowering": "4-10",
-    "color": "Jaune-vert",
-    "exposure": "Soleil",
-    "soilMoisture": "Frais",
-    "soilPh": "Basique à neutre",
-    "interest": "Ombelles à 5 rayons tournées vers le soleil, latex blanc irritant.",
-    "images": [
-      "/images/061_1.jpg",
-      "/images/061_2.jpg",
-      "/images/061_3.jpg",
-      "/images/061_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Fallopia japonica",
-    "vernacularName": "Renouée du Japon",
-    "genreOnly": false,
-    "family": "Polygonaceae",
-    "exotic": true,
-    "invasive": true,
-    "type": "Vivace rhizomateuse",
-    "heightCm": "100-300",
-    "flowering": "8-10",
-    "color": "Blanc",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais à humide",
-    "soilPh": "Tous types",
-    "interest": "Espèce exotique envahissante majeure, tiges semblables à du bambou.",
-    "images": [
-      "/images/062_1.jpg",
-      "/images/062_2.jpg",
-      "/images/062_3.jpg",
-      "/images/062_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Filipendula ulmaria",
-    "vernacularName": "Reine-des-prés",
+    "scientificName": "Agrimonia eupatoria",
+    "vernacularName": "Aigremoine eupatoire",
     "genreOnly": false,
     "family": "Rosaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "50-150",
-    "flowering": "6-8",
-    "color": "Blanc crème",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Neutre",
-    "interest": "Fleurs très parfumées, source naturelle d'acide salicylique (aspirine).",
-    "images": [
-      "/images/063_1.jpg",
-      "/images/063_2.jpg",
-      "/images/063_3.jpg",
-      "/images/063_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Fragaria vesca",
-    "vernacularName": "Fraisier des bois",
-    "genreOnly": false,
-    "family": "Rosaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "5-20",
-    "flowering": "4-6",
-    "color": "Blanc",
-    "exposure": "Soleil, Mi-ombre, Ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre",
-    "interest": "Petits fruits rouges délicieux, stolons rampants vigoureux.",
-    "images": [
-      "/images/064_1.jpg",
-      "/images/064_2.jpg",
-      "/images/064_3.jpg",
-      "/images/064_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Galanthus nivalis",
-    "vernacularName": "Perce-neige",
-    "genreOnly": false,
-    "family": "Amaryllidaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace bulbeuse",
-    "heightCm": "10-20",
-    "flowering": "1-3",
-    "color": "Blanc",
-    "exposure": "Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "L'une des premières fleurs de l'année, annonce la fin de l'hiver.",
-    "images": [
-      "/images/065_1.jpg",
-      "/images/065_2.jpg",
-      "/images/065_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Galeopsis tetrahit",
-    "vernacularName": "Galéopsis tétrahit",
-    "genreOnly": false,
-    "family": "Lamiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle",
-    "heightCm": "20-70",
-    "flowering": "7-9",
-    "color": "Rose, Pourpre, Blanc",
-    "exposure": "Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à acide",
-    "interest": "Tiges renflées aux nœuds et poilues, fleurs à lèvre inférieure carrée.",
-    "images": [
-      "/images/066_1.jpg",
-      "/images/066_2.jpg",
-      "/images/066_3.jpg",
-      "/images/066_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Galium aparine",
-    "vernacularName": "Gaillet gratteron",
-    "genreOnly": false,
-    "family": "Rubiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle",
-    "heightCm": "30-150",
-    "flowering": "5-8",
-    "color": "Blanc verdâtre",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais (riche en azote)",
-    "soilPh": "Neutre",
-    "interest": "Plante accrochante grâce à de petits aiguillons, fruits ronds collants.",
-    "images": [
-      "/images/067_1.jpg",
-      "/images/067_2.jpg",
-      "/images/067_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Galium mollugo",
-    "vernacularName": "Gaillet mollugine",
-    "genreOnly": false,
-    "family": "Rubiaceae",
     "exotic": false,
     "invasive": false,
     "type": "Vivace",
     "heightCm": "30-100",
-    "flowering": "5-9",
-    "color": "Blanc",
+    "flowering": "6-8",
+    "color": "Jaune",
     "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Sec à frais",
+    "soilMoisture": "Frais",
     "soilPh": "Basique à neutre",
-    "interest": "Inflorescences blanches vaporeuses, tiges lisses non accrochantes.",
+    "interest": "Longs épis de fleurs jaunes, utilisée traditionnellement en phytothérapie.",
     "images": [
-      "/images/068_1.jpg",
-      "/images/068_2.jpg",
-      "/images/068_3.jpg"
-    ]
+      "/images/002_1.jpg",
+      "/images/002_2.jpg",
+      "/images/1002_3.jpg",
+      "/images/1002_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
-    "scientificName": "Galium odoratum",
-    "vernacularName": "Aspérule odorante",
+    "scientificName": "Cirsium arvense",
+    "vernacularName": "Cirse des champs",
     "genreOnly": false,
-    "family": "Rubiaceae",
+    "family": "Asteraceae",
     "exotic": false,
     "invasive": false,
     "type": "Vivace",
-    "heightCm": "10-30",
-    "flowering": "4-6",
-    "color": "Blanc",
-    "exposure": "Ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre",
-    "interest": "Odeur de foin coupé au séchage (coumarine), utilisée pour le vin de Mai.",
-    "images": [
-      "/images/069_1.jpg",
-      "/images/069_2.jpg",
-      "/images/069_3.jpg",
-      "/images/069_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Geranium robertianum",
-    "vernacularName": "Géranium herbe à Robert",
-    "genreOnly": false,
-    "family": "Geraniaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle ou bisannuelle",
-    "heightCm": "10-50",
-    "flowering": "4-9",
-    "color": "Rose",
-    "exposure": "Mi-ombre, ombre",
+    "heightCm": "50-120",
+    "flowering": "7-9",
+    "color": "Lilas",
+    "exposure": "Soleil",
     "soilMoisture": "Frais",
     "soilPh": "Neutre à basique",
-    "interest": "Feuillage rougissant et odeur forte au froissement.",
+    "interest": "Chardon très commun, se propage par rhizomes, très mellifère.",
     "images": [
-      "/images/070_1.jpg",
-      "/images/070_2.jpg",
-      "/images/070_3.jpg",
-      "/images/070_4.jpg"
-    ]
+      "/images/038_1.jpg",
+      "/images/038_2.jpg",
+      "/images/1038_3.jpg",
+      "/images/1038_4.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Cirsium vulgare",
+    "vernacularName": "Cirse commun",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle",
+    "heightCm": "50-150",
+    "flowering": "7-9",
+    "color": "Pourpre",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Gros capitules solitaires très épineux, apprécié des chardonnerets.",
+    "images": [
+      "/images/041_1.jpg",
+      "/images/041_2.jpg",
+      "/images/041_3.jpg",
+      "/images/041_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Geum urbanum",
@@ -1532,71 +325,32 @@
       "/images/071_2.jpg",
       "/images/071_3.jpg",
       "/images/071_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
-    "scientificName": "Glechoma hederacea",
-    "vernacularName": "Lierre terrestre",
+    "scientificName": "Galium aparine",
+    "vernacularName": "Gaillet gratteron",
     "genreOnly": false,
-    "family": "Lamiaceae",
+    "family": "Rubiaceae",
     "exotic": false,
     "invasive": false,
-    "type": "Vivace",
-    "heightCm": "5-20",
-    "flowering": "3-6",
-    "color": "Bleu-violet",
-    "exposure": "Mi-ombre, ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre",
-    "interest": "Rampante couvre-sol aromatique, fleurs labiées précoces.",
-    "images": [
-      "/images/072_1.jpg",
-      "/images/072_2.jpg",
-      "/images/072_3.jpg",
-      "/images/072_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Hedera helix",
-    "vernacularName": "Lierre grimpant",
-    "genreOnly": false,
-    "family": "Araliaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Ligneux",
-    "heightCm": "Jusqu'à 20-30m",
-    "flowering": "9-11",
-    "color": "Vert-jaune",
-    "exposure": "Tous types",
-    "soilMoisture": "Frais",
-    "soilPh": "Tous types",
-    "interest": "Écologiquement crucial : floraison tardive et fruits hivernaux.",
-    "images": [
-      "/images/073_1.jpg",
-      "/images/073_2.jpg"
-    ]
-  },
-  {
-    "scientificName": "Heracleum mantegazzianum",
-    "vernacularName": "Berce du Caucase",
-    "genreOnly": false,
-    "family": "Apiaceae",
-    "exotic": true,
-    "invasive": true,
-    "type": "Vivace monocarpique",
-    "heightCm": "200-500",
-    "flowering": "6-8",
-    "color": "Blanc",
+    "type": "Annuelle",
+    "heightCm": "30-150",
+    "flowering": "5-8",
+    "color": "Blanc verdâtre",
     "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais à humide",
+    "soilMoisture": "Frais (riche en azote)",
     "soilPh": "Neutre",
-    "interest": "Plante géante invasive, sève hautement phototoxique (brûlures graves).",
+    "interest": "Plante accrochante grâce à de petits aiguillons, fruits ronds collants.",
     "images": [
-      "/images/074_1.jpg",
-      "/images/074_2.jpg",
-      "/images/074_3.jpg",
-      "/images/074_4.jpg"
-    ]
+      "/images/067_1.jpg",
+      "/images/067_2.jpg",
+      "/images/067_3.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Heracleum sphondylium",
@@ -1618,468 +372,9 @@
       "/images/075_2.jpg",
       "/images/075_3.jpg",
       "/images/075_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Hieracium pilosella",
-    "vernacularName": "Épervière piloselle",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "5-25",
-    "flowering": "5-8",
-    "color": "Jaune",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec",
-    "soilPh": "Acide à neutre",
-    "interest": "Rosettes de feuilles très poilues, stolons rampants, fleurs jaune soufre.",
-    "images": [
-      "/images/076_1.jpg",
-      "/images/076_2.jpg",
-      "/images/076_3.jpg",
-      "/images/076_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Humulus lupulus",
-    "vernacularName": "Houblon",
-    "genreOnly": false,
-    "family": "Cannabaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace grimpante",
-    "heightCm": "200-600",
-    "flowering": "6-8",
-    "color": "Verdâtre",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais à humide",
-    "soilPh": "Neutre",
-    "interest": "Liane vigoureuse, cônes femelles utilisés pour la bière.",
-    "images": [
-      "/images/077_1.jpg",
-      "/images/077_2.jpg",
-      "/images/077_3.jpg",
-      "/images/077_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Hyacinthoides non-scripta",
-    "vernacularName": "Jacinthe des bois",
-    "genreOnly": false,
-    "family": "Asparagaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace bulbeuse",
-    "heightCm": "20-40",
-    "flowering": "4-5",
-    "color": "Bleu",
-    "exposure": "Mi-ombre, ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Acide à neutre",
-    "interest": "Forme des tapis bleus spectaculaires en forêt au printemps.",
-    "images": [
-      "/images/078_1.jpg",
-      "/images/078_2.jpg",
-      "/images/078_3.jpg",
-      "/images/078_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Hypericum perforatum",
-    "vernacularName": "Millepertuis perforé",
-    "genreOnly": false,
-    "family": "Hypericaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-80",
-    "flowering": "6-9",
-    "color": "Jaune",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Feuilles semblant percées de trous (glandes translucides), médicinale.",
-    "images": [
-      "/images/079_1.jpg",
-      "/images/079_2.jpg",
-      "/images/079_3.jpg",
-      "/images/079_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Impatiens glandulifera",
-    "vernacularName": "Balsamine de l'Himalaya",
-    "genreOnly": false,
-    "family": "Balsaminaceae",
-    "exotic": true,
-    "invasive": true,
-    "type": "Annuelle",
-    "heightCm": "100-250",
-    "flowering": "7-10",
-    "color": "Rose, Pourpre",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Neutre",
-    "interest": "Espèce invasive des berges, fruits explosifs, fleurs très mellifères.",
-    "images": [
-      "/images/080_1.jpg",
-      "/images/080_2.jpg",
-      "/images/080_3.jpg"
-    ]
-  },
-  {
-    "scientificName": "Impatiens noli-tangere",
-    "vernacularName": "Balsamine des bois",
-    "genreOnly": true,
-    "family": "Balsaminaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle",
-    "heightCm": "20-60",
-    "flowering": "7-9",
-    "color": "Jaune",
-    "exposure": "Ombre, Mi-ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Acide à neutre",
-    "interest": "Plante de sous-bois humide, fleurs pendantes jaunes tachetées de rouge.",
-    "images": [
-      "/images/081_1.jpg",
-      "/images/081_2.jpg",
-      "/images/081_3.jpg",
-      "/images/081_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Iris pseudacorus",
-    "vernacularName": "Iris jaune",
-    "genreOnly": false,
-    "family": "Iridaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace rhizomateuse",
-    "heightCm": "40-120",
-    "flowering": "5-7",
-    "color": "Jaune",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Détrempé/Aquatique",
-    "soilPh": "Neutre à acide",
-    "interest": "Iris des marais, excellent pour l'épuration naturelle des eaux.",
-    "images": [
-      "/images/082_1.jpg",
-      "/images/082_2.jpg",
-      "/images/082_3.jpg",
-      "/images/082_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Juncus effusus",
-    "vernacularName": "Jonc épars",
-    "genreOnly": true,
-    "family": "Juncaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "40-100",
-    "flowering": "6-8",
-    "color": "Brunâtre",
-    "exposure": "Soleil",
-    "soilMoisture": "Humide à détrempé",
-    "soilPh": "Acide",
-    "interest": "Tiges cylindriques sans nœuds, inflorescence latérale semblant sortir de la tige.",
-    "images": [
-      "/images/083_1.jpg",
-      "/images/083_2.jpg",
-      "/images/083_3.jpg",
-      "/images/083_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Knautia arvensis",
-    "vernacularName": "Knautie des champs",
-    "genreOnly": false,
-    "family": "Caprifoliaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-80",
-    "flowering": "5-9",
-    "color": "Lilas",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Basique à neutre",
-    "interest": "Fleurs en têtes plates semblables aux scabieuses, très mellifère.",
-    "images": [
-      "/images/084_1.jpg",
-      "/images/084_2.jpg",
-      "/images/084_3.jpg",
-      "/images/084_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Lactuca serriola",
-    "vernacularName": "Laitue scariole",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle ou bisannuelle",
-    "heightCm": "40-120",
-    "flowering": "7-9",
-    "color": "Jaune pâle",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec",
-    "soilPh": "Basique à neutre",
-    "interest": "Laitue boussole (les feuilles s'orientent nord-sud), ancêtre de la laitue cultivée.",
-    "images": [
-      "/images/085_1.jpg",
-      "/images/085_2.jpg",
-      "/images/085_3.jpg",
-      "/images/085_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Lamium album",
-    "vernacularName": "Lamier blanc",
-    "genreOnly": false,
-    "family": "Lamiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "20-50",
-    "flowering": "4-10",
-    "color": "Blanc",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre",
-    "interest": "Ortie blanche (ne pique pas), fleurs à nectar sucré apprécié des enfants.",
-    "images": [
-      "/images/086_1.jpg",
-      "/images/086_2.jpg",
-      "/images/086_3.jpg",
-      "/images/086_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Lamium galeobdolon",
-    "vernacularName": "Lamier jaune",
-    "genreOnly": false,
-    "family": "Lamiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "15-40",
-    "flowering": "4-6",
-    "color": "Jaune",
-    "exposure": "Ombre, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à acide",
-    "interest": "Plante de forêt, fleurs jaunes avec des taches brunes sur la lèvre inférieure.",
-    "images": [
-      "/images/087_1.jpg",
-      "/images/087_2.jpg",
-      "/images/087_3.jpg",
-      "/images/087_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Lamium purpureum",
-    "vernacularName": "Lamier pourpre",
-    "genreOnly": false,
-    "family": "Lamiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle",
-    "heightCm": "10-30",
-    "flowering": "3-10",
-    "color": "Rose-pourpre",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre",
-    "interest": "Plante pionnière des jardins, sommet du feuillage souvent teinté de violet.",
-    "images": [
-      "/images/088_1.jpg",
-      "/images/088_2.jpg",
-      "/images/088_3.jpg",
-      "/images/088_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Lapsana vulgaris",
-    "vernacularName": "Lampsane",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Annuelle",
-    "heightCm": "30-100",
-    "flowering": "6-9",
-    "color": "Jaune",
-    "exposure": "Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Neutre à basique",
-    "interest": "Petits capitules jaunes s'ouvrant seulement le matin.",
-    "images": [
-      "/images/089_1.jpg",
-      "/images/089_2.jpg",
-      "/images/089_3.jpg",
-      "/images/089_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Lathyrus pratensis",
-    "vernacularName": "Gesse des prés",
-    "genreOnly": true,
-    "family": "Fabaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-100",
-    "flowering": "6-8",
-    "color": "Jaune",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Frais",
-    "soilPh": "Basique à neutre",
-    "interest": "Plante grimpante à fleurs jaunes en grappes, feuilles à une paire de folioles.",
-    "images": [
-      "/images/090_1.jpg",
-      "/images/090_2.jpg",
-      "/images/090_3.jpg",
-      "/images/090_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Leucanthemum vulgare",
-    "vernacularName": "Grande marguerite",
-    "genreOnly": false,
-    "family": "Asteraceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-70",
-    "flowering": "5-7",
-    "color": "Blanc, Cœur jaune",
-    "exposure": "Soleil",
-    "soilMoisture": "Frais",
-    "soilPh": "Basique à neutre",
-    "interest": "Fleur emblématique des prairies de fauche, très robuste.",
-    "images": [
-      "/images/091_1.jpg",
-      "/images/091_2.jpg",
-      "/images/091_3.jpg",
-      "/images/091_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Linaria vulgaris",
-    "vernacularName": "Linaire commune",
-    "genreOnly": false,
-    "family": "Plantaginaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-60",
-    "flowering": "6-10",
-    "color": "Jaune et Orange",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec",
-    "soilPh": "Neutre à basique",
-    "interest": "Fleurs en forme de 'gueule de loup' avec un éperon, jaune vif.",
-    "images": [
-      "/images/092_1.jpg",
-      "/images/092_2.jpg",
-      "/images/092_3.jpg",
-      "/images/092_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Lotus corniculatus",
-    "vernacularName": "Lotier corniculé",
-    "genreOnly": false,
-    "family": "Fabaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "10-40",
-    "flowering": "5-9",
-    "color": "Jaune, parfois strié de rouge",
-    "exposure": "Soleil",
-    "soilMoisture": "Sec à frais",
-    "soilPh": "Basique à neutre",
-    "interest": "Plante fourragère mellifère, fleurs groupées évoquant de petites cornes.",
-    "images": [
-      "/images/093_1.jpg",
-      "/images/093_2.jpg",
-      "/images/093_3.jpg",
-      "/images/093_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Lychnis flos-cuculi",
-    "vernacularName": "Lychnis fleur de coucou",
-    "genreOnly": false,
-    "family": "Caryophyllaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-80",
-    "flowering": "5-7",
-    "color": "Rose",
-    "exposure": "Soleil, Mi-ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Neutre à acide",
-    "interest": "Pétales découpés en lanières fines, typique des prairies humides.",
-    "images": [
-      "/images/094_1.jpg",
-      "/images/094_2.jpg",
-      "/images/094_3.jpg",
-      "/images/094_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Lycopus europaeus",
-    "vernacularName": "Lycope d'Europe",
-    "genreOnly": false,
-    "family": "Lamiaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "30-90",
-    "flowering": "7-9",
-    "color": "Blanc tacheté de pourpre",
-    "exposure": "Mi-ombre",
-    "soilMoisture": "Détrempé/Humide",
-    "soilPh": "Neutre à acide",
-    "interest": "Plante des berges, tiges carrées et feuilles profondément dentées.",
-    "images": [
-      "/images/095_1.jpg",
-      "/images/095_2.jpg",
-      "/images/095_3.jpg",
-      "/images/095_4.jpg"
-    ]
-  },
-  {
-    "scientificName": "Lysimachia nummularia",
-    "vernacularName": "Lysimaque nummulaire",
-    "genreOnly": false,
-    "family": "Primulaceae",
-    "exotic": false,
-    "invasive": false,
-    "type": "Vivace",
-    "heightCm": "5-10",
-    "flowering": "6-8",
-    "color": "Jaune",
-    "exposure": "Mi-ombre, ombre",
-    "soilMoisture": "Humide",
-    "soilPh": "Neutre",
-    "interest": "Rampante. Herbe aux écus, feuilles rondes opposées, excellent couvre-sol humide.",
-    "images": [
-      "/images/096_1.jpg",
-      "/images/096_2.jpg",
-      "/images/096_3.jpg",
-      "/images/096_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Lythrum salicaria",
@@ -2101,7 +396,2344 @@
       "/images/097_2.jpg",
       "/images/097_3.jpg",
       "/images/097_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Vicia cracca",
+    "vernacularName": "Vesce à épis",
+    "genreOnly": false,
+    "family": "Fabaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace grimpante",
+    "heightCm": "30-120",
+    "flowering": "6-8",
+    "color": "Bleu-violet",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Grappes de fleurs bleues denses, feuilles munies de vrilles.",
+    "images": [
+      "/images/173_1.jpg",
+      "/images/173_2.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "scientificName": "Achillea millefolium",
+    "vernacularName": "Achillée millefeuille",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "20-80",
+    "flowering": "6-9",
+    "color": "Blanc, Rose",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Plante médicinale et mellifère très commune, feuilles finement découpées.",
+    "images": [
+      "/images/001_1.jpg",
+      "/images/001_2.jpg",
+      "/images/001_3.jpg",
+      "/images/001_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Agrimonia eupatoria",
+    "vernacularName": "Aigremoine eupatoire",
+    "genreOnly": false,
+    "family": "Rosaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-100",
+    "flowering": "6-8",
+    "color": "Jaune",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Longs épis de fleurs jaunes, utilisée traditionnellement en phytothérapie.",
+    "images": [
+      "/images/002_1.jpg",
+      "/images/002_2.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Ajuga reptans",
+    "vernacularName": "Bugle rampante",
+    "genreOnly": false,
+    "family": "Lamiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "10-40",
+    "flowering": "4-7",
+    "color": "Bleu",
+    "exposure": "Mi-ombre, Ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre",
+    "interest": "Excellent couvre-sol printanier apprécié des pollinisateurs.",
+    "images": [
+      "/images/003_1.jpg",
+      "/images/003_2.jpg",
+      "/images/003_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Alchemilla xanthochlora",
+    "vernacularName": "Alchémille vert jaunâtre",
+    "genreOnly": false,
+    "family": "Rosaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "10-40",
+    "flowering": "5-8",
+    "color": "Jaune-vert",
+    "exposure": "Mi-ombre, soleil",
+    "soilMoisture": "Frais à humide",
+    "soilPh": "Neutre à acide",
+    "interest": "Feuillage retenant les gouttes de rosée, fleurs discrètes en cymes.",
+    "images": [
+      "/images/004_1.jpg",
+      "/images/004_2.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Alisma plantago-aquatica",
+    "vernacularName": "Plantain d'eau",
+    "genreOnly": false,
+    "family": "Alismataceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace aquatique",
+    "heightCm": "30-100",
+    "flowering": "6-8",
+    "color": "Blanc, Rose pâle",
+    "exposure": "Soleil",
+    "soilMoisture": "Détrempé/Aquatique",
+    "soilPh": "Neutre",
+    "interest": "Plante de berge avec de grandes feuilles en rosette et une inflorescence ramifiée.",
+    "images": [
+      "/images/005_1.jpg",
+      "/images/005_2.jpg",
+      "/images/005_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Alliaria officinalis",
+    "vernacularName": "Alliaire officinale",
+    "genreOnly": false,
+    "family": "Brassicaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle",
+    "heightCm": "30-90",
+    "flowering": "4-6",
+    "color": "Blanc",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Feuilles froissées dégageant une odeur d'ail, comestible.",
+    "images": [
+      "/images/006_1.jpg",
+      "/images/006_2.jpg",
+      "/images/006_3.jpg",
+      "/images/006_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Allium ursinum",
+    "vernacularName": "Ail des ours",
+    "genreOnly": false,
+    "family": "Amaryllidaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace bulbeuse",
+    "heightCm": "20-40",
+    "flowering": "4-6",
+    "color": "Blanc",
+    "exposure": "Mi-ombre, Ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Neutre",
+    "interest": "Plante de sous-bois comestible très prisée pour son goût d'ail.",
+    "images": [
+      "/images/007_1.jpg",
+      "/images/007_2.jpg",
+      "/images/007_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Anagallis arvensis",
+    "vernacularName": "Mouron rouge",
+    "genreOnly": false,
+    "family": "Primulaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle",
+    "heightCm": "5-20",
+    "flowering": "5-10",
+    "color": "Rouge/Orange",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Petite plante rampante des cultures, les fleurs se ferment par temps couvert.",
+    "images": [
+      "/images/008_1.jpg",
+      "/images/008_2.jpg",
+      "/images/008_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Anemone nemorosa",
+    "vernacularName": "Anémone sylvie",
+    "genreOnly": false,
+    "family": "Ranunculaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace rhizomateuse",
+    "heightCm": "10-20",
+    "flowering": "3-5",
+    "color": "Blanc",
+    "exposure": "Mi-ombre, ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à acide",
+    "interest": "Tapis blanc printanier dans les sous-bois de feuillus.",
+    "images": [
+      "/images/009_1.jpg",
+      "/images/009_2.jpg",
+      "/images/009_3.jpg",
+      "/images/009_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Angelica sylvestris",
+    "vernacularName": "Angélique sauvage",
+    "genreOnly": false,
+    "family": "Apiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle ou vivace",
+    "heightCm": "50-200",
+    "flowering": "7-9",
+    "color": "Blanc, Rose",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Neutre",
+    "interest": "Grande plante majestueuse des milieux humides et lisières.",
+    "images": [
+      "/images/010_1.jpg",
+      "/images/010_2.jpg",
+      "/images/010_3.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Anthriscus sylvestris",
+    "vernacularName": "Anthrisque / Cerfeuil sauvage",
+    "genreOnly": false,
+    "family": "Apiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "60-120",
+    "flowering": "4-6",
+    "color": "Blanc",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre",
+    "interest": "Floraison blanche vaporeuse précoce le long des routes et haies.",
+    "images": [
+      "/images/011_1.jpg",
+      "/images/011_2.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Aquilegia vulgaris",
+    "vernacularName": "Ancolie commune",
+    "genreOnly": false,
+    "family": "Ranunculaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-80",
+    "flowering": "5-7",
+    "color": "Bleu-violet",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Fleurs élégantes à éperons, souvent échappée des jardins.",
+    "images": [
+      "/images/012_1.jpg",
+      "/images/012_2.jpg",
+      "/images/012_3.jpg",
+      "/images/012_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Arctium lappa",
+    "vernacularName": "Grande bardane",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle",
+    "heightCm": "80-200",
+    "flowering": "7-9",
+    "color": "Pourpre",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Gros capitules accrochants (velcro naturel), grandes feuilles.",
+    "images": [
+      "/images/013_1.jpg",
+      "/images/013_2.jpg",
+      "/images/013_3.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Artemisia vulgaris",
+    "vernacularName": "Armoise commune",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "50-150",
+    "flowering": "7-9",
+    "color": "Jaunâtre/Rougeâtre",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Plante aromatique des friches, revers des feuilles argenté.",
+    "images": [
+      "/images/014_1.jpg",
+      "/images/014_2.jpg",
+      "/images/014_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Arum maculatum",
+    "vernacularName": "Gouet tacheté",
+    "genreOnly": false,
+    "family": "Araceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "20-50",
+    "flowering": "4-5",
+    "color": "Vert-jaune (Spathe)",
+    "exposure": "Ombre, Mi-ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Basique à neutre",
+    "interest": "Inflorescence typique en spathe, baies rouges toxiques en été.",
+    "images": [
+      "/images/015_1.jpg",
+      "/images/015_2.jpg",
+      "/images/015_3.jpg",
+      "/images/015_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Bellis perennis",
+    "vernacularName": "Pâquerette",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "5-15",
+    "flowering": "3-11",
+    "color": "Blanc, Cœur jaune",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Tous types",
+    "interest": "Fleur emblématique des pelouses tondues, floraison très longue.",
+    "images": [
+      "/images/016_1.jpg",
+      "/images/016_2.jpg",
+      "/images/016_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Borago officinalis",
+    "vernacularName": "Bourrache officinale",
+    "genreOnly": false,
+    "family": "Boraginaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle",
+    "heightCm": "30-60",
+    "flowering": "5-9",
+    "color": "Bleu",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre",
+    "interest": "Fleurs bleues en étoile comestibles (goût d'huître/concombre).",
+    "images": [
+      "/images/017_1.jpg",
+      "/images/017_2.jpg",
+      "/images/017_3.jpg",
+      "/images/017_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Bryonia dioica",
+    "vernacularName": "Bryone dioïque",
+    "genreOnly": false,
+    "family": "Cucurbitaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace grimpante",
+    "heightCm": "200-400",
+    "flowering": "5-8",
+    "color": "Verdâtre",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Seule courge sauvage indigène, vrilles et baies rouges toxiques.",
+    "images": [
+      "/images/018_1.jpg",
+      "/images/018_2.jpg",
+      "/images/018_3.jpg",
+      "/images/018_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Buddleja davidii",
+    "vernacularName": "Buddléa de David",
+    "genreOnly": false,
+    "family": "Scrophulariaceae",
+    "exotic": true,
+    "invasive": true,
+    "type": "Ligneux",
+    "heightCm": "200-500",
+    "flowering": "7-9",
+    "color": "Violet",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Tous types",
+    "interest": "Arbre aux papillons, très attractif mais envahissant.",
+    "images": [
+      "/images/019_1.jpg",
+      "/images/019_2.jpg",
+      "/images/019_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Calluna vulgaris",
+    "vernacularName": "Bruyère commune",
+    "genreOnly": false,
+    "family": "Ericaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Ligneux",
+    "heightCm": "20-50",
+    "flowering": "7-9",
+    "color": "Rose/Violet",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Acide",
+    "interest": "Plante typique des landes acides, mellifère.",
+    "images": [
+      "/images/020_1.jpg",
+      "/images/020_2.jpg",
+      "/images/020_3.jpg",
+      "/images/020_4.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Caltha palustris",
+    "vernacularName": "Populage",
+    "genreOnly": false,
+    "family": "Ranunculaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "20-50",
+    "flowering": "3-5",
+    "color": "Jaune",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Détrempé/Humide",
+    "soilPh": "Neutre",
+    "interest": "Grosses fleurs jaunes brillantes dans les fossés et prairies humides.",
+    "images": [
+      "/images/021_1.jpg",
+      "/images/021_2.jpg",
+      "/images/021_3.jpg",
+      "/images/021_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Calystegia sepium",
+    "vernacularName": "Liseron des haies",
+    "genreOnly": false,
+    "family": "Convolvulaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace grimpante",
+    "heightCm": "200-300",
+    "flowering": "6-9",
+    "color": "Blanc",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais à humide",
+    "soilPh": "Neutre à basique",
+    "interest": "Grandes fleurs en entonnoir colonisant les buissons.",
+    "images": [
+      "/images/022_1.jpg",
+      "/images/022_2.jpg",
+      "/images/022_3.jpg",
+      "/images/022_4.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Campanula rotundifolia",
+    "vernacularName": "Campanule à feuilles rondes",
+    "genreOnly": false,
+    "family": "Campanulaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "10-40",
+    "flowering": "6-9",
+    "color": "Bleu-violet",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre à acide",
+    "interest": "Clochettes bleues graciles, feuilles de la base rondes.",
+    "images": [
+      "/images/023_1.jpg",
+      "/images/023_2.jpg",
+      "/images/023_3.jpg",
+      "/images/023_4.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Capsella bursa-pastoris",
+    "vernacularName": "Bourse-à-pasteur",
+    "genreOnly": false,
+    "family": "Brassicaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle ou bisannuelle",
+    "heightCm": "10-50",
+    "flowering": "1-12",
+    "color": "Blanc",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Tous types",
+    "interest": "Fruits en forme de cœur, plante pionnière très commune.",
+    "images": [
+      "/images/024_1.jpg",
+      "/images/024_2.jpg",
+      "/images/024_3.jpg",
+      "/images/024_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Cardamine hirsuta",
+    "vernacularName": "Cardamine hérissée",
+    "genreOnly": false,
+    "family": "Brassicaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle",
+    "heightCm": "10-30",
+    "flowering": "3-5",
+    "color": "Blanc",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre",
+    "interest": "Petite rosette printanière, fruits projetant les graines au toucher.",
+    "images": [
+      "/images/025_1.jpg",
+      "/images/025_2.jpg",
+      "/images/025_3.jpg",
+      "/images/025_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Cardamine pratensis",
+    "vernacularName": "Cardamine des prés",
+    "genreOnly": false,
+    "family": "Brassicaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "20-50",
+    "flowering": "4-5",
+    "color": "Lilas, Rose pâle",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Neutre",
+    "interest": "Plante hôte du papillon Aurore, indicatrice de prairies humides.",
+    "images": [
+      "/images/026_1.jpg",
+      "/images/026_2.jpg",
+      "/images/026_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Carduus crispus",
+    "vernacularName": "Chardon crépu",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle",
+    "heightCm": "50-150",
+    "flowering": "6-9",
+    "color": "Pourpre",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Tiges ailées et épineuses, fleurs groupées en tête.",
+    "images": [
+      "/images/027_1.jpg",
+      "/images/027_2.jpg",
+      "/images/027_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Carex sylvatica",
+    "vernacularName": "Laîche des bois",
+    "genreOnly": false,
+    "family": "Cyperaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Graminée",
+    "heightCm": "20-60",
+    "flowering": "5-6",
+    "color": "Vert",
+    "exposure": "Ombre, Mi-ombre",
+    "soilMoisture": "Frais à humide",
+    "soilPh": "Neutre",
+    "interest": "Graminée des forêts à épis retombants fins.",
+    "images": [
+      "/images/028_1.jpg",
+      "/images/028_2.jpg",
+      "/images/028_3.jpg",
+      "/images/028_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Centaurea cyanus",
+    "vernacularName": "Bleuet des champs",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle",
+    "heightCm": "30-80",
+    "flowering": "6-8",
+    "color": "Bleu",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre",
+    "interest": "Plante messicole devenue rare, fleur bleue intense.",
+    "images": [
+      "/images/029_1.jpg",
+      "/images/029_2.jpg",
+      "/images/029_3.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Centaurea jacea",
+    "vernacularName": "Centaurée jacée",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-80",
+    "flowering": "6-9",
+    "color": "Rose-pourpre",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Capitules aux écailles brunes, très commune dans les prairies.",
+    "images": [
+      "/images/030_1.jpg",
+      "/images/030_2.jpg",
+      "/images/030_3.jpg",
+      "/images/030_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Centaurium erythraea",
+    "vernacularName": "Petite centaurée",
+    "genreOnly": false,
+    "family": "Gentianaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle ou bisannuelle",
+    "heightCm": "10-50",
+    "flowering": "6-9",
+    "color": "Rose",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Petites fleurs roses en étoiles, plante médicinale amère des pelouses sèches.",
+    "images": [
+      "/images/031_1.jpg",
+      "/images/031_2.jpg",
+      "/images/031_3.jpg",
+      "/images/031_4.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Cerastium arvense",
+    "vernacularName": "Céraiste des champs",
+    "genreOnly": false,
+    "family": "Caryophyllaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "10-30",
+    "flowering": "4-7",
+    "color": "Blanc",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec",
+    "soilPh": "Neutre à basique",
+    "interest": "Plante rampante formant des tapis de fleurs blanches échancrées.",
+    "images": [
+      "/images/032_1.jpg",
+      "/images/032_2.jpg",
+      "/images/032_3.jpg",
+      "/images/032_4.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "xérique"
+  },
+  {
+    "scientificName": "Cerastium fontanum",
+    "vernacularName": "Céraiste commun",
+    "genreOnly": false,
+    "family": "Caryophyllaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace ou bisannuelle",
+    "heightCm": "10-40",
+    "flowering": "4-9",
+    "color": "Blanc",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Tous types",
+    "interest": "Plante très commune des prairies et jardins, tiges souvent velues.",
+    "images": [
+      "/images/033_1.jpg",
+      "/images/033_2.jpg",
+      "/images/033_3.jpg",
+      "/images/033_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Chelidonium majus",
+    "vernacularName": "Grande chélidoine",
+    "genreOnly": false,
+    "family": "Papaveraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-80",
+    "flowering": "5-9",
+    "color": "Jaune",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Sève orange (herbe aux verrues), pousse souvent au pied des vieux murs.",
+    "images": [
+      "/images/034_1.jpg",
+      "/images/034_2.jpg",
+      "/images/034_3.jpg",
+      "/images/034_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Chenopodium album",
+    "vernacularName": "Chénopode blanc",
+    "genreOnly": false,
+    "family": "Amaranthaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle",
+    "heightCm": "30-150",
+    "flowering": "7-10",
+    "color": "Verdâtre",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre (riche en azote)",
+    "interest": "Plante pionnière comestible, aspect farineux sur le revers des feuilles.",
+    "images": [
+      "/images/035_1.jpg",
+      "/images/035_2.jpg",
+      "/images/035_3.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Cichorium intybus",
+    "vernacularName": "Chicorée sauvage",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-100",
+    "flowering": "7-9",
+    "color": "Bleu",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Basique",
+    "interest": "Fleurs bleues magnifiques s'ouvrant le matin, racine utilisée pour le café.",
+    "images": [
+      "/images/036_1.jpg",
+      "/images/036_2.jpg",
+      "/images/036_3.jpg",
+      "/images/036_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Circaea lutetiana",
+    "vernacularName": "Circée de Paris",
+    "genreOnly": false,
+    "family": "Onagraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "20-60",
+    "flowering": "6-8",
+    "color": "Blanc, Rose pâle",
+    "exposure": "Ombre, Mi-ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Neutre",
+    "interest": "Plante discrète des forêts fraîches, petits fruits couverts de poils crochus.",
+    "images": [
+      "/images/037_1.jpg",
+      "/images/037_2.jpg",
+      "/images/037_3.jpg",
+      "/images/037_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Cirsium arvense",
+    "vernacularName": "Cirse des champs",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "50-120",
+    "flowering": "7-9",
+    "color": "Lilas",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Chardon très commun, se propage par rhizomes, très mellifère.",
+    "images": [
+      "/images/038_1.jpg",
+      "/images/038_2.jpg",
+      "/images/038_3.jpg",
+      "/images/038_4.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Cirsium oleraceum",
+    "vernacularName": "Cirse maraîcher",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "50-150",
+    "flowering": "7-9",
+    "color": "Jaunâtre",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Basique à neutre",
+    "interest": "Grandes feuilles embrassantes vert tendre, capitules jaunâtres entourés de bractées foliacées.",
+    "images": [
+      "/images/039_1.jpg",
+      "/images/039_2.jpg",
+      "/images/039_3.jpg",
+      "/images/039_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Cirsium palustre",
+    "vernacularName": "Cirse des marais",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle",
+    "heightCm": "50-150",
+    "flowering": "7-9",
+    "color": "Pourpre",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Humide/Détrempé",
+    "soilPh": "Neutre à acide",
+    "interest": "Tige très épineuse et ailée, typique des zones humides.",
+    "images": [
+      "/images/040_1.jpg",
+      "/images/040_2.jpg",
+      "/images/040_3.jpg",
+      "/images/040_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Cirsium vulgare",
+    "vernacularName": "Cirse commun",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle",
+    "heightCm": "50-150",
+    "flowering": "7-9",
+    "color": "Pourpre",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Gros capitules solitaires très épineux, apprécié des chardonnerets.",
+    "images": [
+      "/images/041_1.jpg",
+      "/images/041_2.jpg",
+      "/images/041_3.jpg",
+      "/images/041_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Colchicum autumnale",
+    "vernacularName": "Colchique",
+    "genreOnly": false,
+    "family": "Colchicaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace bulbeuse",
+    "heightCm": "10-25",
+    "flowering": "8-10",
+    "color": "Rose, Violet",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais à humide",
+    "soilPh": "Neutre à basique",
+    "interest": "Floraison automnale sans feuilles, plante très toxique des prairies.",
+    "images": [
+      "/images/042_1.jpg",
+      "/images/042_2.jpg",
+      "/images/042_3.jpg",
+      "/images/042_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Convallaria majalis",
+    "vernacularName": "Muguet",
+    "genreOnly": false,
+    "family": "Asparagaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "15-30",
+    "flowering": "4-5",
+    "color": "Blanc",
+    "exposure": "Mi-ombre, ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à acide",
+    "interest": "Rhizomateuse à clochettes blanches très parfumées, emblème du 1er mai, toxique.",
+    "images": [
+      "/images/043_1.jpg",
+      "/images/043_2.jpg",
+      "/images/043_3.jpg",
+      "/images/043_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Convolvulus arvensis",
+    "vernacularName": "Liseron des champs",
+    "genreOnly": false,
+    "family": "Convolvulaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "20-100",
+    "flowering": "6-9",
+    "color": "Blanc, Rose",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Rampante/grimpante à petites fleurs en entonnoir, colonise les sols cultivés et dégradés.",
+    "images": [
+      "/images/044_1.jpg",
+      "/images/044_2.jpg",
+      "/images/044_3.jpg",
+      "/images/044_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Cruciata laevipes",
+    "vernacularName": "Gaillet croisette",
+    "genreOnly": false,
+    "family": "Rubiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "15-50",
+    "flowering": "4-6",
+    "color": "Jaune",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Verticilles de 4 feuilles en croix, petites fleurs à odeur de miel.",
+    "images": [
+      "/images/045_1.jpg",
+      "/images/045_2.jpg",
+      "/images/045_3.jpg",
+      "/images/045_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Cymbalaria muralis",
+    "vernacularName": "Cymbalaire",
+    "genreOnly": false,
+    "family": "Plantaginaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "5-15",
+    "flowering": "5-10",
+    "color": "Lilas, Cœur jaune",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Basique",
+    "interest": "Rampante. Ruine-de-Rome, pousse dans les anfractuosités des vieux murs.",
+    "images": [
+      "/images/046_1.jpg",
+      "/images/046_2.jpg",
+      "/images/046_3.jpg",
+      "/images/046_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Cytisus scoparius",
+    "vernacularName": "Genêt à balais",
+    "genreOnly": false,
+    "family": "Fabaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Ligneux",
+    "heightCm": "100-200",
+    "flowering": "5-6",
+    "color": "Jaune",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec",
+    "soilPh": "Acide",
+    "interest": "Floraison jaune éclatante, tiges vertes anguleuses, utilisé pour faire des balais.",
+    "images": [
+      "/images/047_1.jpg",
+      "/images/047_2.jpg",
+      "/images/047_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "xérique"
+  },
+  {
+    "scientificName": "Daucus carota",
+    "vernacularName": "Carotte sauvage",
+    "genreOnly": false,
+    "family": "Apiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle",
+    "heightCm": "30-100",
+    "flowering": "6-9",
+    "color": "Blanc",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Ombelles blanches avec souvent une fleur centrale pourpre, racine comestible.",
+    "images": [
+      "/images/048_1.jpg",
+      "/images/048_2.jpg",
+      "/images/048_3.jpg",
+      "/images/048_4.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Digitalis lutea",
+    "vernacularName": "Digitale jaune",
+    "genreOnly": false,
+    "family": "Plantaginaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "40-80",
+    "flowering": "6-8",
+    "color": "Jaune pâle",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Fleurs en tubes étroits d'un jaune délicat, moins commune que la pourpre.",
+    "images": [
+      "/images/049_1.jpg",
+      "/images/049_2.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Digitalis purpurea",
+    "vernacularName": "Digitale pourpre",
+    "genreOnly": false,
+    "family": "Plantaginaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle ou vivace",
+    "heightCm": "50-150",
+    "flowering": "6-8",
+    "color": "Pourpre",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Acide",
+    "interest": "Grands épis spectaculaires, plante très toxique (digitaline).",
+    "images": [
+      "/images/050_1.jpg",
+      "/images/050_2.jpg",
+      "/images/050_3.jpg",
+      "/images/050_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Dipsacus fullonum",
+    "vernacularName": "Grande cardère",
+    "genreOnly": false,
+    "family": "Caprifoliaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle",
+    "heightCm": "100-200",
+    "flowering": "7-8",
+    "color": "Lilas",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Cabaret des oiseaux (les feuilles retiennent l'eau), capitules épineux.",
+    "images": [
+      "/images/051_1.jpg",
+      "/images/051_2.jpg",
+      "/images/051_3.jpg",
+      "/images/051_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Drosera rotundifolia",
+    "vernacularName": "Rossolis à feuilles rondes",
+    "genreOnly": false,
+    "family": "Droseraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace carnivore",
+    "heightCm": "5-15",
+    "flowering": "6-8",
+    "color": "Blanc",
+    "exposure": "Soleil",
+    "soilMoisture": "Détrempé/Tourbeux",
+    "soilPh": "Très acide",
+    "interest": "Plante protégée des tourbières capturant des insectes avec ses poils gluants.",
+    "images": [
+      "/images/052_1.jpg",
+      "/images/052_2.jpg",
+      "/images/052_3.jpg",
+      "/images/052_4.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Echium vulgare",
+    "vernacularName": "Vipérine commune",
+    "genreOnly": false,
+    "family": "Boraginaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Bisannuelle",
+    "heightCm": "30-80",
+    "flowering": "5-8",
+    "color": "Bleu",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec",
+    "soilPh": "Basique",
+    "interest": "Plante très mellifère, fleurs changeant du rose au bleu, tiges rudes.",
+    "images": [
+      "/images/053_1.jpg",
+      "/images/053_2.jpg",
+      "/images/053_3.jpg",
+      "/images/053_4.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "xérique"
+  },
+  {
+    "scientificName": "Epilobium angustifolium",
+    "vernacularName": "Epilobe en épi",
+    "genreOnly": false,
+    "family": "Onagraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "50-150",
+    "flowering": "6-8",
+    "color": "Rose",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à acide",
+    "interest": "Colonise les coupes forestières, longues grappes roses élégantes.",
+    "images": [
+      "/images/054_1.jpg",
+      "/images/054_2.jpg",
+      "/images/054_3.jpg",
+      "/images/054_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Epilobium hirsutum",
+    "vernacularName": "Epilobe hirsute",
+    "genreOnly": false,
+    "family": "Onagraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "50-150",
+    "flowering": "7-9",
+    "color": "Rose vif",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Basique à neutre",
+    "interest": "Grande plante velue des bords d'eau, fleurs à 4 pétales échancrés.",
+    "images": [
+      "/images/055_1.jpg",
+      "/images/055_2.jpg",
+      "/images/055_3.jpg",
+      "/images/055_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Epipactis helleborine",
+    "vernacularName": "Épipactis à larges feuilles",
+    "genreOnly": false,
+    "family": "Orchidaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace (Orchidée)",
+    "heightCm": "30-80",
+    "flowering": "6-8",
+    "color": "Vert, Pourpre",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Orchidée forestière pouvant coloniser les parcs et jardins.",
+    "images": [
+      "/images/056_1.jpg",
+      "/images/056_2.jpg",
+      "/images/056_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Equisetum arvense",
+    "vernacularName": "Prêle des champs",
+    "genreOnly": false,
+    "family": "Equisetaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace (Ptéridophyte)",
+    "heightCm": "10-50",
+    "flowering": "3-4 (Spores)",
+    "color": "Brun (fertile), Vert (stérile)",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais à humide",
+    "soilPh": "Neutre à acide",
+    "interest": "Plante préhistorique riche en silice, tiges stériles en forme de sapin.",
+    "images": [
+      "/images/057_1.jpg",
+      "/images/057_2.jpg",
+      "/images/057_3.jpg",
+      "/images/057_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Erodium cicutarium",
+    "vernacularName": "Bec-de-cigogne commun",
+    "genreOnly": false,
+    "family": "Geraniaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle ou bisannuelle",
+    "heightCm": "10-40",
+    "flowering": "4-9",
+    "color": "Rose, Pourpre",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec",
+    "soilPh": "Neutre à basique",
+    "interest": "Fruits allongés évoquant un bec d'oiseau se tordant à maturité.",
+    "images": [
+      "/images/058_1.jpg",
+      "/images/058_2.jpg",
+      "/images/058_3.jpg",
+      "/images/058_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "xérique"
+  },
+  {
+    "scientificName": "Eupatorium cannabinum",
+    "vernacularName": "Eupatoire chanvrine",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "50-150",
+    "flowering": "7-9",
+    "color": "Rose pâle",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Basique à neutre",
+    "interest": "Inflorescences floues très attractives pour les papillons.",
+    "images": [
+      "/images/059_1.jpg",
+      "/images/059_2.jpg",
+      "/images/059_3.jpg",
+      "/images/059_4.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Euphorbia amygdaloides",
+    "vernacularName": "Euphorbe des bois",
+    "genreOnly": false,
+    "family": "Euphorbiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-70",
+    "flowering": "3-6",
+    "color": "Jaune-vert",
+    "exposure": "Mi-ombre, Ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Feuillage persistant, fleurs typiques (cyathes) printanières.",
+    "images": [
+      "/images/060_1.jpg",
+      "/images/060_2.jpg",
+      "/images/060_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Euphorbia helioscopia",
+    "vernacularName": "Euphorbe réveil-matin",
+    "genreOnly": false,
+    "family": "Euphorbiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle",
+    "heightCm": "10-40",
+    "flowering": "4-10",
+    "color": "Jaune-vert",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Ombelles à 5 rayons tournées vers le soleil, latex blanc irritant.",
+    "images": [
+      "/images/061_1.jpg",
+      "/images/061_2.jpg",
+      "/images/061_3.jpg",
+      "/images/061_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Fallopia japonica",
+    "vernacularName": "Renouée du Japon",
+    "genreOnly": false,
+    "family": "Polygonaceae",
+    "exotic": true,
+    "invasive": true,
+    "type": "Vivace rhizomateuse",
+    "heightCm": "100-300",
+    "flowering": "8-10",
+    "color": "Blanc",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais à humide",
+    "soilPh": "Tous types",
+    "interest": "Espèce exotique envahissante majeure, tiges semblables à du bambou.",
+    "images": [
+      "/images/062_1.jpg",
+      "/images/062_2.jpg",
+      "/images/062_3.jpg",
+      "/images/062_4.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Filipendula ulmaria",
+    "vernacularName": "Reine-des-prés",
+    "genreOnly": false,
+    "family": "Rosaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "50-150",
+    "flowering": "6-8",
+    "color": "Blanc crème",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Neutre",
+    "interest": "Fleurs très parfumées, source naturelle d'acide salicylique (aspirine).",
+    "images": [
+      "/images/063_1.jpg",
+      "/images/063_2.jpg",
+      "/images/063_3.jpg",
+      "/images/063_4.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Fragaria vesca",
+    "vernacularName": "Fraisier des bois",
+    "genreOnly": false,
+    "family": "Rosaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "5-20",
+    "flowering": "4-6",
+    "color": "Blanc",
+    "exposure": "Soleil, Mi-ombre, Ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre",
+    "interest": "Petits fruits rouges délicieux, stolons rampants vigoureux.",
+    "images": [
+      "/images/064_1.jpg",
+      "/images/064_2.jpg",
+      "/images/064_3.jpg",
+      "/images/064_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Galanthus nivalis",
+    "vernacularName": "Perce-neige",
+    "genreOnly": false,
+    "family": "Amaryllidaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace bulbeuse",
+    "heightCm": "10-20",
+    "flowering": "1-3",
+    "color": "Blanc",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "L'une des premières fleurs de l'année, annonce la fin de l'hiver.",
+    "images": [
+      "/images/065_1.jpg",
+      "/images/065_2.jpg",
+      "/images/065_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Galeopsis tetrahit",
+    "vernacularName": "Galéopsis tétrahit",
+    "genreOnly": false,
+    "family": "Lamiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle",
+    "heightCm": "20-70",
+    "flowering": "7-9",
+    "color": "Rose, Pourpre, Blanc",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à acide",
+    "interest": "Tiges renflées aux nœuds et poilues, fleurs à lèvre inférieure carrée.",
+    "images": [
+      "/images/066_1.jpg",
+      "/images/066_2.jpg",
+      "/images/066_3.jpg",
+      "/images/066_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Galium aparine",
+    "vernacularName": "Gaillet gratteron",
+    "genreOnly": false,
+    "family": "Rubiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle",
+    "heightCm": "30-150",
+    "flowering": "5-8",
+    "color": "Blanc verdâtre",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais (riche en azote)",
+    "soilPh": "Neutre",
+    "interest": "Plante accrochante grâce à de petits aiguillons, fruits ronds collants.",
+    "images": [
+      "/images/067_1.jpg",
+      "/images/067_2.jpg",
+      "/images/067_3.jpg"
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Galium mollugo",
+    "vernacularName": "Gaillet mollugine",
+    "genreOnly": false,
+    "family": "Rubiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-100",
+    "flowering": "5-9",
+    "color": "Blanc",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Inflorescences blanches vaporeuses, tiges lisses non accrochantes.",
+    "images": [
+      "/images/068_1.jpg",
+      "/images/068_2.jpg",
+      "/images/068_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Galium odoratum",
+    "vernacularName": "Aspérule odorante",
+    "genreOnly": false,
+    "family": "Rubiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "10-30",
+    "flowering": "4-6",
+    "color": "Blanc",
+    "exposure": "Ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre",
+    "interest": "Odeur de foin coupé au séchage (coumarine), utilisée pour le vin de Mai.",
+    "images": [
+      "/images/069_1.jpg",
+      "/images/069_2.jpg",
+      "/images/069_3.jpg",
+      "/images/069_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Geranium robertianum",
+    "vernacularName": "Géranium herbe à Robert",
+    "genreOnly": false,
+    "family": "Geraniaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle ou bisannuelle",
+    "heightCm": "10-50",
+    "flowering": "4-9",
+    "color": "Rose",
+    "exposure": "Mi-ombre, ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Feuillage rougissant et odeur forte au froissement.",
+    "images": [
+      "/images/070_1.jpg",
+      "/images/070_2.jpg",
+      "/images/070_3.jpg",
+      "/images/070_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Geum urbanum",
+    "vernacularName": "Benoîte commune",
+    "genreOnly": false,
+    "family": "Rosaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "20-60",
+    "flowering": "5-9",
+    "color": "Jaune",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Petites fleurs jaunes, racine à odeur de clou de girofle.",
+    "images": [
+      "/images/071_1.jpg",
+      "/images/071_2.jpg",
+      "/images/071_3.jpg",
+      "/images/071_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Glechoma hederacea",
+    "vernacularName": "Lierre terrestre",
+    "genreOnly": false,
+    "family": "Lamiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "5-20",
+    "flowering": "3-6",
+    "color": "Bleu-violet",
+    "exposure": "Mi-ombre, ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre",
+    "interest": "Rampante couvre-sol aromatique, fleurs labiées précoces.",
+    "images": [
+      "/images/072_1.jpg",
+      "/images/072_2.jpg",
+      "/images/072_3.jpg",
+      "/images/072_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Hedera helix",
+    "vernacularName": "Lierre grimpant",
+    "genreOnly": false,
+    "family": "Araliaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Ligneux",
+    "heightCm": "Jusqu'à 20-30m",
+    "flowering": "9-11",
+    "color": "Vert-jaune",
+    "exposure": "Tous types",
+    "soilMoisture": "Frais",
+    "soilPh": "Tous types",
+    "interest": "Écologiquement crucial : floraison tardive et fruits hivernaux.",
+    "images": [
+      "/images/073_1.jpg",
+      "/images/073_2.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Heracleum mantegazzianum",
+    "vernacularName": "Berce du Caucase",
+    "genreOnly": false,
+    "family": "Apiaceae",
+    "exotic": true,
+    "invasive": true,
+    "type": "Vivace monocarpique",
+    "heightCm": "200-500",
+    "flowering": "6-8",
+    "color": "Blanc",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais à humide",
+    "soilPh": "Neutre",
+    "interest": "Plante géante invasive, sève hautement phototoxique (brûlures graves).",
+    "images": [
+      "/images/074_1.jpg",
+      "/images/074_2.jpg",
+      "/images/074_3.jpg",
+      "/images/074_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Heracleum sphondylium",
+    "vernacularName": "Berce commune",
+    "genreOnly": false,
+    "family": "Apiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace ou bisannuelle",
+    "heightCm": "50-150",
+    "flowering": "6-9",
+    "color": "Blanc",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Plante indigène robuste, comestible (jeunes tiges) mais manipuler avec soin.",
+    "images": [
+      "/images/075_1.jpg",
+      "/images/075_2.jpg",
+      "/images/075_3.jpg",
+      "/images/075_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Hieracium pilosella",
+    "vernacularName": "Épervière piloselle",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "5-25",
+    "flowering": "5-8",
+    "color": "Jaune",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec",
+    "soilPh": "Acide à neutre",
+    "interest": "Rosettes de feuilles très poilues, stolons rampants, fleurs jaune soufre.",
+    "images": [
+      "/images/076_1.jpg",
+      "/images/076_2.jpg",
+      "/images/076_3.jpg",
+      "/images/076_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "xérique"
+  },
+  {
+    "scientificName": "Humulus lupulus",
+    "vernacularName": "Houblon",
+    "genreOnly": false,
+    "family": "Cannabaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace grimpante",
+    "heightCm": "200-600",
+    "flowering": "6-8",
+    "color": "Verdâtre",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais à humide",
+    "soilPh": "Neutre",
+    "interest": "Liane vigoureuse, cônes femelles utilisés pour la bière.",
+    "images": [
+      "/images/077_1.jpg",
+      "/images/077_2.jpg",
+      "/images/077_3.jpg",
+      "/images/077_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Hyacinthoides non-scripta",
+    "vernacularName": "Jacinthe des bois",
+    "genreOnly": false,
+    "family": "Asparagaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace bulbeuse",
+    "heightCm": "20-40",
+    "flowering": "4-5",
+    "color": "Bleu",
+    "exposure": "Mi-ombre, ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Acide à neutre",
+    "interest": "Forme des tapis bleus spectaculaires en forêt au printemps.",
+    "images": [
+      "/images/078_1.jpg",
+      "/images/078_2.jpg",
+      "/images/078_3.jpg",
+      "/images/078_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Hypericum perforatum",
+    "vernacularName": "Millepertuis perforé",
+    "genreOnly": false,
+    "family": "Hypericaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-80",
+    "flowering": "6-9",
+    "color": "Jaune",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Feuilles semblant percées de trous (glandes translucides), médicinale.",
+    "images": [
+      "/images/079_1.jpg",
+      "/images/079_2.jpg",
+      "/images/079_3.jpg",
+      "/images/079_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Impatiens glandulifera",
+    "vernacularName": "Balsamine de l'Himalaya",
+    "genreOnly": false,
+    "family": "Balsaminaceae",
+    "exotic": true,
+    "invasive": true,
+    "type": "Annuelle",
+    "heightCm": "100-250",
+    "flowering": "7-10",
+    "color": "Rose, Pourpre",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Neutre",
+    "interest": "Espèce invasive des berges, fruits explosifs, fleurs très mellifères.",
+    "images": [
+      "/images/080_1.jpg",
+      "/images/080_2.jpg",
+      "/images/080_3.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Impatiens noli-tangere",
+    "vernacularName": "Balsamine des bois",
+    "genreOnly": true,
+    "family": "Balsaminaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle",
+    "heightCm": "20-60",
+    "flowering": "7-9",
+    "color": "Jaune",
+    "exposure": "Ombre, Mi-ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Acide à neutre",
+    "interest": "Plante de sous-bois humide, fleurs pendantes jaunes tachetées de rouge.",
+    "images": [
+      "/images/081_1.jpg",
+      "/images/081_2.jpg",
+      "/images/081_3.jpg",
+      "/images/081_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Iris pseudacorus",
+    "vernacularName": "Iris jaune",
+    "genreOnly": false,
+    "family": "Iridaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace rhizomateuse",
+    "heightCm": "40-120",
+    "flowering": "5-7",
+    "color": "Jaune",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Détrempé/Aquatique",
+    "soilPh": "Neutre à acide",
+    "interest": "Iris des marais, excellent pour l'épuration naturelle des eaux.",
+    "images": [
+      "/images/082_1.jpg",
+      "/images/082_2.jpg",
+      "/images/082_3.jpg",
+      "/images/082_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Juncus effusus",
+    "vernacularName": "Jonc épars",
+    "genreOnly": true,
+    "family": "Juncaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "40-100",
+    "flowering": "6-8",
+    "color": "Brunâtre",
+    "exposure": "Soleil",
+    "soilMoisture": "Humide à détrempé",
+    "soilPh": "Acide",
+    "interest": "Tiges cylindriques sans nœuds, inflorescence latérale semblant sortir de la tige.",
+    "images": [
+      "/images/083_1.jpg",
+      "/images/083_2.jpg",
+      "/images/083_3.jpg",
+      "/images/083_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Knautia arvensis",
+    "vernacularName": "Knautie des champs",
+    "genreOnly": false,
+    "family": "Caprifoliaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-80",
+    "flowering": "5-9",
+    "color": "Lilas",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Fleurs en têtes plates semblables aux scabieuses, très mellifère.",
+    "images": [
+      "/images/084_1.jpg",
+      "/images/084_2.jpg",
+      "/images/084_3.jpg",
+      "/images/084_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Lactuca serriola",
+    "vernacularName": "Laitue scariole",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle ou bisannuelle",
+    "heightCm": "40-120",
+    "flowering": "7-9",
+    "color": "Jaune pâle",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec",
+    "soilPh": "Basique à neutre",
+    "interest": "Laitue boussole (les feuilles s'orientent nord-sud), ancêtre de la laitue cultivée.",
+    "images": [
+      "/images/085_1.jpg",
+      "/images/085_2.jpg",
+      "/images/085_3.jpg",
+      "/images/085_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "xérique"
+  },
+  {
+    "scientificName": "Lamium album",
+    "vernacularName": "Lamier blanc",
+    "genreOnly": false,
+    "family": "Lamiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "20-50",
+    "flowering": "4-10",
+    "color": "Blanc",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre",
+    "interest": "Ortie blanche (ne pique pas), fleurs à nectar sucré apprécié des enfants.",
+    "images": [
+      "/images/086_1.jpg",
+      "/images/086_2.jpg",
+      "/images/086_3.jpg",
+      "/images/086_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Lamium galeobdolon",
+    "vernacularName": "Lamier jaune",
+    "genreOnly": false,
+    "family": "Lamiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "15-40",
+    "flowering": "4-6",
+    "color": "Jaune",
+    "exposure": "Ombre, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à acide",
+    "interest": "Plante de forêt, fleurs jaunes avec des taches brunes sur la lèvre inférieure.",
+    "images": [
+      "/images/087_1.jpg",
+      "/images/087_2.jpg",
+      "/images/087_3.jpg",
+      "/images/087_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Lamium purpureum",
+    "vernacularName": "Lamier pourpre",
+    "genreOnly": false,
+    "family": "Lamiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle",
+    "heightCm": "10-30",
+    "flowering": "3-10",
+    "color": "Rose-pourpre",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre",
+    "interest": "Plante pionnière des jardins, sommet du feuillage souvent teinté de violet.",
+    "images": [
+      "/images/088_1.jpg",
+      "/images/088_2.jpg",
+      "/images/088_3.jpg",
+      "/images/088_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Lapsana vulgaris",
+    "vernacularName": "Lampsane",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Annuelle",
+    "heightCm": "30-100",
+    "flowering": "6-9",
+    "color": "Jaune",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Neutre à basique",
+    "interest": "Petits capitules jaunes s'ouvrant seulement le matin.",
+    "images": [
+      "/images/089_1.jpg",
+      "/images/089_2.jpg",
+      "/images/089_3.jpg",
+      "/images/089_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Lathyrus pratensis",
+    "vernacularName": "Gesse des prés",
+    "genreOnly": true,
+    "family": "Fabaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-100",
+    "flowering": "6-8",
+    "color": "Jaune",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Plante grimpante à fleurs jaunes en grappes, feuilles à une paire de folioles.",
+    "images": [
+      "/images/090_1.jpg",
+      "/images/090_2.jpg",
+      "/images/090_3.jpg",
+      "/images/090_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Leucanthemum vulgare",
+    "vernacularName": "Grande marguerite",
+    "genreOnly": false,
+    "family": "Asteraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-70",
+    "flowering": "5-7",
+    "color": "Blanc, Cœur jaune",
+    "exposure": "Soleil",
+    "soilMoisture": "Frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Fleur emblématique des prairies de fauche, très robuste.",
+    "images": [
+      "/images/091_1.jpg",
+      "/images/091_2.jpg",
+      "/images/091_3.jpg",
+      "/images/091_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
+  },
+  {
+    "scientificName": "Linaria vulgaris",
+    "vernacularName": "Linaire commune",
+    "genreOnly": false,
+    "family": "Plantaginaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-60",
+    "flowering": "6-10",
+    "color": "Jaune et Orange",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec",
+    "soilPh": "Neutre à basique",
+    "interest": "Fleurs en forme de 'gueule de loup' avec un éperon, jaune vif.",
+    "images": [
+      "/images/092_1.jpg",
+      "/images/092_2.jpg",
+      "/images/092_3.jpg",
+      "/images/092_4.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "xérique"
+  },
+  {
+    "scientificName": "Lotus corniculatus",
+    "vernacularName": "Lotier corniculé",
+    "genreOnly": false,
+    "family": "Fabaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "10-40",
+    "flowering": "5-9",
+    "color": "Jaune, parfois strié de rouge",
+    "exposure": "Soleil",
+    "soilMoisture": "Sec à frais",
+    "soilPh": "Basique à neutre",
+    "interest": "Plante fourragère mellifère, fleurs groupées évoquant de petites cornes.",
+    "images": [
+      "/images/093_1.jpg",
+      "/images/093_2.jpg",
+      "/images/093_3.jpg",
+      "/images/093_4.jpg"
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "mésique"
+  },
+  {
+    "scientificName": "Lychnis flos-cuculi",
+    "vernacularName": "Lychnis fleur de coucou",
+    "genreOnly": false,
+    "family": "Caryophyllaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-80",
+    "flowering": "5-7",
+    "color": "Rose",
+    "exposure": "Soleil, Mi-ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Neutre à acide",
+    "interest": "Pétales découpés en lanières fines, typique des prairies humides.",
+    "images": [
+      "/images/094_1.jpg",
+      "/images/094_2.jpg",
+      "/images/094_3.jpg",
+      "/images/094_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Lycopus europaeus",
+    "vernacularName": "Lycope d'Europe",
+    "genreOnly": false,
+    "family": "Lamiaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "30-90",
+    "flowering": "7-9",
+    "color": "Blanc tacheté de pourpre",
+    "exposure": "Mi-ombre",
+    "soilMoisture": "Détrempé/Humide",
+    "soilPh": "Neutre à acide",
+    "interest": "Plante des berges, tiges carrées et feuilles profondément dentées.",
+    "images": [
+      "/images/095_1.jpg",
+      "/images/095_2.jpg",
+      "/images/095_3.jpg",
+      "/images/095_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Lysimachia nummularia",
+    "vernacularName": "Lysimaque nummulaire",
+    "genreOnly": false,
+    "family": "Primulaceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "5-10",
+    "flowering": "6-8",
+    "color": "Jaune",
+    "exposure": "Mi-ombre, ombre",
+    "soilMoisture": "Humide",
+    "soilPh": "Neutre",
+    "interest": "Rampante. Herbe aux écus, feuilles rondes opposées, excellent couvre-sol humide.",
+    "images": [
+      "/images/096_1.jpg",
+      "/images/096_2.jpg",
+      "/images/096_3.jpg",
+      "/images/096_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
+  },
+  {
+    "scientificName": "Lythrum salicaria",
+    "vernacularName": "Salicaire commune",
+    "genreOnly": false,
+    "family": "Lythraceae",
+    "exotic": false,
+    "invasive": false,
+    "type": "Vivace",
+    "heightCm": "60-150",
+    "flowering": "6-9",
+    "color": "Pourpre-rose",
+    "exposure": "Soleil",
+    "soilMoisture": "Humide à détrempé",
+    "soilPh": "Neutre",
+    "interest": "Grands épis colorés au bord de l'eau, très mellifère.",
+    "images": [
+      "/images/097_1.jpg",
+      "/images/097_2.jpg",
+      "/images/097_3.jpg",
+      "/images/097_4.jpg"
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Matricaria discoidea",
@@ -2121,7 +2753,9 @@
     "images": [
       "/images/098_1.jpg",
       "/images/098_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Medicago lupulina",
@@ -2143,7 +2777,9 @@
       "/images/099_2.jpg",
       "/images/099_3.jpg",
       "/images/099_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Melampyrum pratense",
@@ -2165,7 +2801,9 @@
       "/images/100_2.jpg",
       "/images/100_3.jpg",
       "/images/100_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Melilotus albus",
@@ -2186,7 +2824,9 @@
       "/images/101_1.jpg",
       "/images/101_2.jpg",
       "/images/101_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Melilotus officinalis",
@@ -2208,7 +2848,9 @@
       "/images/102_2.jpg",
       "/images/102_3.jpg",
       "/images/102_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Mercurialis perennis",
@@ -2229,7 +2871,9 @@
       "/images/103_1.jpg",
       "/images/103_2.jpg",
       "/images/103_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Myosotis arvensis",
@@ -2248,7 +2892,9 @@
     "interest": "Petites fleurs bleues à cœur jaune, se ressème facilement.",
     "images": [
       "/images/104_1.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Narcissus pseudonarcissus",
@@ -2269,7 +2915,9 @@
       "/images/105_1.jpg",
       "/images/105_2.jpg",
       "/images/105_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Nuphar lutea",
@@ -2291,7 +2939,9 @@
       "/images/106_2.jpg",
       "/images/106_3.jpg",
       "/images/106_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Nymphaea alba",
@@ -2312,7 +2962,9 @@
       "/images/107_1.jpg",
       "/images/107_2.jpg",
       "/images/107_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Oenothera biennis",
@@ -2333,7 +2985,9 @@
       "/images/108_1.jpg",
       "/images/108_2.jpg",
       "/images/108_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
     "scientificName": "Ophrys apifera",
@@ -2355,7 +3009,9 @@
       "/images/109_2.jpg",
       "/images/109_3.jpg",
       "/images/109_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Orchis mascula",
@@ -2377,7 +3033,9 @@
       "/images/110_2.jpg",
       "/images/110_3.jpg",
       "/images/110_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Dactylorhiza maculata",
@@ -2399,7 +3057,9 @@
       "/images/111_2.jpg",
       "/images/111_3.jpg",
       "/images/111_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Origanum vulgare",
@@ -2420,7 +3080,9 @@
       "/images/112_1.jpg",
       "/images/112_2.jpg",
       "/images/112_3.jpg"
-    ]
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
     "scientificName": "Oxalis acetosella",
@@ -2442,7 +3104,9 @@
       "/images/113_2.jpg",
       "/images/113_3.jpg",
       "/images/113_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Papaver rhoeas",
@@ -2464,7 +3128,9 @@
       "/images/114_2.jpg",
       "/images/114_3.jpg",
       "/images/114_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Paris quadrifolia",
@@ -2486,7 +3152,9 @@
       "/images/115_2.jpg",
       "/images/115_3.jpg",
       "/images/115_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Persicaria bistorta",
@@ -2506,7 +3174,9 @@
     "images": [
       "/images/116_1.jpg",
       "/images/116_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Persicaria maculosa",
@@ -2527,7 +3197,9 @@
       "/images/117_1.jpg",
       "/images/117_2.jpg",
       "/images/117_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Phragmites australis",
@@ -2547,7 +3219,9 @@
     "images": [
       "/images/118_1.jpg",
       "/images/118_2.jpg"
-    ]
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Plantago lanceolata",
@@ -2568,7 +3242,9 @@
       "/images/119_1.jpg",
       "/images/119_2.jpg",
       "/images/119_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Plantago major",
@@ -2590,7 +3266,9 @@
       "/images/120_2.jpg",
       "/images/120_3.jpg",
       "/images/120_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Polygonatum multiflorum",
@@ -2613,7 +3291,9 @@
       "/images/121_3.jpg",
       "/images/121_4.jpg",
       "/images/121_5.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Potentilla anserina",
@@ -2634,7 +3314,9 @@
       "/images/122_1.jpg",
       "/images/122_2.jpg",
       "/images/122_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Potentilla reptans",
@@ -2656,7 +3338,9 @@
       "/images/123_2.jpg",
       "/images/123_3.jpg",
       "/images/123_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Potentilla sterilis",
@@ -2678,7 +3362,9 @@
       "/images/124_2.jpg",
       "/images/124_3.jpg",
       "/images/124_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Primula elatior",
@@ -2699,7 +3385,9 @@
       "/images/125_1.jpg",
       "/images/125_2.jpg",
       "/images/125_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Primula veris",
@@ -2720,7 +3408,9 @@
       "/images/126_1.jpg",
       "/images/126_2.jpg",
       "/images/126_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Prunella vulgaris",
@@ -2741,7 +3431,9 @@
       "/images/127_1.jpg",
       "/images/127_2.jpg",
       "/images/127_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Pulmonaria officinalis",
@@ -2762,7 +3454,9 @@
       "/images/128_1.jpg",
       "/images/128_2.jpg",
       "/images/128_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Ranunculus acris",
@@ -2783,7 +3477,9 @@
       "/images/129_1.jpg",
       "/images/129_2.jpg",
       "/images/129_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Ranunculus ficaria",
@@ -2803,7 +3499,9 @@
     "images": [
       "/images/130_1.jpg",
       "/images/130_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Ranunculus repens",
@@ -2824,7 +3522,9 @@
       "/images/131_1.jpg",
       "/images/131_2.jpg",
       "/images/131_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Reseda lutea",
@@ -2846,7 +3546,9 @@
       "/images/132_2.jpg",
       "/images/132_3.jpg",
       "/images/132_4.jpg"
-    ]
+    ],
+    "soilTrophy": "oligotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
     "scientificName": "Reseda luteola",
@@ -2868,7 +3570,9 @@
       "/images/133_2.jpg",
       "/images/133_3.jpg",
       "/images/133_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
     "scientificName": "Rosa canina",
@@ -2890,7 +3594,9 @@
       "/images/134_2.jpg",
       "/images/134_3.jpg",
       "/images/134_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Rubus spp.",
@@ -2910,7 +3616,9 @@
     "images": [
       "/images/135_1.jpg",
       "/images/135_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Rumex crispus",
@@ -2932,7 +3640,9 @@
       "/images/136_2.jpg",
       "/images/136_3.jpg",
       "/images/136_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Sanguisorba minor",
@@ -2954,7 +3664,9 @@
       "/images/137_2.jpg",
       "/images/137_3.jpg",
       "/images/137_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
     "scientificName": "Scrophularia nodosa",
@@ -2974,7 +3686,9 @@
     "images": [
       "/images/138_1.jpg",
       "/images/138_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Sedum acre",
@@ -2996,7 +3710,9 @@
       "/images/139_2.jpg",
       "/images/139_3.jpg",
       "/images/139_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
     "scientificName": "Sedum album",
@@ -3017,7 +3733,9 @@
       "/images/140_1.jpg",
       "/images/140_2.jpg",
       "/images/140_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
     "scientificName": "Senecio jacobaea",
@@ -3037,7 +3755,9 @@
     "images": [
       "/images/141_1.jpg",
       "/images/141_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Senecio ovatus",
@@ -3057,7 +3777,9 @@
     "images": [
       "/images/142_1.jpg",
       "/images/142_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Senecio vulgaris",
@@ -3078,7 +3800,9 @@
       "/images/143_1.jpg",
       "/images/143_2.jpg",
       "/images/143_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Silene dioica",
@@ -3099,7 +3823,9 @@
       "/images/144_1.jpg",
       "/images/144_2.jpg",
       "/images/144_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Silene latifolia",
@@ -3119,7 +3845,9 @@
     "images": [
       "/images/145_1.jpg",
       "/images/145_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Solanum dulcamara",
@@ -3141,7 +3869,9 @@
       "/images/146_2.jpg",
       "/images/146_3.jpg",
       "/images/146_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Solanum nigrum",
@@ -3163,7 +3893,9 @@
       "/images/147_2.jpg",
       "/images/147_3.jpg",
       "/images/147_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Sonchus asper",
@@ -3184,7 +3916,9 @@
       "/images/148_1.jpg",
       "/images/148_2.jpg",
       "/images/148_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Sparganium erectum",
@@ -3205,7 +3939,9 @@
       "/images/149_1.jpg",
       "/images/149_2.jpg",
       "/images/149_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Stachys officinalis",
@@ -3227,7 +3963,9 @@
       "/images/150_2.jpg",
       "/images/150_3.jpg",
       "/images/150_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Stachys sylvatica",
@@ -3248,7 +3986,9 @@
       "/images/151_1.jpg",
       "/images/151_2.jpg",
       "/images/151_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Stellaria holostea",
@@ -3269,7 +4009,9 @@
       "/images/152_1.jpg",
       "/images/152_2.jpg",
       "/images/152_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Stellaria media",
@@ -3291,7 +4033,9 @@
       "/images/153_2.jpg",
       "/images/153_3.jpg",
       "/images/153_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Succisa pratensis",
@@ -3313,7 +4057,9 @@
       "/images/154_2.jpg",
       "/images/154_3.jpg",
       "/images/154_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Symphytum officinale",
@@ -3335,7 +4081,9 @@
       "/images/155_2.jpg",
       "/images/155_3.jpg",
       "/images/155_4.jpg"
-    ]
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Tanacetum vulgare",
@@ -3356,7 +4104,9 @@
       "/images/156_1.jpg",
       "/images/156_2.jpg",
       "/images/156_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Taraxacum spp.*",
@@ -3377,7 +4127,9 @@
       "/images/157_1.jpg",
       "/images/157_2.jpg",
       "/images/157_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Teucrium scorodonia",
@@ -3399,7 +4151,9 @@
       "/images/158_2.jpg",
       "/images/158_3.jpg",
       "/images/158_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Thlaspi arvense",
@@ -3421,7 +4175,9 @@
       "/images/159_2.jpg",
       "/images/159_3.jpg",
       "/images/159_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Thymus pulegioides",
@@ -3442,7 +4198,9 @@
       "/images/160_1.jpg",
       "/images/160_2.jpg",
       "/images/160_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
     "scientificName": "Tragopogon pratensis",
@@ -3464,7 +4222,9 @@
       "/images/161_2.jpg",
       "/images/161_3.jpg",
       "/images/161_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Trifolium pratense",
@@ -3485,7 +4245,9 @@
       "/images/162_1.jpg",
       "/images/162_2.jpg",
       "/images/162_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Trifolium repens",
@@ -3506,7 +4268,9 @@
       "/images/163_1.jpg",
       "/images/163_2.jpg",
       "/images/163_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Tussilago farfara",
@@ -3528,7 +4292,9 @@
       "/images/164_2.jpg",
       "/images/164_3.jpg",
       "/images/164_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Typha latifolia",
@@ -3549,7 +4315,9 @@
       "/images/165_1.jpg",
       "/images/165_2.jpg",
       "/images/165_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Urtica dioica",
@@ -3570,7 +4338,9 @@
       "/images/166_1.jpg",
       "/images/166_2.jpg",
       "/images/166_3.jpg"
-    ]
+    ],
+    "soilTrophy": "eutrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Vaccinium myrtillus",
@@ -3590,7 +4360,9 @@
     "images": [
       "/images/167_1.jpg",
       "/images/167_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Valeriana repens",
@@ -3612,7 +4384,9 @@
       "/images/168_2.jpg",
       "/images/168_3.jpg",
       "/images/168_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Valerianella locusta",
@@ -3634,7 +4408,9 @@
       "/images/169_2.jpg",
       "/images/169_3.jpg",
       "/images/169_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Verbascum thapsus",
@@ -3655,7 +4431,9 @@
       "/images/170_1.jpg",
       "/images/170_2.jpg",
       "/images/170_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "xérique"
   },
   {
     "scientificName": "Veronica chamaedrys",
@@ -3676,7 +4454,9 @@
       "/images/171_1.jpg",
       "/images/171_2.jpg",
       "/images/171_3.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Veronica persica",
@@ -3696,7 +4476,9 @@
     "images": [
       "/images/172_1.jpg",
       "/images/172_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Vicia cracca",
@@ -3716,7 +4498,9 @@
     "images": [
       "/images/173_1.jpg",
       "/images/173_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Vicia sepium",
@@ -3738,7 +4522,9 @@
       "/images/174_2.jpg",
       "/images/174_3.jpg",
       "/images/174_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Vinca minor",
@@ -3760,7 +4546,9 @@
       "/images/175_2.jpg",
       "/images/175_3.jpg",
       "/images/175_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Viola arvensis",
@@ -3782,7 +4570,9 @@
       "/images/176_2.jpg",
       "/images/176_3.jpg",
       "/images/176_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Viola reichenbachiana*",
@@ -3804,7 +4594,9 @@
       "/images/177_2.jpg",
       "/images/177_3.jpg",
       "/images/177_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Viola riviniana",
@@ -3826,7 +4618,9 @@
       "/images/178_2.jpg",
       "/images/178_3.jpg",
       "/images/178_4.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Viscum album",
@@ -3846,7 +4640,9 @@
     "images": [
       "/images/179_1.jpg",
       "/images/179_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Alopecurus pratensis",
@@ -3866,7 +4662,9 @@
     "images": [
       "/images/180_1.jpg",
       "/images/180_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Anthoxanthum odoratum",
@@ -3886,7 +4684,9 @@
     "images": [
       "/images/181_1.jpg",
       "/images/181_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Arrhenatherum elatius",
@@ -3906,7 +4706,9 @@
     "images": [
       "/images/182_1.jpg",
       "/images/182_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Briza media",
@@ -3926,7 +4728,9 @@
     "images": [
       "/images/183_1.jpg",
       "/images/183_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Dactylis glomerata",
@@ -3946,7 +4750,9 @@
     "images": [
       "/images/184_1.jpg",
       "/images/184_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Elymus repens",
@@ -3966,7 +4772,9 @@
     "images": [
       "/images/185_1.jpg",
       "/images/185_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Lolium perenne",
@@ -3986,7 +4794,9 @@
     "images": [
       "/images/186_1.jpg",
       "/images/186_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   },
   {
     "scientificName": "Phleum pratense",
@@ -4006,7 +4816,9 @@
     "images": [
       "/images/187_1.jpg",
       "/images/187_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "marécageux"
   },
   {
     "scientificName": "Poa pratensis",
@@ -4026,7 +4838,9 @@
     "images": [
       "/images/188_1.jpg",
       "/images/188_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "mésique"
   },
   {
     "scientificName": "Trisetum favescens",
@@ -4046,6 +4860,8 @@
     "images": [
       "/images/189_1.jpg",
       "/images/189_2.jpg"
-    ]
+    ],
+    "soilTrophy": "mesotrophe",
+    "soilHumidityClass": "frais"
   }
 ]
