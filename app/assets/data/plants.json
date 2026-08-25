@@ -18,9 +18,9 @@
       "/images/z01_1.jpg",
       "/images/z01_2.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "xérique",
-    "trophicLevel": "oligotrophe",
+    "trophicLevel": "Oligotrophe",
     "humidityLevel": "xérique",
     "ellenbergN": 2,
     "ellenbergF": 2,
@@ -46,7 +46,7 @@
       "/images/z02_1.jpg",
       "/images/z02_2.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "mésique",
     "trophicLevel": "oligo-mésotrophe",
     "humidityLevel": "xéro-mésique",
@@ -74,7 +74,7 @@
       "/images/z03_1.jpg",
       "/images/z03_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique",
     "trophicLevel": "mésotrophe",
     "humidityLevel": "mésique",
@@ -103,7 +103,7 @@
       "/images/z04_2.jpg",
       "/images/z04_3.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais",
     "trophicLevel": "mésotrophe",
     "humidityLevel": "frais",
@@ -132,7 +132,7 @@
       "/images/z05_2.jpg",
       "/images/z05_3.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "xérique",
     "trophicLevel": "oligo-mésotrophe",
     "humidityLevel": "xérique",
@@ -160,7 +160,7 @@
       "/images/z06_1.jpg",
       "/images/z06_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais",
     "trophicLevel": "mésotrophe",
     "humidityLevel": "mésique",
@@ -189,7 +189,7 @@
       "/images/z07_2.jpg",
       "/images/z07_3.jpg"
     ],
-    "soilTrophy": "oligotrophe",
+    "soilTrophy": "Oligotrophe",
     "soilHumidityClass": "mésique",
     "trophicLevel": "oligo-mésotrophe",
     "humidityLevel": "mésique",
@@ -217,7 +217,7 @@
       "/images/z08_1.jpg",
       "/images/z08_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "frais",
     "trophicLevel": "méso-eutrophe",
     "humidityLevel": "frais",
@@ -245,7 +245,7 @@
       "/images/z09_1.jpg",
       "/images/z09_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique",
     "trophicLevel": "méso-eutrophe",
     "humidityLevel": "mésique",
@@ -273,7 +273,7 @@
       "/images/z10_1.jpg",
       "/images/z10_2.jpg"
     ],
-    "soilTrophy": "mesotrophe",
+    "soilTrophy": "Mesotrophe",
     "soilHumidityClass": "mésique",
     "trophicLevel": "oligo-mésotrophe",
     "humidityLevel": "xéro-mésique",
