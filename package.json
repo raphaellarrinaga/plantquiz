@@ -3,13 +3,10 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "prebuild": "node scripts/fetch-plants.mjs",
-    "predev": "node scripts/fetch-plants.mjs",
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "generate:data": "node scripts/fetch-plants.mjs",
+    "dev": "npm run generate:data && nuxt dev",
+    "build": "npm run generate:data && nuxt build",
+    "generate": "npm run generate:data && nuxt generate"
   },
   "dependencies": {
     "@nuxt/image": "2.0.0",
