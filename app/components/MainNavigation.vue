@@ -7,6 +7,11 @@
         </NuxtLink>
       </li>
       <li class="nav-list__item">
+        <NuxtLink to="/table" class="nav-list__link">
+          Tableau
+        </NuxtLink>
+      </li>
+      <li class="nav-list__item">
         <NuxtLink to="/list" class="nav-list__link">
           Liste
         </NuxtLink>

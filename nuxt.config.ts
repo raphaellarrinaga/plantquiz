@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 import { defineNuxtConfig } from 'nuxt/config'
+import { fileURLToPath } from 'node:url'
 
 export default defineNuxtConfig({
   compatibilityDate: '2026-01-27',
@@ -12,6 +13,10 @@ export default defineNuxtConfig({
   components: true,
 
   // modules: ['@nuxtjs/google-fonts'],
+
+  alias: {
+    '#data': fileURLToPath(new URL('./content', import.meta.url)),
+  },
 
   // Global page headers: https://nuxt.com/docs/4.x/getting-started/seo-meta
   app: {
@@ -39,7 +44,13 @@ export default defineNuxtConfig({
   },
 
   // PWA module configuration.
-  modules: ['@vite-pwa/nuxt', '@nuxt/image'],
+  modules: [
+    '@pinia/nuxt',
+    '@vueuse/nuxt',
+    '@vite-pwa/nuxt',
+    '@nuxt/image'
+  ],
+
   pwa: {
     // Test in dev mode
     // devOptions: {

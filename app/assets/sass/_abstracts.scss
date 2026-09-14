@@ -3,9 +3,39 @@
 $white: #fefefe;
 $color-primary: #541E76;
 $color-secondary: #F7D744;
-$page-color: $white;
+$page-color: #f8f9fd;
+$page-color-darker: #e4e8f7;
 $text-color: #111;
 $text-mid: #929292;
 $text-light: #cacaca;
-$border: #f0f0f0;
-$border-dark: #838383;
+$border: #eaeaea;
+// $border-dark: #838383;
+$border-dark: #d0d0d0;
+$link-color: #1e6b76;
+
+// Mixins
+
+// Pseudo element
+// Create an empty css pseudo element. Reusable for, e.g., icons
+@mixin el($display, $width, $height) {
+  content: '';
+  display: $display;
+
+  @if $height {
+    height: $height;
+  }
+  @if $width {
+    width: $width;
+  }
+}
+
+// Only readable for screen readers.
+@mixin sr {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}

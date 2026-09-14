@@ -16,7 +16,7 @@
             <option value="family">Famille</option>
           </select>
         </div>
-        <div class="form-group">
+        <div class="form-group form-group--quiz">
           <span class="form-group__label">Filtre</span>
           <select class="form-item form-item__select" v-model="selectedFamily">
             <option value="">Famille</option>
@@ -38,16 +38,6 @@
               {{ soilTrophy }}
             </option>
           </select>
-          <!-- <select class="form-item form-item__select" v-model="selectedType">
-            <option value="">Type</option>
-            <option
-              v-for="type in types"
-              :key="type"
-              :value="type"
-            >
-              {{ type }}
-            </option>
-          </select> -->
           <label class="form-item form-item__checkbox button">
             <input
               type="checkbox"
