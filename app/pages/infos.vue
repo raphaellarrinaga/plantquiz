@@ -2,16 +2,16 @@
   <div class="content">
     <div class="page">
       <header class="page-header">
-        <!-- <h1 class="page-title">
+        <h1 class="page-title">
           <NuxtLink to="/" class="nav-list__link">
-            <span class="page-title__text">Plant quiz</span>
+            <span class="page-title__text">Ecoplants</span>
             <img src="~/assets/images/logo.svg" data-not-lazy />
           </NuxtLink>
-        </h1> -->
+        </h1>
         <MainNavigation/>
       </header>
 
-      <div class="main-text">
+      <div class="main-text l-constrain">
         <h3>À propos</h3>
         <p>Application réalisée dans le cadre de la formation <a href="https://www.natagora.be/news/biodiversite-en-espaces-verts-une-formation-pour-les-professionnels-du-secteur">Biodiversité en espaces verts</a> de Natagora.</p>
         <p>La liste des plantes a été extraite du pdf "Plantes à connaître pour examen.pdf".</p>

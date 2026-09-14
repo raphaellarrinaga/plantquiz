@@ -1,11 +1,16 @@
 <template>
   <div class="page">
-
     <header class="page-header">
+      <h1 class="page-title">
+        <NuxtLink to="/" class="nav-list__link">
+          <span class="page-title__text">Ecoplants</span>
+          <img src="~/assets/images/logo.svg" data-not-lazy />
+        </NuxtLink>
+      </h1>
       <MainNavigation/>
     </header>
 
-    <section v-if="plants && plants.length > 0">
+    <section v-if="plants && plants.length > 0" class="l-constrain">
       <div class="controls">
         <div class="form-group">
           <span class="form-group__label">Tri</span>
@@ -75,7 +80,7 @@
       </div>
     </section>
 
-    <section v-else class="empty-state">
+    <section v-else class="empty-state l-constrain">
       <p>Aucune plante trouvée pour le moment.</p>
     </section>
 

@@ -1,11 +1,17 @@
 <template>
   <div class="page">
     <header class="page-header">
+      <h1 class="page-title">
+        <NuxtLink to="/" class="nav-list__link">
+          <span class="page-title__text">Ecoplants</span>
+          <img src="~/assets/images/logo.svg" data-not-lazy />
+        </NuxtLink>
+      </h1>
       <MainNavigation/>
     </header>
 
 
-    <ul v-if="plants.length" class="plants-list">
+    <ul v-if="plants.length" class="plants-list l-constrain">
       <li
         v-for="(item, index) in plants"
         :class="{

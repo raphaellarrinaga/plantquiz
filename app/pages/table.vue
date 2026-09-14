@@ -13,7 +13,7 @@
 
     <PlantFilter v-if="store.plants.length" />
 
-    <div v-if="store.layout === 'table'" class="plants__header">
+    <div v-if="store.layout === 'table'" class="plants__header l-constrain">
       <span class="plants__header-latin">Nom</span>
       <span class="plants__header-categorie">Catégorie</span>
       <span class="plants__header-type">Type</span>
@@ -23,7 +23,7 @@
       <span class="plants__header-actions" />
     </div>
 
-    <div class="plants">
+    <div class="plants l-constrain">
       <div v-if="store.filteredPlants.length" :class="{ 'plants-layout-grid': store.layout === 'grid' }">
         <article
           v-for="plant in store.filteredPlants"

@@ -55,7 +55,7 @@ onMounted(() => store.initHeightRange())
 </script>
 
 <template>
-  <div class="form">
+  <div class="form l-constrain">
     <div class="form-filter">
       <div class="form-item form-item--search">
         <input v-model="searchInput" type="search" class="input-search"
